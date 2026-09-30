@@ -1,0 +1,495 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+  "profile": {
+    "title": "Yanoka Job Radar",
+    "subtitle": "Flexible expert work + biotech/lab · Remote US + East Bay CA",
+    "emoji": "🎯"
+  },
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
+    "include": [
+      "ai trainer",
+      "ai evaluator",
+      "ai expert",
+      "domain expert",
+      "subject matter expert",
+      "llm evaluator",
+      "model evaluator",
+      "cad",
+      "3d model",
+      "3d design",
+      "fusion 360",
+      "civil engineer",
+      "engineering expert",
+      "engineering specialist",
+      "computational biology",
+      "bioinformatics",
+      "biology expert",
+      "life science",
+      "biomedical",
+      "scientific evaluator",
+      "data science",
+      "data analyst",
+      "statistics",
+      "python",
+      "russian",
+      "lab technician",
+      "laboratory technician",
+      "lab assistant",
+      "laboratory assistant",
+      "research assistant",
+      "sample processing",
+      "specimen processing",
+      "specimen processor",
+      "accessioning",
+      "clinical lab",
+      "clinical laboratory",
+      "research technician",
+      "research associate",
+      "r&d technician",
+      "qc technician",
+      "quality control technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "manufacturing associate",
+      "microscopy",
+      "automation technician"
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
+    "exclude": [
+      "director",
+      "vice president",
+      "vp ",
+      "principal scientist",
+      "staff scientist",
+      "senior director",
+      "medical doctor",
+      "physician",
+      "registered nurse"
+    ],
+    "_fuzzy_comment": "Optional fuzzy pre-filter for LinkedIn title matching. When both fuzzy_seniority and fuzzy_domain are non-empty, role_is_relevant() uses these instead of the exact-phrase keywords.include filter. Catches title variants like 'Director, Engineering' when searching for 'Engineering Director'. Leave all three empty to use keyword-only matching.",
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
+  },
+  "search_terms": {
+    "_comment": [
+      "AI trainer",
+      "AI evaluator",
+      "domain expert AI",
+      "subject matter expert AI",
+      "CAD AI",
+      "3D modeling AI",
+      "civil engineering AI",
+      "computational biology AI",
+      "biology AI",
+      "statistics AI",
+      "Python AI",
+      "Russian AI evaluator",
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "linkedin": [
+      "AI trainer",
+      "AI evaluator",
+      "domain expert AI",
+      "subject matter expert AI",
+      "CAD AI",
+      "3D modeling AI",
+      "civil engineering AI",
+      "computational biology AI",
+      "biology AI",
+      "statistics AI",
+      "Python AI",
+      "Russian AI evaluator",
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "indeed": [
+      "AI trainer",
+      "AI evaluator",
+      "domain expert AI",
+      "subject matter expert AI",
+      "CAD AI",
+      "3D modeling AI",
+      "civil engineering AI",
+      "computational biology AI",
+      "biology AI",
+      "statistics AI",
+      "Python AI",
+      "Russian AI evaluator",
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "glassdoor": [
+      "AI trainer",
+      "AI evaluator",
+      "domain expert AI",
+      "subject matter expert AI",
+      "CAD AI",
+      "3D modeling AI",
+      "civil engineering AI",
+      "computational biology AI",
+      "biology AI",
+      "statistics AI",
+      "Python AI",
+      "Russian AI evaluator",
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "ziprecruiter": [
+      "AI trainer",
+      "AI evaluator",
+      "domain expert AI",
+      "subject matter expert AI",
+      "CAD AI",
+      "3D modeling AI",
+      "civil engineering AI",
+      "computational biology AI",
+      "biology AI",
+      "statistics AI",
+      "Python AI",
+      "Russian AI evaluator",
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "google_jobs": [
+      "AI trainer",
+      "AI evaluator",
+      "domain expert AI",
+      "subject matter expert AI",
+      "CAD AI",
+      "3D modeling AI",
+      "civil engineering AI",
+      "computational biology AI",
+      "biology AI",
+      "statistics AI",
+      "Python AI",
+      "Russian AI evaluator",
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "hiring_cafe": [
+      "AI trainer",
+      "AI evaluator",
+      "domain expert AI",
+      "subject matter expert AI",
+      "CAD AI",
+      "3D modeling AI",
+      "civil engineering AI",
+      "computational biology AI",
+      "biology AI",
+      "statistics AI",
+      "Python AI",
+      "Russian AI evaluator",
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "calcareers": [
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "usajobs": [
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "governmentjobs": [
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ],
+    "workday": [
+      "lab technician",
+      "laboratory technician",
+      "sample processing",
+      "specimen processing",
+      "accessioning",
+      "research technician",
+      "research associate",
+      "QC technician",
+      "biotech manufacturing",
+      "biomanufacturing",
+      "laboratory automation"
+    ]
+  },
+  "locations": {
+    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
+    "linkedin": [
+      {
+        "name": "Remote US",
+        "location": "United States",
+        "geoId": "103644278"
+      },
+      {
+        "name": "East Bay CA",
+        "location": "San Francisco Bay Area",
+        "geoId": "90000084"
+      },
+      {
+        "name": "California",
+        "location": "California, United States",
+        "geoId": "102095887"
+      }
+    ],
+    "indeed": [
+      {
+        "location": "California",
+        "country": "USA"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "California",
+        "country": "USA"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "California",
+        "country": "USA"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "California",
+        "country": "USA"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "United States"
+      }
+    ],
+    "_linkedin_partitions_comment": "Optional. Used by --linkedin-emit-matrix / --linkedin-backfill-partition for parallel backfill. Each state gets one matrix worker per search term. High-volume states can be day-sliced to work around LinkedIn's ~1000 result/query cap. Leave empty to use single-run backfill (--linkedin-backfill).",
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+  "location_filter": {
+    "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards that don't support geo-scoping at the API level: the curated direct-ATS sweep, and NEOGOV/GovernmentJobs.com (a nationwide board). Keep this in sync with your locations.* entries above.",
+    "terms": [
+      "remote",
+      "united states",
+      "california",
+      ", ca",
+      "bay area",
+      "san francisco",
+      "south san francisco",
+      "oakland",
+      "berkeley",
+      "emeryville",
+      "fremont",
+      "union city",
+      "hayward",
+      "pleasanton",
+      "dublin",
+      "livermore",
+      "tracy",
+      "mountain house",
+      "mountain view",
+      "palo alto",
+      "redwood city",
+      "san mateo",
+      "santa clara",
+      "san jose"
+    ]
+  },
+  "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries. Leave empty to auto-build queries such as '<term> jobs near <location> since yesterday' from search_terms.google_jobs and locations.google_jobs. If the free JobSpy path is blocked, set SERPAPI_API_KEY or OXYLABS_USERNAME/OXYLABS_PASSWORD as GitHub Actions secrets for an API fallback.",
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "jobspy": {
+    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret/env var for private proxy credentials. Use only if JobSpy-backed boards are blocked.",
+    "proxies": [],
+    "user_agent": ""
+  },
+  "hiring_cafe": {
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages caps SEO pagination per query; the public route currently defaults to United States.",
+    "max_pages": 3
+  },
+  "employers": {
+    "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
+    "priority": [
+      "Prolific",
+      "Mercor",
+      "RWS",
+      "Welocalize",
+      "TELUS Digital",
+      "Turing",
+      "DataAnnotation",
+      "Outlier",
+      "Alignerr",
+      "Lawrence Livermore",
+      "LLNL",
+      "Stanford",
+      "Quest Diagnostics",
+      "Labcorp",
+      "Thermo Fisher",
+      "Grail",
+      "Guardant Health",
+      "10x Genomics",
+      "Genentech"
+    ],
+    "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
+    "exclude": []
+  },
+  "priority_topics": {
+    "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
+    "terms": [
+      [
+        "Flexible AI / Expert",
+        "ai trainer|ai evaluator|domain expert|subject matter expert|llm|model evaluator"
+      ],
+      [
+        "CAD / Engineering",
+        "\\bcad\\b|fusion 360|3d model|civil engineer|engineering expert"
+      ],
+      [
+        "Computational Biology",
+        "computational biology|bioinformatics|biology expert|life science"
+      ],
+      [
+        "Russian",
+        "russian"
+      ],
+      [
+        "Lab Career",
+        "lab technician|laboratory technician|sample processing|specimen|accession|research technician|quality control|biomanufactur|laboratory automation"
+      ]
+    ]
+  },
+  "role_categories": {
+    "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
+    "terms": [
+      [
+        "AI / Expert",
+        "ai trainer|ai evaluator|domain expert|subject matter expert|llm|model evaluator"
+      ],
+      [
+        "CAD / Engineering",
+        "cad|3d model|fusion|civil engineer|engineering"
+      ],
+      [
+        "Computational Biology",
+        "computational biology|bioinformatics|biology|biomedical|life science"
+      ],
+      [
+        "Russian",
+        "russian"
+      ],
+      [
+        "Lab / Clinical",
+        "lab|laboratory|sample|specimen|accession|clinical"
+      ],
+      [
+        "Biotech / QC",
+        "biotech|biomanufactur|quality control|\\bqc\\b|r&d|research"
+      ]
+    ]
+  },
+  "notify": {
+    "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
+    "min_fit": 70,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Prefer enabling via the WEEKLY_DIGEST_PUSHOVER repository variable so forks stay quiet by default.",
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
