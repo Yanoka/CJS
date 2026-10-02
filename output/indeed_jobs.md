@@ -1,76 +1,115 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-02 06:17 UTC*
+*Last updated: 2026-10-02 20:37 UTC*
 
-**11 new role(s)** since last run · 38 total in last 24h
+**17 new role(s)** since last run · 36 total in last 24h
 
-### [Technical Program Manager, Life Sciences](https://www.indeed.com/viewjob?jk=42b6106be0a18439) — Anthropic
+### [Production Bioinformatics Engineer](https://www.indeed.com/viewjob?jk=6f1c2a1b4ab40cf7) — Labcorp
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $290k–$365k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Research Technician](https://www.indeed.com/viewjob?jk=42fac4495dd6dc59) — California Institute of Technology
-- 📍 **Location:** Pasadena, CA, US
-- **Work mode:** On-site
+- 💰 **Salary:** $125k–$135k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-09-30
 
-### [Laboratory Technician, Nursing](https://www.indeed.com/viewjob?jk=8ea183c0b1f8044f) — Foothill-De Anza Community College District
-- 📍 **Location:** Anza, CA, US
-- 💰 **Salary:** $5976.06–$7999.39/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Lab Technician](https://www.indeed.com/viewjob?jk=99c91a0af1140217) — Corning
-- 📍 **Location:** Woodland, CA, US
-- 💰 **Salary:** $62k–$85k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Clinical Lab Technician - Invitae - Entry Level](https://www.indeed.com/viewjob?jk=fe3705551af7206e) — Labcorp
+### [Production Bioinformatics Engineer](https://www.indeed.com/viewjob?jk=4e2795ba2ac2c023) — Labcorp
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $28.39–$35/hr
+- 💰 **Salary:** $125k–$135k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Head of Data Science - Trust and Safety](https://www.indeed.com/viewjob?jk=428e696e6f1f2441) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $255k–$504k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Sample Accessioning Specialist](https://www.indeed.com/viewjob?jk=fc68b23dc1fd7000) — Excelbis
+- 📍 **Location:** Santa Ana, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-10-02
 
-### [Accessioning Tech](https://www.indeed.com/viewjob?jk=cd26018913a2b276) — EmeritusDX
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $18–$20/hr
+### [Construction Lab Technician](https://www.indeed.com/viewjob?jk=a8e063f6099925c8) — The Quality Firm
+- 📍 **Location:** Pomona, CA, US
+- 💰 **Salary:** $23–$25/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-02
 
-### [Clinical Laboratory Scientist - Winterhaven, CA](https://www.indeed.com/viewjob?jk=b9bde47ff95a7cee) — Prime Physicians
-- 📍 **Location:** Winterhaven, CA, US
+### [PCR Laboratory Technician - Per Diem](https://www.indeed.com/viewjob?jk=4fadb6e12527e9d7) — IDEXX Laboratories
+- 📍 **Location:** West Sacramento, CA, US
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-02
 
-### [Clinical Laboratory Associate 1](https://www.indeed.com/viewjob?jk=8b3055883583e380) — Hologic
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $42k–$64k/yr
+### [Research Assistant I - Laboratory of Dr. Wolfgang Busch](https://www.indeed.com/viewjob?jk=7090e4fa243dc11d) — Salk Institute for Biological Studies
+- 📍 **Location:** La Jolla, CA, US
+- 💰 **Salary:** $18–$21/hr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
+- **Job type:** temporary
+- 🕒 **Posted:** 2026-10-02
 
-### [Research Associate I, Dou Lab](https://www.indeed.com/viewjob?jk=5d86563206977678) — Cedars-Sinai Medical Center
-- 📍 **Location:** Tarzana, CA, US
-- 💰 **Salary:** $25–$30.46/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Health Science & Behavioral Research Associate II / Hybrid / Sonoma County](https://www.indeed.com/viewjob?jk=e871f61efea26ffd) — Children's Hospital Los Angeles
+### [Clinical Lab Scientist Per Diem Day](https://www.indeed.com/viewjob?jk=82ed30f605fd9fbb) — MLK Community Healthcare
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $72k–$92k/yr
 - **Work mode:** On-site
+- **Job type:** perdiem
+- 🕒 **Posted:** 2026-10-02
+
+### [Clinical Lab Scientist Micro Part Time Day](https://www.indeed.com/viewjob?jk=fe785f90d185552c) — MLK Community Healthcare
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $48.31–$74.88/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-02
+
+### [Clinical Lab Scientist, Full Time Nights](https://www.indeed.com/viewjob?jk=4aedfd8b9d4a8289) — MLK Community Healthcare
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $47.56–$73.72/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=1a215f5d4a23b34e) — Kaiser Permanente
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $40.02–$42.09/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Clinical Laboratory Scientist (CLS II)](https://www.indeed.com/viewjob?jk=1be4097bb854edbc) — Prime Healthcare Services
+- 📍 **Location:** Anaheim, CA, US
+- **Work mode:** On-site
+- **Job type:** perdiem
+- 🕒 **Posted:** 2026-10-01
+
+### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=50d93252676ee801) — Kaiser Permanente
+- 📍 **Location:** Roseville, CA, US
+- 💰 **Salary:** $39.79–$41.87/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [RESEARCH ASSISTANT (ADMIN ASSISTANT) (REMOTE) (PART TIME)](https://www.indeed.com/viewjob?jk=82f2b570ae1c42e3) — Bon Appétit
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $20–$30/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-02
+
+### [Staff Research Associate IV](https://www.indeed.com/viewjob?jk=29a038ed87efe77c) — University of California - San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Clinical Research Associate](https://www.indeed.com/viewjob?jk=8ed95b681d97f780) — ICON plc
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $111k–$138k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Quality Control Technician - I](https://www.indeed.com/viewjob?jk=cf4fb4a28fac8f51) — TestEquity LLC
-- 📍 **Location:** Corona, CA, US
-- 💰 **Salary:** $25–$30/hr
-- **Work mode:** On-site
+### [Senior Clinical Research Associate](https://www.indeed.com/viewjob?jk=244a06c8718b4338) — ICON plc
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $111k–$138k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
