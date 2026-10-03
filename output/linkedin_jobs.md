@@ -1,128 +1,209 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-02 20:36 UTC*
+*Last updated: 2026-10-03 00:28 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**44 new role(s)** since last run · 44 total in last 1h
 
-### [AI Python Engineer](https://www.linkedin.com/jobs/view/4473183208/) — Oreva Technologies, Inc.
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-02
+### [Tissue Culture Lab Technician (Second Shift)](https://www.linkedin.com/jobs/view/4473800938/) — Bold Steps Behavioral Health
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-10-03
 
-### [Research Data Analyst 2](https://www.linkedin.com/jobs/view/4475017724/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $108,002 to $128,138 per annum
-- 🕒 **Posted:** 2026-10-02
-
-### [Life Science Research Professional 3](https://www.linkedin.com/jobs/view/4475016778/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Genetic Research Data Analyst (1 Year Fixed-Term, Hybrid Opportunity)](https://www.linkedin.com/jobs/view/4475016787/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Python+ AI Architect+ ReactJS (with Agentic AI and Azure Exp)(Remote With Travel)](https://www.linkedin.com/jobs/view/4473378604/) — TestingXperts
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Applied AI Engineer (Enterprise AI / Python)](https://www.linkedin.com/jobs/view/4473163938/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $160,000 to $195,000,
-- 🕒 **Posted:** 2026-10-02
-
-### [Life Science Technician I](https://www.linkedin.com/jobs/view/4475014835/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Sterile Laboratory Technician (Entry Level)](https://www.linkedin.com/jobs/view/4475015407/) — Saving Sight
-- 📍 **Location:** Kansas City, MO
-- 🕒 **Posted:** 2026-10-02
-
-### [Life Science Technician I (Monday – Friday, 7:00 am – 4:00 pm)](https://www.linkedin.com/jobs/view/4475017758/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Research Technician - ENC](https://www.linkedin.com/jobs/view/4463771505/) — Saint-Gobain North America
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $53,500 to $82,500 per year
-- 🕒 **Posted:** 2026-10-02
-
-### [Laboratory Technician 2 - Woodland Hills CA](https://www.linkedin.com/jobs/view/4473386274/) — VetJobs
+### [Biomedical Equipment Technician II](https://www.linkedin.com/jobs/view/4473806718/) — MEP Health
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $47,200.00 - $78,600.00
+- 🕒 **Posted:** 2026-10-03
+
+### [Sr Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4473814645/) — Twist Bioscience
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $135,000 - $173,000 USD
+- 🕒 **Posted:** 2026-10-03
+
+### [Scientist, Computational Biology](https://www.linkedin.com/jobs/view/4473806667/) — Apex Home Health, Hospice & Home Care
+- 📍 **Location:** Millbrae, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Research Assistant - Virtual Validation Study (Temporary Employee)](https://www.linkedin.com/jobs/view/4473807731/) — Personal Touch Home Health Care Services Inc.
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Hospital Lab Technician I](https://www.linkedin.com/jobs/view/4473811599/) — MEP Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Engineering - Civil Engineering Internship](https://www.linkedin.com/jobs/view/4475055614/) — KPFF Consulting Engineers
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Engineering - Civil Engineer 0-2 Years Experience](https://www.linkedin.com/jobs/view/4475068052/) — KPFF Consulting Engineers
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $80,000 - $88,000
+- 🕒 **Posted:** 2026-10-03
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4473812784/) — Extron
+- 📍 **Location:** Anaheim, CA
+- 💰 **Salary:** $72,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-10-03
+
+### [AI & Data Science Engineer II](https://www.linkedin.com/jobs/view/4475046948/) — Deloitte
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-10-03
+
+### [AI & Data Science Engineer II](https://www.linkedin.com/jobs/view/4475064288/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-10-03
+
+### [AI & Data Science Engineer II](https://www.linkedin.com/jobs/view/4475059443/) — Deloitte
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-10-03
+
+### [AI & Data Science Engineer II](https://www.linkedin.com/jobs/view/4475054689/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-10-03
+
+### [Laboratory Assistant](https://www.linkedin.com/jobs/view/4473816236/) — Alpha Home Health and Hospice
+- 📍 **Location:** Carlsbad, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Research Assistant - Patient Recruitment (Bilingual Mandarin)](https://www.linkedin.com/jobs/view/4473808793/) — Proforma Health
+- 📍 **Location:** Anaheim, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Automation Technician](https://www.linkedin.com/jobs/view/4475069126/) — Airgas
+- 📍 **Location:** Anaheim, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Molecular Modeler - AI Trainer](https://www.linkedin.com/jobs/view/4475048401/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Hardware Lab Technician (PCB/Rework)](https://www.linkedin.com/jobs/view/4465248019/) — Redolent, Inc
-- 📍 **Location:** Santa Clara, CA
+### [Applied Mathematician - AI Trainer](https://www.linkedin.com/jobs/view/4475039789/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Laboratory Assistant I](https://www.linkedin.com/jobs/view/4475016823/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
+### [Numerical Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4475058038/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Enterprise Storage Management (ESM) Information Technology Subject Matter Expert (IT SME)](https://www.linkedin.com/jobs/view/4475022050/) — S2i2, Inc
-- 📍 **Location:** Tracy, CA
+### [Scientific Machine Learning Researcher - AI Trainer](https://www.linkedin.com/jobs/view/4475055153/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Research Associate II - Assay Development (Contract Role)](https://www.linkedin.com/jobs/view/4475003887/) — IT Engagements, Inc.
-- 📍 **Location:** Arizona, United States
+### [Mathematical Statistician - AI Trainer](https://www.linkedin.com/jobs/view/4475040809/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 1 (1-Year Fixed-Term)](https://www.linkedin.com/jobs/view/4475027269/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $32.58 to $38.48 per hour
+### [Biostatistician - AI Trainer](https://www.linkedin.com/jobs/view/4475053224/) — DataAnnotation
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 2 (On-Site Only)](https://www.linkedin.com/jobs/view/4475021593/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $85,376 to $99,581 per annum
+### [Neuroscientist - AI Trainer](https://www.linkedin.com/jobs/view/4475055154/) — DataAnnotation
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 1 (1 Year Fixed-Term)](https://www.linkedin.com/jobs/view/4475031150/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $32.86 to $40.51 per hour
+### [Cheminformatics Researcher - AI Trainer](https://www.linkedin.com/jobs/view/4475038836/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Civil Engineer I](https://www.linkedin.com/jobs/view/4473373959/) — AECOM
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $75500 to $80000
+### [Biomedical Researcher - AI Trainer](https://www.linkedin.com/jobs/view/4475057048/) — DataAnnotation
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-02
 
-### [Research Data Analyst (12-Month Fixed-Term)](https://www.linkedin.com/jobs/view/4475019562/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
+### [Bioinformatician - AI Trainer](https://www.linkedin.com/jobs/view/4475038832/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 2 (12-Month Fixed-Term)](https://www.linkedin.com/jobs/view/4475011939/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
+### [Genomics Researcher - AI Trainer](https://www.linkedin.com/jobs/view/4475049378/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 2 (1 Year Fixed-Term)](https://www.linkedin.com/jobs/view/4475020578/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $85,376 to $99,581 per annum
+### [Simulation Researcher - AI Trainer](https://www.linkedin.com/jobs/view/4475055155/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 1 (On-Site Only)](https://www.linkedin.com/jobs/view/4475011948/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $32.58 to $38.48 per hour
+### [Computational Biologist - AI Trainer](https://www.linkedin.com/jobs/view/4475033972/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 1 (12-month Fixed Term)](https://www.linkedin.com/jobs/view/4475014796/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
+### [Computational Physicist - AI Trainer](https://www.linkedin.com/jobs/view/4475038837/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Life Science Research Professional 1 (1-Year Fixed-Term)](https://www.linkedin.com/jobs/view/4475031139/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $32.58 to $38.48 per hour
+### [Systems Biologist - AI Trainer](https://www.linkedin.com/jobs/view/4475056115/) — DataAnnotation
+- 📍 **Location:** United States
+- 💰 **Salary:** $40-$125 USD per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Laboratory Assistant III](https://www.linkedin.com/jobs/view/4475024388/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
+### [Senior Data Analyst, Tolling Strategy & Analysis](https://www.linkedin.com/jobs/view/4473801455/) — Metropolitan Transportation Authority
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $77,059 - $96,324
 - 🕒 **Posted:** 2026-10-02
 
-### [Business Consulting - Finance - FP&A - Life Sciences & HealthCare - Senior - Location Open](https://www.linkedin.com/jobs/view/4473177627/) — EY
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $116,700 to $194,500
+### [Translational Medicine Scientist - AI Trainer](https://www.linkedin.com/jobs/view/4475044597/) — DataAnnotation
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-02
 
-### [Research Associate – Lentivirus Engineering](https://www.linkedin.com/jobs/view/4473376999/) — Enoda
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4473390928/) — Sentara Health
+- 📍 **Location:** Virginia Beach, VA
+- 💰 **Salary:** $106,516.80 - $157,268.80 annually
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Data Analyst, Advancement Analytics and Philanthropic Intelligence](https://www.linkedin.com/jobs/view/4475052093/) — The George Washington University
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $70,068.63 - $111,965.33
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Python FastAPI ReactJS AI Architect (with Agentic AI and Azure Experience) (FTE/C2H/Remote USA/ but travel when required)](https://www.linkedin.com/jobs/view/4473805533/) — Damcosoft
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-02
+
+### [Sr. Research Associate](https://www.linkedin.com/jobs/view/4473192526/) — Expa
+- 📍 **Location:** United States
+- 💰 **Salary:** $100,000-$130,000
+- 🕒 **Posted:** 2026-10-02
+
+### [Clinical Research Assistant](https://www.linkedin.com/jobs/view/4473810358/) — SQRL
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $26.00/hr - $32.00/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [LABORATORY TECHNICIAN CHEMICAL ANALYSIS](https://www.linkedin.com/jobs/view/4473183907/) — CA Department of Corrections & Rehabilitation
+- 📍 **Location:** Del Norte County, CA
+- 💰 **Salary:** $4,181.00 - $5,717.00
+- 🕒 **Posted:** 2026-10-02
+
+### [Pathology Lab Assistant - Evening - La Jolla](https://www.linkedin.com/jobs/view/4473399607/) — Scripps Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $29.73-$41.71/hour
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Laboratory Technician](https://www.linkedin.com/jobs/view/4468677118/) — ProKatchers LLC
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $21.00/hr - $22.50/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Clinical Laboratory Scientist III](https://www.linkedin.com/jobs/view/4473401273/) — Johns Hopkins Hospital
+- 📍 **Location:** Washington DC-Baltimore Area
+- 🕒 **Posted:** 2026-10-02
+
+### [Research Associate](https://www.linkedin.com/jobs/view/4473196480/) — Expa
+- 📍 **Location:** United States
+- 💰 **Salary:** $80,000-$110,000
+- 🕒 **Posted:** 2026-10-02
+
+### [Associate Data Analyst](https://www.linkedin.com/jobs/view/4475055219/) — Research Foundation of The City University of New York
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $38.46 to $38.46 per hour
 - 🕒 **Posted:** 2026-10-02
