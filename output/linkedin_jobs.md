@@ -1,21 +1,44 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-04 22:38 UTC*
+*Last updated: 2026-10-05 02:20 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Lead Analyst, Clinical Data Sciences (Remote)](https://www.linkedin.com/jobs/view/4473838496/) — Stryker
+### [Dutch Subject Matter Expert – Audio Transcription (AI Training)](https://www.linkedin.com/jobs/view/4475352003/) — Alignerr
 - 📍 **Location:** United States
-- 💰 **Salary:** $95,700 - $159,500 USD
-- 🕒 **Posted:** 2026-10-04
+- 💰 **Salary:** $15.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-10-05
 
-### [Test Cloud Account Executive — Healthcare & Life Sciences](https://www.linkedin.com/jobs/view/4473484957/) — UiPath
-- 📍 **Location:** Georgia, United States
-- 🕒 **Posted:** 2026-10-04
+### [Telugu Language Subject Matter Expert – AI Audio Transcription](https://www.linkedin.com/jobs/view/4475334820/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $15.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-10-05
 
-### [Full Stack Engineer - Python / React](https://www.linkedin.com/jobs/view/4475522126/) — Blue Chip Talent
-- 📍 **Location:** Michigan, United States
-- 🕒 **Posted:** 2026-10-04
+### [Tamil Language Subject Matter Expert – AI Audio Transcription](https://www.linkedin.com/jobs/view/4475336749/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $15.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-10-05
 
-### [AI TRAINER](https://www.linkedin.com/jobs/view/4475518222/) — THEOIS
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-04
+### [Financial Modeling Expert — AI Reviewer (Python & US Finance)](https://www.linkedin.com/jobs/view/4475514698/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $60.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-05
+
+### [Financial Analyst — AI Reviewer (Python & US Modeling)](https://www.linkedin.com/jobs/view/4475511959/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $60.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-05
+
+### [Finance & Python Expert — AI Model Reviewer](https://www.linkedin.com/jobs/view/4475517604/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $60.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-05
+
+### [Finance & Python Expert — AI Financial Modeling Reviewer](https://www.linkedin.com/jobs/view/4475522407/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $60.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-05
+
+### [Finance Expert — AI Model Reviewer (Python & Financial Modeling)](https://www.linkedin.com/jobs/view/4475525358/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $60.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-05
