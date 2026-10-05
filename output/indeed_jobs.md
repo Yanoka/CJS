@@ -1,11 +1,25 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-05 01:19 UTC*
+*Last updated: 2026-10-05 07:43 UTC*
 
-**1 new role(s)** since last run · 12 total in last 24h
+**3 new role(s)** since last run · 6 total in last 24h
 
-### [Lab Technician - Cal Color](https://www.indeed.com/viewjob?jk=d126f37cc4e28743) — GALLO
-- 📍 **Location:** Fresno, CA, US
-- 💰 **Salary:** $23.08–$31.15/hr
+### [CAD Administrator](https://www.indeed.com/viewjob?jk=2cd1c3d41c2faae5) — Anduril
+- 📍 **Location:** Costa Mesa, CA, US
+- 💰 **Salary:** $129k–$171k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-04
+- 🕒 **Posted:** 2026-10-05
+
+### [CAD Administrator](https://www.indeed.com/viewjob?jk=d8010d7e3811a818) — Anduril
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $140k–$186k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [NX CAD Support Engineer](https://www.indeed.com/viewjob?jk=41bbcee95942425d) — Anduril
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $140k–$186k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
