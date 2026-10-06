@@ -1,113 +1,111 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-05 22:38 UTC*
+*Last updated: 2026-10-06 02:51 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Python Analytics Developer](https://www.linkedin.com/jobs/view/4475869815/) — Entarian
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-05
+### [Dutch Subject Matter Expert – Audio Transcription (AI Training)](https://www.linkedin.com/jobs/view/4475341514/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $15.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Principal Enterprise AI Architect / Healthcare & Life Sciences](https://www.linkedin.com/jobs/view/4475878790/) — Supermicro
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $210,000 - $255,000
-- 🕒 **Posted:** 2026-10-05
+### [Data Science & Analytics Intern](https://www.linkedin.com/jobs/view/4474643740/) — Otis Elevator Co.
+- 📍 **Location:** Connecticut, United States
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior CAD Designer](https://www.linkedin.com/jobs/view/4474637315/) — VHB
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $75,000 to $98,000
-- 🕒 **Posted:** 2026-10-05
+### [Senior Data Analyst – French/English Proficiency Required](https://www.linkedin.com/jobs/view/4474651731/) — Jobgether
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-06
 
-### [Research Assistant, Integrated Genomics Operation](https://www.linkedin.com/jobs/view/4473699045/) — Memorial Sloan Kettering Cancer Center
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $69,400.00 - $107,600.00
-- 🕒 **Posted:** 2026-10-05
-
-### [Research Technician, Pediatrics Infectious Disease Research](https://www.linkedin.com/jobs/view/4475887141/) — Indiana University
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $43,000.00 - $48,000.00 annually
-- 🕒 **Posted:** 2026-10-05
-
-### [Biomedical Lab IT Systems Engineer](https://www.linkedin.com/jobs/view/4471086987/) — Randstad USA
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-05
-
-### [Market Research Analyst (Advance Statistics)](https://www.linkedin.com/jobs/view/4475891207/) — Ipsos in US
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-05
-
-### [Mid-Level Financial Data Analyst](https://www.linkedin.com/jobs/view/4475898000/) — Sligo Software Solutions Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $46.00/hr - $46.00/hr
-- 🕒 **Posted:** 2026-10-05
-
-### [Academic Laboratory Technician](https://www.linkedin.com/jobs/view/4475875815/) — Indiana University
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $40,000.00 - $46,000.00
-- 🕒 **Posted:** 2026-10-05
-
-### [Manufacturing Associate I - ELISA Plates](https://www.linkedin.com/jobs/view/4475894027/) — Werfen
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $ 23 to $ 29/hr
-- 🕒 **Posted:** 2026-10-05
-
-### [Research Associate, Process Analytics](https://www.linkedin.com/jobs/view/4475874921/) — Avid Bioservices
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $70,304 to $80,000 annually
-- 🕒 **Posted:** 2026-10-05
-
-### [Sr. Research Associate, Process Analytics](https://www.linkedin.com/jobs/view/4475874920/) — Avid Bioservices
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $76,000 to $99,900 annually
-- 🕒 **Posted:** 2026-10-05
-
-### [Clinical Research Associate (CRA) – Animal Health](https://www.linkedin.com/jobs/view/4473681841/) — Elanco
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Market Research Associate, Business Relationships Management - US Structured Credit](https://www.linkedin.com/jobs/view/4474623805/) — Fitch Ratings
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-05
-
-### [Academics Data Science Associate](https://www.linkedin.com/jobs/view/4462179517/) — Stride, Inc.
-- 📍 **Location:** Virginia, United States
-- 🕒 **Posted:** 2026-10-05
-
-### [Triage Operations Specialist(Python/SQL)](https://www.linkedin.com/jobs/view/4474638239/) — BayOne Solutions
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $40.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-10-05
-
-### [Civil Engineer - Entry Level - Spring/Summer 2027](https://www.linkedin.com/jobs/view/4475878679/) — Moffatt & Nichol
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $38.50 to $44.71 per hour
-- 🕒 **Posted:** 2026-10-05
-
-### [Microanalytical Mass Spectrometry and Microscopy - Postdoctoral Researcher](https://www.linkedin.com/jobs/view/4468176231/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-10-05
-
-### [Clinical Lab Scientist](https://www.linkedin.com/jobs/view/4475886437/) — UCSF Health
+### [Research Data Analyst II](https://www.linkedin.com/jobs/view/4474112651/) — University of California, San Francisco
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Data Analyst - Ops, CS, DTC](https://www.linkedin.com/jobs/view/4475892257/) — Abbott
-- 📍 **Location:** Alameda, CA
-- 💰 **Salary:** $90,000.00 – $180,000.00
-- 🕒 **Posted:** 2026-10-05
+### [Research Data Analyst - HDFCCC](https://www.linkedin.com/jobs/view/4474124124/) — University of California, San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-06
 
-### [Post Doctorate Research Associate - Chemical Physics in Experimental X-Ray Scattering](https://www.linkedin.com/jobs/view/4474630658/) — Pacific Northwest National Laboratory
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-05
+### [RESEARCH DATA ANALYST II](https://www.linkedin.com/jobs/view/4473000371/) — California Department of Social Services
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $6,647.00/mo - $8,325.00/mo
+- 🕒 **Posted:** 2026-10-06
 
-### [Research Data Analyst 2](https://www.linkedin.com/jobs/view/4475883639/) — UCLA
+### [Senior Python FastAPI AI Architect with (Strong ReactJS and Azure Experience) (FTE/C2H/Remote USA/ but travel when required)](https://www.linkedin.com/jobs/view/4474664118/) — Damcosoft
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)](https://www.linkedin.com/jobs/view/4473699653/) — Natera
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $145,000—$170,000 USD
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)](https://www.linkedin.com/jobs/view/4474007310/) — Natera
+- 📍 **Location:** United States
+- 💰 **Salary:** $130,000—$155,000 USD
+- 🕒 **Posted:** 2026-10-06
+
+### [R&D Technician](https://www.linkedin.com/jobs/view/4474641927/) — PsiQuantum
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $85,200—$100,100 USD
+- 🕒 **Posted:** 2026-10-06
+
+### [Research Associate, Technology Development](https://www.linkedin.com/jobs/view/4476129028/) — AtlasBase
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Lab Assistant](https://www.linkedin.com/jobs/view/4476119489/) — Tahoe Forest Health System
+- 📍 **Location:** Truckee, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [> Research Associates](https://www.linkedin.com/jobs/view/4476134066/) — Bolder BioTechnology
+- 📍 **Location:** Oregon, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Assistant](https://www.linkedin.com/jobs/view/4476111618/) — Actalent
+- 📍 **Location:** Santa Barbara, CA
+- 💰 **Salary:** $28.00/hr - $28.00/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [MRT-C Data Analyst](https://www.linkedin.com/jobs/view/4476108950/) — Nisga'a CIOPS
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $80,000 to $100,000 annually
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Clinical Research Associate](https://www.linkedin.com/jobs/view/4474011080/) — Leica Biosystems
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $103,000.00 - $130,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [C/Python Developer – AI & Robotics](https://www.linkedin.com/jobs/view/4474005414/) — UST
+- 📍 **Location:** Arizona, United States
+- 💰 **Salary:** $60,000-$90,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Quality Control Technician](https://www.linkedin.com/jobs/view/4476113649/) — Actalent
+- 📍 **Location:** San Leandro, CA
+- 💰 **Salary:** $30.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Green — Reporting Data Analyst](https://www.linkedin.com/jobs/view/4474667132/) — FuntoNetwork Consulting
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $65.00/mo - $139.00/mo
+- 🕒 **Posted:** 2026-10-06
+
+### [Quality Control Lab Technician](https://www.linkedin.com/jobs/view/4476122392/) — Actalent
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $35.66/hr - $73.02/hr
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $25.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Research Associate I/II - Molecular Cloning](https://www.linkedin.com/jobs/view/4474624976/) — BioLegend
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-05
+### [Lab Technician 2](https://www.linkedin.com/jobs/view/4476109861/) — Actalent
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $20.00/hr - $22.00/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Research Associate II - Antibody Applications](https://www.linkedin.com/jobs/view/4474626940/) — BioLegend
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-05
+### [Clinical Laboratory Scientist](https://www.linkedin.com/jobs/view/4476120433/) — Actalent
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $42.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Lab Technician 2](https://www.linkedin.com/jobs/view/4476114602/) — Actalent
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $20.00/hr - $22.00/hr
+- 🕒 **Posted:** 2026-10-06
