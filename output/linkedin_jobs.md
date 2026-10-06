@@ -1,111 +1,160 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-06 02:51 UTC*
+*Last updated: 2026-10-06 10:55 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**32 new role(s)** since last run · 32 total in last 1h
 
-### [Dutch Subject Matter Expert – Audio Transcription (AI Training)](https://www.linkedin.com/jobs/view/4475341514/) — Alignerr
-- 📍 **Location:** United States
-- 💰 **Salary:** $15.00/hr - $35.00/hr
+### [Senior Software Engineer - Life Sciences.AI](https://www.linkedin.com/jobs/view/4467212831/) — McKinsey & Company
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Science & Analytics Intern](https://www.linkedin.com/jobs/view/4474643740/) — Otis Elevator Co.
-- 📍 **Location:** Connecticut, United States
+### [AI and Data Science Engineer III](https://www.linkedin.com/jobs/view/4476139688/) — Deloitte
+- 📍 **Location:** Greater Indianapolis
+- 💰 **Salary:** $137,500 - $193,600
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Data Analyst – French/English Proficiency Required](https://www.linkedin.com/jobs/view/4474651731/) — Jobgether
-- 📍 **Location:** United States
+### [AI and Data Science Engineer III](https://www.linkedin.com/jobs/view/4476146556/) — Deloitte
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $137,500 - $193,600
 - 🕒 **Posted:** 2026-10-06
 
-### [Research Data Analyst II](https://www.linkedin.com/jobs/view/4474112651/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
+### [AI and Data Science Engineer III](https://www.linkedin.com/jobs/view/4476135801/) — Deloitte
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $137,500 - $193,600
 - 🕒 **Posted:** 2026-10-06
 
-### [Research Data Analyst - HDFCCC](https://www.linkedin.com/jobs/view/4474124124/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [RESEARCH DATA ANALYST II](https://www.linkedin.com/jobs/view/4473000371/) — California Department of Social Services
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $6,647.00/mo - $8,325.00/mo
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Python FastAPI AI Architect with (Strong ReactJS and Azure Experience) (FTE/C2H/Remote USA/ but travel when required)](https://www.linkedin.com/jobs/view/4474664118/) — Damcosoft
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)](https://www.linkedin.com/jobs/view/4473699653/) — Natera
-- 📍 **Location:** San Carlos, CA
-- 💰 **Salary:** $145,000—$170,000 USD
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)](https://www.linkedin.com/jobs/view/4474007310/) — Natera
-- 📍 **Location:** United States
-- 💰 **Salary:** $130,000—$155,000 USD
-- 🕒 **Posted:** 2026-10-06
-
-### [R&D Technician](https://www.linkedin.com/jobs/view/4474641927/) — PsiQuantum
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $85,200—$100,100 USD
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Associate, Technology Development](https://www.linkedin.com/jobs/view/4476129028/) — AtlasBase
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Lab Assistant](https://www.linkedin.com/jobs/view/4476119489/) — Tahoe Forest Health System
-- 📍 **Location:** Truckee, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [> Research Associates](https://www.linkedin.com/jobs/view/4476134066/) — Bolder BioTechnology
-- 📍 **Location:** Oregon, United States
-- 🕒 **Posted:** 2026-10-06
-
-### [Laboratory Assistant](https://www.linkedin.com/jobs/view/4476111618/) — Actalent
-- 📍 **Location:** Santa Barbara, CA
-- 💰 **Salary:** $28.00/hr - $28.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [MRT-C Data Analyst](https://www.linkedin.com/jobs/view/4476108950/) — Nisga'a CIOPS
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $80,000 to $100,000 annually
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Clinical Research Associate](https://www.linkedin.com/jobs/view/4474011080/) — Leica Biosystems
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $103,000.00 - $130,000.00
-- 🕒 **Posted:** 2026-10-06
-
-### [C/Python Developer – AI & Robotics](https://www.linkedin.com/jobs/view/4474005414/) — UST
-- 📍 **Location:** Arizona, United States
-- 💰 **Salary:** $60,000-$90,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Quality Control Technician](https://www.linkedin.com/jobs/view/4476113649/) — Actalent
-- 📍 **Location:** San Leandro, CA
-- 💰 **Salary:** $30.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [Green — Reporting Data Analyst](https://www.linkedin.com/jobs/view/4474667132/) — FuntoNetwork Consulting
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $65.00/mo - $139.00/mo
-- 🕒 **Posted:** 2026-10-06
-
-### [Quality Control Lab Technician](https://www.linkedin.com/jobs/view/4476122392/) — Actalent
+### [AI and Data Science Engineer III](https://www.linkedin.com/jobs/view/4476154169/) — Deloitte
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $25.00/hr - $25.00/hr
+- 💰 **Salary:** $137,500 - $193,600
 - 🕒 **Posted:** 2026-10-06
 
-### [Lab Technician 2](https://www.linkedin.com/jobs/view/4476109861/) — Actalent
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $20.00/hr - $22.00/hr
+### [Senior Civil Engineer](https://www.linkedin.com/jobs/view/4436621027/) — DLR Group
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $130,000 - $170,000 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Clinical Laboratory Scientist](https://www.linkedin.com/jobs/view/4476120433/) — Actalent
-- 📍 **Location:** Thousand Oaks, CA
-- 💰 **Salary:** $42.00/hr - $60.00/hr
+### [Data Analyst II - Medical Informaticist](https://www.linkedin.com/jobs/view/4466114922/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,481.61 - $106,180.20 Annually
 - 🕒 **Posted:** 2026-10-06
 
-### [Lab Technician 2](https://www.linkedin.com/jobs/view/4476114602/) — Actalent
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $20.00/hr - $22.00/hr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4466179295/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,481.60 - $83,475.00 Annually
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Python Developer](https://www.linkedin.com/jobs/view/4465220048/) — Take2 Consulting, LLC
+- 📍 **Location:** United States
+- 💰 **Salary:** $150,000 - $170,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Client Partner - Commercial Life Sciences (1267)](https://www.linkedin.com/jobs/view/4411886634/) — Axtria - Ingenious Insights
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $204,250 to $312,000 annually
+- 🕒 **Posted:** 2026-10-06
+
+### [Research Associate](https://www.linkedin.com/jobs/view/4466134734/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $47,033.90 - $55,650.00 Annually
+- 🕒 **Posted:** 2026-10-06
+
+### [Client Partner - Commercial Life Sciences (1263)](https://www.linkedin.com/jobs/view/4411899327/) — Axtria - Ingenious Insights
+- 📍 **Location:** Berkeley Heights, NJ
+- 💰 **Salary:** $204,250 to $312,000 annually
+- 🕒 **Posted:** 2026-10-06
+
+### [Research Assistant - Neuroscience Initiative - CUNY Advanced Science Research Center](https://www.linkedin.com/jobs/view/4476177108/) — The City University of New York
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50,611 – $59,427/year
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)](https://www.linkedin.com/jobs/view/4474053253/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $130,000.00/yr - $155,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [SMB Analytics & Data Science Lead](https://www.linkedin.com/jobs/view/4474056180/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $135,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Research Technician](https://www.linkedin.com/jobs/view/4457181689/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $53,294.22 - $70,119.00 Annually
+- 🕒 **Posted:** 2026-10-06
+
+### [(CLS) Clinical Laboratory Scientist Specialist - 141522](https://www.linkedin.com/jobs/view/4474042757/) — San Diego Supercomputer Center
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $60.86 - $80.18
+- 🕒 **Posted:** 2026-10-06
+
+### [Clinical Laboratory Scientist- Reporting (Tuesday-Saturday)](https://www.linkedin.com/jobs/view/4465793948/) — Guardant Health
+- 📍 **Location:** United States
+- 💰 **Salary:** $45 - $60
+- 🕒 **Posted:** 2026-10-06
+
+### [Research Associate - Digital Infrastructure; Satellite and Communications](https://www.linkedin.com/jobs/view/4300777112/) — Oppenheimer & Co. Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100,000.00 - $150,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [FSP Clinical Research Associate 2 - West, Central, and South Regions - Oncology](https://www.linkedin.com/jobs/view/4467213716/) — Fortrea
+- 📍 **Location:** Michigan, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [BU Data Analyst II](https://www.linkedin.com/jobs/view/4467458006/) — SchoolsFirst Federal Credit Union
+- 📍 **Location:** Tustin, CA
+- 💰 **Salary:** $78,419.00 - $117,628.00
+- 🕒 **Posted:** 2026-10-06
+
+### [AI and Data Science Engineer III](https://www.linkedin.com/jobs/view/4476139690/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $137,500 - $193,600
+- 🕒 **Posted:** 2026-10-06
+
+### [AI and Data Science Engineer III](https://www.linkedin.com/jobs/view/4476133981/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $137,500 - $193,600
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Science and Business Analytics Manager](https://www.linkedin.com/jobs/view/4472201590/) — Abbott
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $114,000.00 – $228,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Design Engineer (CAD & Methodology)](https://www.linkedin.com/jobs/view/4474686980/) — Bitdeer (NASDAQ: BTDR)
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr. Key Account Manager, Electron Microscopy - Pharma](https://www.linkedin.com/jobs/view/4474046615/) — Thermo Fisher Scientific
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $120,000.00–$155,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr. Key Account Manager, Electron Microscopy - Pharma](https://www.linkedin.com/jobs/view/4474041815/) — Thermo Fisher Scientific
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $120,000.00–$155,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Animal Research Associate I/II - In-vivo studies](https://www.linkedin.com/jobs/view/4403172019/) — Proven Recruiting
+- 📍 **Location:** Carlsbad, CA
+- 💰 **Salary:** $25.00 to $32.00 per hour
+- 🕒 **Posted:** 2026-10-06
+
+### [Civil Engineer](https://www.linkedin.com/jobs/view/4474691747/) — US Army Corps of Engineers
+- 📍 **Location:** Vandenberg Village, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr. Key Account Manager, Electron Microscopy - Pharma](https://www.linkedin.com/jobs/view/4474043767/) — Thermo Fisher Scientific
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $120,000.00–$155,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr. Key Account Manager, Electron Microscopy - Pharma](https://www.linkedin.com/jobs/view/4474055161/) — Thermo Fisher Scientific
+- 📍 **Location:** Carlsbad, CA
+- 💰 **Salary:** $120,000.00–$155,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr. Key Account Manager, Electron Microscopy - Pharma](https://www.linkedin.com/jobs/view/4474060004/) — Thermo Fisher Scientific
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $120,000.00–$155,000.00
 - 🕒 **Posted:** 2026-10-06
