@@ -1,156 +1,198 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-07 06:34 UTC*
+*Last updated: 2026-10-07 21:12 UTC*
 
-**22 new role(s)** since last run · 56 total in last 24h
+**29 new role(s)** since last run · 59 total in last 24h
 
-### [Junior Civil Engineer - Land Development/Public Infrastructure (2027)](https://www.indeed.com/viewjob?jk=958d9112d8ee1fe2) — MacKay & Somps Civil Engineers, Inc.
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $30–$40/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [AI and Data Science Engineer III](https://www.indeed.com/viewjob?jk=12428800c3d75836) — Deloitte
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $138k–$194k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [AI and Data Science Engineer III](https://www.indeed.com/viewjob?jk=18ad77cb7ac4b848) — Deloitte
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $138k–$194k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [AI and Data Science Engineer III](https://www.indeed.com/viewjob?jk=906d1795b2abbd14) — Deloitte
+### [Sr Principal CAD & HPC Workflow](https://www.indeed.com/viewjob?jk=e8dd896eaf228fcf) — Micron Technology
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $138k–$194k/yr
+- 💰 **Salary:** $197k–$346k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [AI and Data Science Engineer III](https://www.indeed.com/viewjob?jk=4102e6a9582fe9ac) — Deloitte
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $138k–$194k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [AI and Data Science Engineer III](https://www.indeed.com/viewjob?jk=c2db064461f49f70) — Deloitte
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $138k–$194k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.indeed.com/viewjob?jk=e54d13996633a154) — Eurofins
-- 📍 **Location:** Tustin, CA, US
-- 💰 **Salary:** $18–$22/hr
+### [Head of Growth Data Science](https://www.indeed.com/viewjob?jk=811387edb2f12768) — Airwallex
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $300k–$320k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
 
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.indeed.com/viewjob?jk=4dbe9eec34222593) — Sutter Health
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $31.23–$39.03/hr
+### [Head of Growth Data Science](https://www.indeed.com/viewjob?jk=07758c6eaf90ba77) — Airwallex
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $300k–$320k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.indeed.com/viewjob?jk=9d2e03d870e587f4) — Sutter Health
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $31.23–$39.03/hr
+### [Data Analyst I (Full Time) - United States](https://www.indeed.com/viewjob?jk=f0d3ac1bbca9a3cf) — Cisco
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $72k–$119k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Medical Laboratory Technician (MLT)](https://www.indeed.com/viewjob?jk=1e802a5c555f2741) — Sutter Health
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $48.03–$67.23/hr
+### [Personal Care R&D assistant / Lab Technician](https://www.indeed.com/viewjob?jk=9e545b707701e245) — Soup to Nuts
+- 📍 **Location:** Santa Ana, CA, US
+- 💰 **Salary:** $20–$23/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Hospital Lab Technician 1 - Part Time](https://www.indeed.com/viewjob?jk=8b77553088e3f8b3) — University of California - San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $42.03–$52.46/hr
 - **Work mode:** On-site
 - **Job type:** parttime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.indeed.com/viewjob?jk=653e6256c6cbe1ce) — Sutter Health
-- 📍 **Location:** Yuba City, CA, US
-- 💰 **Salary:** $29.25–$40.95/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Lab Technician II](https://www.indeed.com/viewjob?jk=36b552fc25f7813a) — Keck Medicine of USC
+### [Research Lab Technician II](https://www.indeed.com/viewjob?jk=3a2909a25792f21c) — University of Southern California
 - 📍 **Location:** Los Angeles, CA, US
 - 💰 **Salary:** $25–$27/hr
 - **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-06
-
-### [X - Section Lab Technician](https://www.indeed.com/viewjob?jk=b3de9d6172884e92) — Sierra Proto Express
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $21–$26/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Clinical Laboratory Scientist, Clinical Laboratory (Per Diem, Variable Shift)](https://www.indeed.com/viewjob?jk=6ffdc129c40c0da2) — Adventist Health
-- 📍 **Location:** Bakersfield, CA, US
-- 💰 **Salary:** $49.60–$68.03/hr
-- **Work mode:** On-site
-- **Job type:** perdiem
 - 🕒 **Posted:** 2026-10-07
 
-### [Clinical Laboratory Scientist (CLS)](https://www.indeed.com/viewjob?jk=70e182ff0eb4084b) — Sutter Health
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $66.15–$92.61/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-06
-
-### [Clinical Laboratory Scientist (CLS)](https://www.indeed.com/viewjob?jk=a556c99889437623) — Sutter Health
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $66.15–$92.61/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Assistant, Site Based, South San Francisco, CA](https://www.indeed.com/viewjob?jk=aed75a3a3325e855) — Evotec
-- 📍 **Location:** South San Francisco, CA, US
-- 💰 **Salary:** $23.50–$30.50/hr
+### [Life Science Research Professional 1](https://www.indeed.com/viewjob?jk=19a2f87ae6599501) — Stanford University
+- 📍 **Location:** Stanford, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Research Assistant (Temporary)](https://www.indeed.com/viewjob?jk=8cf625f94d7d9230) — Chico State Enterprises
-- 📍 **Location:** Chico, CA, US
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-06
-
-### [Staff Research Associate I](https://www.indeed.com/viewjob?jk=e2f858ea87dae71a) — UC San Diego
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $30.12–$35.93/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Associate II - Antibody Applications](https://www.indeed.com/viewjob?jk=55bcac93c31497b1) — Revvity
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $23–$30.75/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Associate I/II - Molecular Cloning](https://www.indeed.com/viewjob?jk=08c977170ed6f77e) — Revvity
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $22–$29.50/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Assistant (Center for Neurobehavioral Genetics)](https://www.indeed.com/viewjob?jk=38438f35bca2d097) — UCLA Health
+### [Research Lab Technician II](https://www.indeed.com/viewjob?jk=f3931ad49ca0df9a) — University of Southern California
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $32.79–$52.75/hr
+- 💰 **Salary:** $25–$27/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-07
+
+### [Laboratory Technician II](https://www.indeed.com/viewjob?jk=90c4012f6570ff1e) — San Antonio Regional Hospital
+- 📍 **Location:** Upland, CA, US
+- 💰 **Salary:** $23–$33.42/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Technician I](https://www.indeed.com/viewjob?jk=d3e98f429e471ca1) — San Antonio Regional Hospital
+- 📍 **Location:** Upland, CA, US
+- 💰 **Salary:** $23–$31.82/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Technician I](https://www.indeed.com/viewjob?jk=787bad6910af7afa) — San Antonio Regional Hospital
+- 📍 **Location:** Upland, CA, US
+- 💰 **Salary:** $23–$31.82/hr
+- **Work mode:** On-site
+- **Job type:** perdiem
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Technician I](https://www.indeed.com/viewjob?jk=a5e0b6480f3b47ba) — San Antonio Regional Hospital
+- 📍 **Location:** Upland, CA, US
+- 💰 **Salary:** $23–$31.82/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Technician I](https://www.indeed.com/viewjob?jk=76f7c62c90e86039) — San Antonio Regional Hospital
+- 📍 **Location:** Upland, CA, US
+- 💰 **Salary:** $23–$31.82/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Assistant](https://www.indeed.com/viewjob?jk=a20ef5d77097b9cf) — Scripps College
+- 📍 **Location:** Claremont, CA, US
+- 💰 **Salary:** $26.39–$27.78/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-06
+
+### [Histology/Pathology Laboratory - Specimen Processing](https://www.indeed.com/viewjob?jk=c541bf4be4dd62ad) — Bio-Path Medical Group
+- 📍 **Location:** Fountain Valley, CA, US
+- 💰 **Salary:** $17.50–$18/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-07
+
+### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=32a27e7072ad6652) — Kaiser Permanente
+- 📍 **Location:** Campbell, CA, US
+- 💰 **Salary:** $39.79–$41.87/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-07
+
+### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=117ee3ffa3ea8294) — Kaiser Permanente
+- 📍 **Location:** Manteca, CA, US
+- 💰 **Salary:** $39.79–$41.87/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=7ecb3245a94ccb11) — Kaiser Permanente
+- 📍 **Location:** Fairfield, CA, US
+- 💰 **Salary:** $41.78–$43.96/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=5076a42b538c5710) — Kaiser Permanente
+- 📍 **Location:** Manteca, CA, US
+- 💰 **Salary:** $39.79–$41.87/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Phlebotomy/Clinical Lab Assistant (10/12 Schedule)](https://www.indeed.com/viewjob?jk=79573b18692a96de) — California State Polytechnic University Pomona
+- 📍 **Location:** Pomona, CA, US
+- 💰 **Salary:** $3147–$4406/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Clinical Laboratory Scientist (Full-time, Variable Shift)](https://www.indeed.com/viewjob?jk=cd554cf12ec87f7d) — Adventist Health
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $51.09–$70.07/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Histology Laboratory Assistant](https://www.indeed.com/viewjob?jk=19ae5aa508893599) — Bio-Path Medical Group
+- 📍 **Location:** Fountain Valley, CA, US
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-07
+
+### [Biomedical Technician](https://www.indeed.com/viewjob?jk=b38192d9f0b4a2fb) — USOC Biomedical
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $18–$30/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Research Associate, Molecular Biology](https://www.indeed.com/viewjob?jk=38711653a7d8e155) — Unknown
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $60k–$70k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Research Assistant, Global Initiative](https://www.indeed.com/viewjob?jk=182f5005c026b39c) — Harvard University
+- 📍 **Location:** San Mateo, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Grant & Funding Research Assistant - Volunteer Opportunity](https://www.indeed.com/viewjob?jk=c509f6f367ce9b5b) — Unknown
+- 📍 **Location:** Los Angeles, CA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-07
+
+### [Research Associate I/II (Molecular Biology)](https://www.indeed.com/viewjob?jk=362b99f51a2aed1a) — Unknown
+- 📍 **Location:** Berkeley, CA, US
+- 💰 **Salary:** $70k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Research Associate I/II (Cell-Based Assay Development)](https://www.indeed.com/viewjob?jk=aac10d0f65856bb6) — Unknown
+- 📍 **Location:** Berkeley, CA, US
+- 💰 **Salary:** $70k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
