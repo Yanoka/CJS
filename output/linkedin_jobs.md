@@ -1,62 +1,76 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-07 08:45 UTC*
+*Last updated: 2026-10-07 21:12 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Data Science Expert (Remote | $245–$280/hr)](https://www.linkedin.com/jobs/view/4475170855/) — Synthires
+### [Data Analyst](https://www.linkedin.com/jobs/view/4476918490/) — Verse Medical
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $85,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Postdoctoral Research Associate - Cardiometabolic Disease](https://www.linkedin.com/jobs/view/4475143727/) — University of Nebraska-Lincoln
+- 📍 **Location:** Lincoln, Nebraska Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Analyst I (ERIB)](https://www.linkedin.com/jobs/view/4476927079/) — Goldbelt Professional Services
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $80,000.00 to $90,000.00 annually
+- 🕒 **Posted:** 2026-10-07
+
+### [Head of Growth Data Science](https://www.linkedin.com/jobs/view/4474472637/) — Airwallex
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $245.00/hr - $280.00/hr
+- 💰 **Salary:** $300K - $320K
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Data Science Expert (Remote | $245–$280/hr)](https://www.linkedin.com/jobs/view/4475192099/) — Synthires
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $245.00/hr - $280.00/hr
-- 🕒 **Posted:** 2026-10-07
-
-### [Telugu Subject Matter Expert – AI Audio Transcription (Remote)](https://www.linkedin.com/jobs/view/4475351036/) — Alignerr
+### [Glean AI + Data Science- US Remote - (Only independent Visa W2 Candidate)](https://www.linkedin.com/jobs/view/4475863493/) — KTek Resourcing
 - 📍 **Location:** United States
-- 💰 **Salary:** $15.00/hr - $35.00/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Applied AI Engineer (Enterprise AI / Python)](https://www.linkedin.com/jobs/view/4475178787/) — TalentHop
+### [Technical Due Diligence Subject Matter Expert](https://www.linkedin.com/jobs/view/4476920543/) — BigRio
 - 📍 **Location:** United States
-- 💰 **Salary:** $160,000.00/yr - $195,000.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Applied AI Engineer (Python/AI)](https://www.linkedin.com/jobs/view/4475189386/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $125,000 to $155,000,
+### [Quality Control Technician](https://www.linkedin.com/jobs/view/4475481710/) — Flavorchem Corporation
+- 📍 **Location:** San Clemente, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Laboratory Technician - Immunoassays](https://www.linkedin.com/jobs/view/4475196170/) — ChronicleBio
-- 📍 **Location:** Menlo Park, CA
+### [Nutrition Lab Technician](https://www.linkedin.com/jobs/view/4476928225/) — Children's Hospital Colorado
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $18.27 to $27.40
 - 🕒 **Posted:** 2026-10-07
 
-### [Research Assistant, Site Based, South San Francisco, CA](https://www.linkedin.com/jobs/view/4475190406/) — Evotec
+### [Laboratory Assistant, Full Time, Nights](https://www.linkedin.com/jobs/view/4476928375/) — PIH Health
+- 📍 **Location:** Downey, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Phlebotomy/Clinical Lab Assistant (10/12 Schedule)](https://www.linkedin.com/jobs/view/4475485571/) — California State Polytechnic University-Pomona
+- 📍 **Location:** Pomona, CA
+- 💰 **Salary:** $3,147 - $3,761 per month
+- 🕒 **Posted:** 2026-10-07
+
+### [Turf Field Research Technician III](https://www.linkedin.com/jobs/view/4475493195/) — University of Nebraska-Lincoln
+- 📍 **Location:** Lincoln, Nebraska Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Institutional CRM & Data Analyst](https://www.linkedin.com/jobs/view/4467984206/) — Franklin Templeton
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $90,000 - $110,000,
+- 🕒 **Posted:** 2026-10-07
+
+### [Enterprise Life Sciences CRM Solution Owner](https://www.linkedin.com/jobs/view/4475472925/) — Slalom
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $23.50 to $30.50 per hour
+- 💰 **Salary:** $159,000 - $194,000
 - 🕒 **Posted:** 2026-10-07
 
-### [Lab Assistant - Entry Level](https://www.linkedin.com/jobs/view/4475180861/) — Actalent
-- 📍 **Location:** Port Washington, NY
-- 💰 **Salary:** $17.00/hr - $19.00/hr
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4476928257/) — EPITEC
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [R&d Technician](https://www.linkedin.com/jobs/view/4475185536/) — Actalent
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $35.00/hr - $45.00/hr
+### [Data Analyst III (remote)](https://www.linkedin.com/jobs/view/4475704000/) — Ryder System, Inc.
+- 📍 **Location:** Sacramento, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Fraud Data Analyst](https://www.linkedin.com/jobs/view/4475194286/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Clinical Laboratory Technologist - Molecular Microbiology](https://www.linkedin.com/jobs/view/4475192527/) — Labcorp
-- 📍 **Location:** Dublin, OH
-- 💰 **Salary:** $25.85 - $35.00
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior DoD Contracting Subject Matter Expert](https://www.linkedin.com/jobs/view/4475184589/) — Avum Inc.
-- 📍 **Location:** Malibu, CA
-- 💰 **Salary:** $115,000 to $150,000 annually
+### [Civil Engineer](https://www.linkedin.com/jobs/view/4474476624/) — Advance Management Inc.,
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $140,000.00/yr - $166,400.00/yr
 - 🕒 **Posted:** 2026-10-07
