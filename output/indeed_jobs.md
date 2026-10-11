@@ -1,6 +1,11 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-11 02:14 UTC*
+*Last updated: 2026-10-11 09:20 UTC*
 
-**0 new role(s)** since last run · 12 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Staff Research Associate 2 (9612C), Molecular & Cell Biology - #89397](https://www.indeed.com/viewjob?jk=34dce8671cfdb227) — University of California Berkeley
+- 📍 **Location:** Berkeley, CA, USA
+- 💰 **Salary:** $68k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-11
