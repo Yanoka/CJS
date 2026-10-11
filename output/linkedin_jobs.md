@@ -1,33 +1,9 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-11 00:43 UTC*
+*Last updated: 2026-10-11 06:24 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Data Engineer- Databricks, PySpark,Python](https://www.linkedin.com/jobs/view/4477239549/) — Innovya Technologies
-- 📍 **Location:** Pasadena, CA
+### [Data Science - Remote](https://www.linkedin.com/jobs/view/4478309037/) — Torentify
+- 📍 **Location:** United States
+- 💰 **Salary:** $290,000–$375,000 per year
 - 🕒 **Posted:** 2026-10-11
-
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4477241087/) — Sutter Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $31.23 to $39.03
-- 🕒 **Posted:** 2026-10-10
-
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4477226518/) — Sutter Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $31.23 to $39.03
-- 🕒 **Posted:** 2026-10-10
-
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4477243004/) — Sutter Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $31.23 to $39.03
-- 🕒 **Posted:** 2026-10-10
-
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4477233309/) — Sutter Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $31.23 to $39.03
-- 🕒 **Posted:** 2026-10-10
-
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4477221724/) — Sutter Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $31.23 to $39.03
-- 🕒 **Posted:** 2026-10-10
