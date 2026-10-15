@@ -1,64 +1,62 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-15 01:36 UTC*
+*Last updated: 2026-10-15 08:58 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Clinical Laboratory Scientist (CLS)](https://www.linkedin.com/jobs/view/4479738725/) — Community Memorial Healthcare
-- 📍 **Location:** Ventura, CA
-- 💰 **Salary:** $53.39 - $75.15 per hour
+### [Senior Applied AI Engineer (Enterprise AI / Python)](https://www.linkedin.com/jobs/view/4477047792/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $160,000.00/yr - $195,000.00/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [Senior Software Engineer, Bioinformatics](https://www.linkedin.com/jobs/view/4478815902/) — Guardant Health
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $150,300 - $206,700
+### [Data Analyst](https://www.linkedin.com/jobs/view/4477063089/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [Data Analyst - Up to $200k USD + Bonus! - New York (Hybrid) - Trading Firm](https://www.linkedin.com/jobs/view/4477015534/) — Hunter Bond
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-14
-
-### [Staff Research Associate 1](https://www.linkedin.com/jobs/view/4479724219/) — UCLA
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $30.12/hr - $35.92/hr
-- 🕒 **Posted:** 2026-10-14
-
-### [CAD Engineer](https://www.linkedin.com/jobs/view/4478808584/) — TetraMem - Accelerate The World
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $110,000 - $250,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Migration & CAD Integrations (Using Enovia Adaplet Connector)](https://www.linkedin.com/jobs/view/4478824028/) — PROLIM Corporation
+### [Data Analyst](https://www.linkedin.com/jobs/view/4477059413/) — TalentHop
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-14
+- 💰 **Salary:** $80,000.00/yr - $95,000.00/yr
+- 🕒 **Posted:** 2026-10-15
 
-### [Civil Engineering Intern – Transportation](https://www.linkedin.com/jobs/view/4479721575/) — Parametrix
-- 📍 **Location:** Emeryville, CA
-- 💰 **Salary:** $30 USD - $32 USD
-- 🕒 **Posted:** 2026-10-14
-
-### [Bloomberg Intelligence - Credit Strategy Research Associate](https://www.linkedin.com/jobs/view/4477012786/) — Bloomberg
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Clinical Research Associate](https://www.linkedin.com/jobs/view/4479717587/) — ICON Strategic Solutions
+### [Data Analyst](https://www.linkedin.com/jobs/view/4477050700/) — TalentHop
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-14
+- 💰 **Salary:** $148,000.00/yr - $189,000.00/yr
+- 🕒 **Posted:** 2026-10-15
 
-### [Specialized Laboratory Technician](https://www.linkedin.com/jobs/view/4479730070/) — University of Southern California
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $28.83 - $36.02
-- 🕒 **Posted:** 2026-10-14
-
-### [Part-Time ATE Lab Technician (Graveyard Shift)](https://www.linkedin.com/jobs/view/4479733054/) — indie.inc
-- 📍 **Location:** Aliso Viejo, CA
-- 🕒 **Posted:** 2026-10-14
-
-### [Clinical Research Associate (CRA)](https://www.linkedin.com/jobs/view/4479727244/) — ICON Strategic Solutions
+### [Senior Data Analyst, GTM](https://www.linkedin.com/jobs/view/4477058544/) — TalentHop
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-14
+- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-10-15
 
-### [Clinical Data Analyst](https://www.linkedin.com/jobs/view/4478806698/) — Redbock - an NES Fircroft company
+### [Python Developer](https://www.linkedin.com/jobs/view/4479783491/) — Radley James
 - 📍 **Location:** United States
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-10-14
+- 💰 **Salary:** $160,000–$250,000 USD
+- 🕒 **Posted:** 2026-10-15
+
+### [Full Stack Python/React Engineer — Remote](https://www.linkedin.com/jobs/view/4479786759/) — Torentify
+- 📍 **Location:** Washington, United States
+- 🕒 **Posted:** 2026-10-15
+
+### [Quality Control Technician](https://www.linkedin.com/jobs/view/4479785804/) — Actalent
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $30.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-10-15
+
+### [Lab Assistant - Per Diem](https://www.linkedin.com/jobs/view/4479016916/) — Tahoe Forest Health System
+- 📍 **Location:** Truckee, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Specimen Processor Extra on Call](https://www.linkedin.com/jobs/view/4479800368/) — Saint Agnes Medical Center
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $23.00-$28.64
+- 🕒 **Posted:** 2026-10-15
+
+### [Care Coordinator - Russian/Farsi/Dari Bilingual Speakers Preferred](https://www.linkedin.com/jobs/view/4479802228/) — Elica Health Centers
+- 📍 **Location:** North Highlands, CA
+- 💰 **Salary:** $25.00 - $30.00
+- 🕒 **Posted:** 2026-10-15
+
+### [Specimen Processor Extra on Call](https://www.linkedin.com/jobs/view/4479785934/) — Trinity Health
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $23.00-$28.64
+- 🕒 **Posted:** 2026-10-15
