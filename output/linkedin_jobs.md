@@ -1,36 +1,23 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-17 08:12 UTC*
+*Last updated: 2026-10-17 19:32 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Data Analyst II, Tech](https://www.linkedin.com/jobs/view/4480811080/) — Uber
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-17
-
-### [Global Data Science Lead](https://www.linkedin.com/jobs/view/4479662595/) — Veeva Systems
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,000 - $250,000
-- 🕒 **Posted:** 2026-10-17
-
-### [Global Data Science Lead](https://www.linkedin.com/jobs/view/4479664455/) — Veeva Systems
+### [Online Data Analyst - United States of America](https://www.linkedin.com/jobs/view/4416645974/) — TELUS Digital
 - 📍 **Location:** United States
-- 💰 **Salary:** $120,000 - $250,000
 - 🕒 **Posted:** 2026-10-17
 
-### [Clinical Solutions Engineer (Subject Matter Expert) - West Coast](https://www.linkedin.com/jobs/view/4480813155/) — SOPHiA GENETICS
-- 📍 **Location:** Los Angeles, CA
+### [Data Analyst - Finance](https://www.linkedin.com/jobs/view/4470194282/) — AAA Auto Club Enterprises
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $74,500.00 - $99,500.00
 - 🕒 **Posted:** 2026-10-17
 
-### [Manager, People Analytics & Data Science](https://www.linkedin.com/jobs/view/4480800898/) — Mercury Insurance
-- 📍 **Location:** United States
-- 💰 **Salary:** $128,136 to $252,194
+### [GenAI Python Systems Engineer –Senior Manager](https://www.linkedin.com/jobs/view/4453644776/) — PwC
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $124,000 - $280,000
 - 🕒 **Posted:** 2026-10-17
 
-### [Lab Assistant I - Sharp Tri-City - Day Shift - Full Time](https://www.linkedin.com/jobs/view/4480809837/) — Sharp HealthCare
-- 📍 **Location:** Oceanside, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Chief College Laboratory Technician (Classroom) - Hunter-Bellevue School of Nursing, Hunter College](https://www.linkedin.com/jobs/view/4479366988/) — Hunter Nursing
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $102,508 - $111,459
+### [Staff Software Engineer, Python](https://www.linkedin.com/jobs/view/4352517490/) — Pandora
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $106,600 to $200,000
 - 🕒 **Posted:** 2026-10-17
