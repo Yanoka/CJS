@@ -140,3 +140,4 @@
 {"job_count": 7, "run_attempt": "1", "run_id": "39006901509", "timestamp": "2026-10-17T08:12:30Z", "workflow": "linkedin"}
 {"job_count": 4, "run_attempt": "1", "run_id": "39055608837", "timestamp": "2026-10-17T19:32:35Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "39067517465", "timestamp": "2026-10-17T21:39:18Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "39071873696", "timestamp": "2026-10-17T21:40:46Z", "workflow": "google_jobs"}
