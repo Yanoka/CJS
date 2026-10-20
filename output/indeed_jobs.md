@@ -1,46 +1,90 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-20 05:24 UTC*
+*Last updated: 2026-10-20 19:56 UTC*
 
-**6 new role(s)** since last run · 20 total in last 24h
+**13 new role(s)** since last run · 27 total in last 24h
 
-### [AI Biologist - Microscopy](https://www.indeed.com/viewjob?jk=a6aec8e7bbd525f8) — LatchBio
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $120k–$180k/yr
+### [Emulation Lab Technician](https://www.indeed.com/viewjob?jk=20a1ccf1b94620a5) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $60k–$121k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-20
 
-### [Clinical Lab Scientist - Cell Therapy Lab](https://www.indeed.com/viewjob?jk=7e2f70316f5abf32) — UCLA Health
+### [Optical Lab Technician](https://www.indeed.com/viewjob?jk=5f844b97e746938c) — US VisionMed Partners
 - 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $56.54–$79.11/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-20
-
-### [Research Associate II - WC - Part Time - San Diego Zoo](https://www.indeed.com/viewjob?jk=a3ec24824ada7e0d) — San Diego Zoo Wildlife Alliance
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $31.32/hr
+- 💰 **Salary:** $22–$26/hr
 - **Work mode:** On-site
 - **Job type:** parttime
 - 🕒 **Posted:** 2026-10-20
 
-### [Clinical Research Associate, Early Clinical Development](https://www.indeed.com/viewjob?jk=d34ba76b9751a0d3) — IQVIA
-- 📍 **Location:** Carlsbad, CA, USA
-- 💰 **Salary:** $90k–$175k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-19
-
-### [Quality Control Technician](https://www.indeed.com/viewjob?jk=2ff90cd2ad8743a4) — National Beverage Corp.
-- 📍 **Location:** Hayward, CA, USA
-- 💰 **Salary:** $26/hr
+### [Lab Technician I - 2nd Shift](https://www.indeed.com/viewjob?jk=139a82c1d60d72fe) — Vitalant
+- 📍 **Location:** Mather, CA, USA
+- 💰 **Salary:** $21–$21.63/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-20
 
-### [Quality Control Technician](https://www.indeed.com/viewjob?jk=2d11d81ff1dacd6b) — Shasta Beverages, Inc.
-- 📍 **Location:** Hayward, CA, USA
-- 💰 **Salary:** $26/hr
+### [Laboratory Technician](https://www.indeed.com/viewjob?jk=4f07787601381a1b) — TJ|H2b Analytical Services
+- 📍 **Location:** Sacramento, CA, USA
+- 💰 **Salary:** $21–$23/hr
+- **Work mode:** On-site
+- **Job type:** temporary, parttime
+- 🕒 **Posted:** 2026-10-20
+
+### [WOC - Research Biological Science Lab Technician](https://www.indeed.com/viewjob?jk=92edc425a91fd3e1) — US Department of Veterans Affairs
+- 📍 **Location:** San Diego, CA, USA
+- **Work mode:** On-site
+- **Job type:** temporary, fulltime
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Clinical Laboratory Scientist (Generalist) - PM Shift](https://www.indeed.com/viewjob?jk=e351740c2c21dae1) — ClearNote Health
+- 📍 **Location:** San Diego, CA, USA
+- 💰 **Salary:** $110k–$130k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Bioinformatics Scientist San Carlos](https://www.indeed.com/viewjob?jk=49d3b544cf0c7a4f) — Nautilus Bio
+- 📍 **Location:** San Carlos, CA, USA
+- 💰 **Salary:** $126k–$182k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-20
+
+### [Postdoctoral Scholar - Research Associate - Cancer Genomics and Therapeutics](https://www.indeed.com/viewjob?jk=ab34121fc5af5591) — Keck Medicine of USC
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $70k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-20
+
+### [Laboratory Assistant II, Baldwin Park (On-call, Day shift)](https://www.indeed.com/viewjob?jk=08bd1a6c89be983b) — Kaiser Permanente
+- 📍 **Location:** Baldwin Park, CA, USA
+- 💰 **Salary:** $34.09–$37.60/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-20
+
+### [Student Research Assistant- Civil Engineering #755395586](https://www.indeed.com/viewjob?jk=0c8ecda470a184aa) — Cal Poly Pomona Foundation, Inc.
+- 📍 **Location:** Pomona, CA, USA
+- 💰 **Salary:** $20/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Clinical Research Associate](https://www.indeed.com/viewjob?jk=a216e2fab3fa61a5) — Arrowhead Pharmaceuticals
+- 📍 **Location:** San Diego, CA, USA
+- 💰 **Salary:** $125k–$135k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-20
+
+### [Pharmacology Operations Research Associate II](https://www.indeed.com/viewjob?jk=2d55bfbf37a9ff0d) — BBOT
+- 📍 **Location:** South San Francisco, CA, USA
+- 💰 **Salary:** $85k–$105k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-20
+
+### [Quality Control Technician I](https://www.indeed.com/viewjob?jk=7fc6adde37a058aa) — SCN BestCo
+- 📍 **Location:** Santa Cruz, CA, USA
+- 💰 **Salary:** $24.12/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-20
