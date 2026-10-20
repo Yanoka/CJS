@@ -1,87 +1,98 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-20 03:54 UTC*
+*Last updated: 2026-10-20 08:18 UTC*
 
-**18 new role(s)** since last run · 19 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Analyst, Data Science - Burson](https://www.linkedin.com/jobs/view/4478633459/) — Burson
+### [Manager-Data Science (New York, NY)](https://www.linkedin.com/jobs/view/4475995011/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $35,000—$75,000 USD
+- 💰 **Salary:** $103,750.00/yr - $174,750.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [CAD Drafter (Temporary)](https://www.linkedin.com/jobs/view/4480296655/) — PteroDynamics Inc.
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $20.00 - $36.00 per hour
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Data Analyst – Microsoft Fabric & Power BI](https://www.linkedin.com/jobs/view/4478626863/) — NR Consulting
+### [Research Associate](https://www.linkedin.com/jobs/view/4480447196/) — crewlia
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-20
 
-### [Research Associate, NGS Laboratory (Contract-to-Hire)](https://www.linkedin.com/jobs/view/4480299518/) — Crownlands
+### [Manager, Data Science](https://www.linkedin.com/jobs/view/4456280848/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $103,750.00/yr - $174,750.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Manager-Data Science (New York, NY)](https://www.linkedin.com/jobs/view/4475991195/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4478652477/) — Success Recruitments
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer, Sr. (Python) - WFH](https://www.linkedin.com/jobs/view/4481526803/) — Torentify
+- 📍 **Location:** United States
+- 💰 **Salary:** $175,000–$210,000
+- 🕒 **Posted:** 2026-10-20
+
+### [Pharmacology Operations Research Associate II](https://www.linkedin.com/jobs/view/4478648808/) — BBOT
 - 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $35.00/hr - $45.00/hr
+- 💰 **Salary:** $85,000 to $105,000
 - 🕒 **Posted:** 2026-10-20
 
-### [Lab Technician, Sealants](https://www.linkedin.com/jobs/view/4481511194/) — PPG
-- 📍 **Location:** Mojave, CA
-- 💰 **Salary:** $52,000 to $55,000,
-- 🕒 **Posted:** 2026-10-20
-
-### [ANIMAL LABORATORY TECHNICIAN I](https://www.linkedin.com/jobs/view/4481506361/) — University of Alabama at Birmingham
-- 📍 **Location:** Greater Birmingham, Alabama Area
-- 💰 **Salary:** $15.00 – $22.75
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Laboratory Assistant](https://www.linkedin.com/jobs/view/4480400645/) — Providence
+### [Senior Laboratory Assistant](https://www.linkedin.com/jobs/view/4480442296/) — Providence
 - 📍 **Location:** Orange, CA
-- 💰 **Salary:** $25.00 - $37.98
+- 💰 **Salary:** $25.00/hr - $37.98/hr
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Research Associate, Chemistry](https://www.linkedin.com/jobs/view/4474428037/) — Ultima Genomics
-- 📍 **Location:** Fremont, CA
+### [Supervisor Clinical Laboratory](https://www.linkedin.com/jobs/view/4480434673/) — Providence
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $69.85/hr - $110.28/hr
 - 🕒 **Posted:** 2026-10-20
 
-### [Research Associate - Project Evaluator - Psychiatry - UI ARC](https://www.linkedin.com/jobs/view/4480413074/) — University of Iowa
-- 📍 **Location:** Iowa City, IA
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4480408243/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $62,000 – $141,000
-- 🕒 **Posted:** 2026-10-20
-
-### [Bioinformatics Operations & Genomics Analyst](https://www.linkedin.com/jobs/view/4481516256/) — Pathfinder Oncology
+### [Research Assistant](https://www.linkedin.com/jobs/view/4480442421/) — crewlia
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-20
 
-### [Research Data Analyst 2](https://www.linkedin.com/jobs/view/4481510801/) — Stanford University
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $91,852 to $128,138 per annum
+### [Senior Clinical Research Associate/Clinical Research Associate II - US Any Region - FSP](https://www.linkedin.com/jobs/view/4480449250/) — ATLAS MEDICAL SERVICES LTD. STI.
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-20
 
-### [Civil Engineering Intern- Summer 2027](https://www.linkedin.com/jobs/view/4480403700/) — WSP in the U.S.
+### [AI Biologist - Microscopy](https://www.linkedin.com/jobs/view/4481545149/) — LatchBio
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $19 - $30
+- 💰 **Salary:** $120K–$180K
 - 🕒 **Posted:** 2026-10-20
 
-### [Civil Engineer - Land Development](https://www.linkedin.com/jobs/view/4480402596/) — Kimley-Horn
-- 📍 **Location:** Roseville, CA
+### [Senior Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4478661322/) — Nautilus Biotechnology
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $126,000.00/yr - $182,000.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Research Technician I – In Vivo Pharmacology](https://www.linkedin.com/jobs/view/4478292404/) — Planet Pharma
-- 📍 **Location:** South San Francisco, CA
+### [Clinical Lab Scientist I - Flow Cytometry](https://www.linkedin.com/jobs/view/4478660353/) — Quest Diagnostics
+- 📍 **Location:** San Juan Capistrano, CA
+- 💰 **Salary:** $40.00 - $56.44
 - 🕒 **Posted:** 2026-10-20
 
-### [Research Associate III, ddPCR Assay development- Temporary](https://www.linkedin.com/jobs/view/4480415485/) — Bio-Rad Laboratories
-- 📍 **Location:** Pleasanton, CA
+### [Remote Senior Python Engineer](https://www.linkedin.com/jobs/view/4480444475/) — Turing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4480406679/) — Haystack
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $119.13 - $124.13
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4480438696/) — Turing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-20
 
-### [Government Subject Matter Expert (SME) - AI Model Evaluation](https://www.linkedin.com/jobs/view/4481291691/) — Volga Partners
-- 📍 **Location:** United States
-- 💰 **Salary:** $35.00/yr - $40.00/yr
-- 🕒 **Posted:** 2026-10-19
+### [Remote Biology Expert (PhD)](https://www.linkedin.com/jobs/view/4480449349/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-20
+
+### [Research Associate / Senior Research Associate – Drug Discovery / In Vivo Pharmacology (Contract)](https://www.linkedin.com/jobs/view/4478662581/) — Arnatar Therapeutics
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Forward Deployed Engineer | Python | API's | AWS | Docker | Kubernetes | Hybrid | San Francisco, CA](https://www.linkedin.com/jobs/view/4480438827/) — Enigma
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Remote Python/Typescript Engineer](https://www.linkedin.com/jobs/view/4480437980/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-20
+
+### [Remote Python Engineer](https://www.linkedin.com/jobs/view/4480457047/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-20
