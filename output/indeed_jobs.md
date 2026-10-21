@@ -1,113 +1,105 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-21 06:38 UTC*
+*Last updated: 2026-10-21 22:49 UTC*
 
-**16 new role(s)** since last run · 36 total in last 24h
+**15 new role(s)** since last run · 32 total in last 24h
 
-### [Sr. CAD PLM Support Engineer](https://www.indeed.com/viewjob?jk=9a710260b93a8dd5) — Tesla
+### [Staff AI-CAD Applications Engineer](https://www.indeed.com/viewjob?jk=7c8c9b5b9820062a) — Lam Research
 - 📍 **Location:** Fremont, CA, USA
-- 💰 **Salary:** $100k–$204k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Sr. Manager, Data Engineering & Applied Data Science](https://www.indeed.com/viewjob?jk=881d133f4c3a9932) — Thermo Fisher Scientific
-- 📍 **Location:** Carlsbad, CA, USA
-- 💰 **Salary:** $152k–$228k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Medical Laboratory Technician](https://www.indeed.com/viewjob?jk=8802af7bbc4945f0) — Palomar Health
-- 📍 **Location:** Escondido, CA, USA
-- 💰 **Salary:** $32.39–$48.66/hr
+- 💰 **Salary:** $141k–$307k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-21
 
-### [Certified Phlebotomist Technician (CPT) - Clinical Lab](https://www.indeed.com/viewjob?jk=7a8eb0c6ac00ec13) — Prime Healthcare Services
-- 📍 **Location:** Montclair, CA, USA
-- 💰 **Salary:** $23–$24.26/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-21
-
-### [Senior Lab Technician - Construction Materials Testing Lab](https://www.indeed.com/viewjob?jk=dfb97afcaa6c130b) — Blackburn Consulting
-- 📍 **Location:** West Sacramento, CA, USA
-- 💰 **Salary:** $62k–$73k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Lab Technician (CVD/Furnace Operator)](https://www.indeed.com/viewjob?jk=5a07b403eec91b09) — CDimension Inc
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $28–$36/hr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime, contract
-- 🕒 **Posted:** 2026-10-20
-
-### [Medical Laboratory Technician - Urgent Care](https://www.indeed.com/viewjob?jk=aee565fe7bfbb4d2) — Providence
-- 📍 **Location:** Mission Hills, CA, USA
-- 💰 **Salary:** $29.62–$45.31/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-20
-
-### [Accessioning Technician I (Temp), Tues-Sat Evenings](https://www.indeed.com/viewjob?jk=1a40ae81b4a4ad56) — NeoGenomics
-- 📍 **Location:** Aliso Viejo, CA, USA
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Accessioning Technician I (Temp), Mon-Fri Evenings](https://www.indeed.com/viewjob?jk=f099a24566f91741) — NeoGenomics
-- 📍 **Location:** Aliso Viejo, CA, USA
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Specimen Processor](https://www.indeed.com/viewjob?jk=29999f16d1066b10) — Sutter Health
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $26.65–$37.30/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-21
-
-### [Laboratory Assistant (Full-Time, Variable Shift)](https://www.indeed.com/viewjob?jk=4f94651752199cdf) — Adventist Health
-- 📍 **Location:** Reedley, CA, USA
-- 💰 **Salary:** $25–$30.45/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Laboratory Assistant, Per Diem, Variable Shift](https://www.indeed.com/viewjob?jk=4ea15df89ea9b526) — Adventist Health
-- 📍 **Location:** Sonora, CA, USA
-- 💰 **Salary:** $25–$30.45/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Clinical Lab Scientist](https://www.indeed.com/viewjob?jk=f3cdb922632a9805) — Sutter Health
+### [Senior Specialist - Data Sciences](https://www.indeed.com/viewjob?jk=460b858c55810827) — LTM Limited
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $69.88–$97.82/hr
+- 💰 **Salary:** $110k–$130k/yr
 - **Work mode:** On-site
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-10-21
 
-### [Clinical Laboratory Scientist - Per Diem - Nights - 8hr FPH](https://www.indeed.com/viewjob?jk=695e5cde26257b28) — Emanate Health
-- 📍 **Location:** Glendora, CA, USA
-- 💰 **Salary:** $64/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-21
-
-### [Associate Research Technician](https://www.indeed.com/viewjob?jk=36d7b51c5ea90738) — California Institute of Technology
-- 📍 **Location:** Pasadena, CA, USA
-- 💰 **Salary:** $25.75–$32/hr
+### [Lab Technician I - Dayshift](https://www.indeed.com/viewjob?jk=8f2ad6084e1de743) — Vitalant
+- 📍 **Location:** Mather, CA, USA
+- 💰 **Salary:** $21/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-21
 
-### [Quality Control Technician](https://www.indeed.com/viewjob?jk=ff16a64595095a3d) — Rune
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $50k–$75k/yr
+### [Mechanical Assembler (Hardware Lab Technician)](https://www.indeed.com/viewjob?jk=616af476e840d9cd) — Metantz
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $55–$65/hr
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-10-21
+
+### [Orthodontic Lab Technician (Retainers & Appliances)](https://www.indeed.com/viewjob?jk=7e22bf46b375c280) — Christensen Family Orthodontics
+- 📍 **Location:** Clovis, CA, USA
+- 💰 **Salary:** $16.90–$20/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Digital Dental Lab Technician- CAD/CAM, 3D Printing & Implant Prosthetics](https://www.indeed.com/viewjob?jk=de90275dbdd36120) — Ueno Center Dental Specialists
+- 📍 **Location:** Campbell, CA, USA
+- 💰 **Salary:** $90k–$115k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Certified Phlebotomist II - Clinical Laboratory - Full Time/Days - Req# 2185050893](https://www.indeed.com/viewjob?jk=c254dc970be839c8) — Antelope Valley Medical Center
+- 📍 **Location:** Lancaster, CA, USA
+- 💰 **Salary:** $25.81–$36.72/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Lab Assistant](https://www.indeed.com/viewjob?jk=6d85bed2bb7db4c9) — Labcorp
+- 📍 **Location:** San Diego, CA, USA
+- 💰 **Salary:** $17.75–$20/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-21
+
+### [Specialty Lab Assistant](https://www.indeed.com/viewjob?jk=9cca01c0c8d43e3b) — Labcorp
+- 📍 **Location:** Monrovia, CA, USA
+- 💰 **Salary:** $17.75–$20/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-21
+
+### [Specimen Processor (Day Shift)](https://www.indeed.com/viewjob?jk=8427b371578ebc3b) — Antech Diagnostics
+- 📍 **Location:** Fountain Valley, CA, USA
+- 💰 **Salary:** $21.15/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Clinical Lab Scientist I -Micro Biology](https://www.indeed.com/viewjob?jk=db6c0a03eeb1c571) — Palomar Health
+- 📍 **Location:** Escondido, CA, USA
+- 💰 **Salary:** $42.30–$63.53/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-21
+
+### [Pathology Assistant - Per Diem - Clinical Laboratory - Marina Hospital](https://www.indeed.com/viewjob?jk=3e6eb7c29d2aa237) — Cedars-Sinai Medical Center
+- 📍 **Location:** Marina del Rey, CA, USA
+- 💰 **Salary:** $50.95–$81.52/hr
+- **Work mode:** On-site
+- **Job type:** perdiem
+- 🕒 **Posted:** 2026-10-21
+
+### [Associate Research Technician](https://www.indeed.com/viewjob?jk=b94576bd37a6eb4c) — California Institute of Technology
+- 📍 **Location:** Pasadena, CA, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Research Assistant](https://www.indeed.com/viewjob?jk=1c3b60a60b1f1b60) — California Institute of Technology
+- 📍 **Location:** Pasadena, CA, USA
+- 💰 **Salary:** $23.10/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Equity Research Associate - Brokers, Asset Managers & Exchanges](https://www.indeed.com/viewjob?jk=95e4e2ccc3f8d08a) — Jefferies LLC
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $100k–$120k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-21
