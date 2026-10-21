@@ -1,156 +1,74 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-21 21:13 UTC*
+*Last updated: 2026-10-21 23:56 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Senior Specialist - Data Sciences](https://www.linkedin.com/jobs/view/4479445108/) — LTM
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [Senior Applied AI Engineer (Enterprise AI / Python)](https://www.linkedin.com/jobs/view/4479447198/) — TalentHop
+### [Generalist AI Trainer](https://www.linkedin.com/jobs/view/4479448612/) — AI Trainers Online
 - 📍 **Location:** United States
-- 💰 **Salary:** $160,000 to $195,000,
+- 💰 **Salary:** $30 – $45 per hour
 - 🕒 **Posted:** 2026-10-21
 
-### [Forward Deployed Chief AI Engineering Expert](https://www.linkedin.com/jobs/view/4471953702/) — SAP
+### [Aerospace CAD Expert, Part-Time AI CAD Question Authoring - Remote (United States)](https://www.linkedin.com/jobs/view/4481159731/) — OpenTrain AI
+- 📍 **Location:** United States
+- 💰 **Salary:** $40–$80 per hour
+- 🕒 **Posted:** 2026-10-21
+
+### [Lead Software Engineer (Python)](https://www.linkedin.com/jobs/view/4482185496/) — Talener
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000 - $160,000
 - 🕒 **Posted:** 2026-10-21
 
-### [Technical Consultant Subject Matter Expert (SME) I](https://www.linkedin.com/jobs/view/4482144570/) — Woolpert
-- 📍 **Location:** United States
-- 💰 **Salary:** $118,200 - $147,800 USD
+### [GIS Data Analyst](https://www.linkedin.com/jobs/view/4482183523/) — Radiance Technologies
+- 📍 **Location:** Ohio, United States
 - 🕒 **Posted:** 2026-10-21
 
-### [Engineering Specialist - Digital and Systems Engineering](https://www.linkedin.com/jobs/view/4479435674/) — The Aerospace Corporation
-- 📍 **Location:** El Segundo, CA
-- 💰 **Salary:** $117,300.00 - $175,900.00
+### [Sr. Civil Engineer](https://www.linkedin.com/jobs/view/4473211573/) — Jobot
+- 📍 **Location:** Lotus, CA
+- 💰 **Salary:** $125,000.00/yr - $155,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [CAD Drafter / GIS Technician](https://www.linkedin.com/jobs/view/4481138790/) — Monument
-- 📍 **Location:** United States
+### [Sr. Bioinformatics Scientist - Collaborations](https://www.linkedin.com/jobs/view/4477487332/) — Personalis, Inc.
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $158,000 to $190,000 per year
 - 🕒 **Posted:** 2026-10-21
 
-### [AI Innovation Lead, Life Sciences Acceleration Hub](https://www.linkedin.com/jobs/view/4482146594/) — Salesforce
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $191,100 - $320,600 annually
-- 🕒 **Posted:** 2026-10-21
-
-### [CAD Engineer](https://www.linkedin.com/jobs/view/4482087792/) — Career Launch Recruitment Solutions
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $80-$150 per hour
-- 🕒 **Posted:** 2026-10-21
-
-### [Civil Engineer - Structural](https://www.linkedin.com/jobs/view/4482142934/) — Ampirical
-- 📍 **Location:** San Ramon, CA
-- 💰 **Salary:** $95,227-$179,439
-- 🕒 **Posted:** 2026-10-21
-
-### [Biology & Bioinformatics Research Specialist (PhD) - AI Projects](https://www.linkedin.com/jobs/view/4482143592/) — Gramian Consulting
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-21
-
-### [Project Manager-(healthcare & life sciences)](https://www.linkedin.com/jobs/view/4482144649/) — Programming.com
+### [Scientist (NGS library, ChIP-seq, CUT&RUN, R and/or Python)](https://www.linkedin.com/jobs/view/4481176212/) — Aequor
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [AI Innovation Lead, Life Sciences Acceleration Hub](https://www.linkedin.com/jobs/view/4482160133/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $191,100 - $320,600 annually
-- 🕒 **Posted:** 2026-10-21
-
-### [AI Innovation Lead, Life Sciences Acceleration Hub](https://www.linkedin.com/jobs/view/4482141690/) — Salesforce
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $191,100 - $320,600 annually
-- 🕒 **Posted:** 2026-10-21
-
-### [Pharma and Life Sciences R&D Operations Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4473566657/) — PwC
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-10-21
-
-### [Research Associate II - WC - Part Time - San Diego Zoo](https://www.linkedin.com/jobs/view/4482149638/) — San Diego Zoo Safari Park
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Research Assistant | Laboratory of Chemical Immunology and Proteomics](https://www.linkedin.com/jobs/view/4481157079/) — The Rockefeller University
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-21
-
-### [Market Research Assistant](https://www.linkedin.com/jobs/view/4482149410/) — Opensity Solutions
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-21
-
-### [Entry-Level Specimen Processor - Hiring ASAP](https://www.linkedin.com/jobs/view/4482164105/) — Actalent
-- 📍 **Location:** Dublin, OH
-- 💰 **Salary:** $20.00/hr - $20.00/hr
-- 🕒 **Posted:** 2026-10-21
-
-### [Quality Control Technician](https://www.linkedin.com/jobs/view/4482157650/) — Diazyme Laboratories, Inc.
-- 📍 **Location:** Poway, CA
-- 💰 **Salary:** $48,500 - $72,125
-- 🕒 **Posted:** 2026-10-21
-
-### [Mechanical Test Automation Engineer (CAD & Fixture Design) for a Wireless Charging Test Team with a Global Consumer Electronics Company in Cupertino, CA](https://www.linkedin.com/jobs/view/4481157213/) — OSI Engineering
+### [Python Test Automation Engineer](https://www.linkedin.com/jobs/view/4481166536/) — Envision Technology Solutions
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Investigations Engineer - Source Code (C++, Java, Javascript, Python, SQL)](https://www.linkedin.com/jobs/view/4481160322/) — Keystone
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $135,000—$186,000 USD
+### [Lab Technician I - Dayshift](https://www.linkedin.com/jobs/view/4482184454/) — Vitalant
+- 📍 **Location:** Mather, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Microsoft Copilot Subject Matter Expert consultant](https://www.linkedin.com/jobs/view/4481149543/) — Lorven Technologies Inc.
-- 📍 **Location:** Alameda, CA
+### [Clinical Lab Support Rep - 4am-1230pm](https://www.linkedin.com/jobs/view/4481157966/) — Children's National Hospital
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $20.91 - $40.82
 - 🕒 **Posted:** 2026-10-21
 
-### [Research Data Analyst 2](https://www.linkedin.com/jobs/view/4481510801/) — Stanford University
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $91,852 to $128,138 per annum
-- 🕒 **Posted:** 2026-10-21
-
-### [Executive Personal Assistant to CEO (Russian Fluency Required)](https://www.linkedin.com/jobs/view/4481142877/) — Stealth AI Company
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $175,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [Laboratory Technician](https://www.linkedin.com/jobs/view/4482164500/) — @GLC
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-21
-
-### [Civil Engineering Planning and Programming Specialist](https://www.linkedin.com/jobs/view/4482151987/) — Booz Allen Hamilton
-- 📍 **Location:** Santa Barbara, CA
-- 💰 **Salary:** $61,900.00 to $141,000.00
-- 🕒 **Posted:** 2026-10-21
-
-### [Research Associate, Discovery Sciences](https://www.linkedin.com/jobs/view/4481157507/) — Avalon BioVentures
+### [Pathology Lab Assistant Sr. - Per Diem - Mercy San Diego](https://www.linkedin.com/jobs/view/4481179098/) — Scripps Health
 - 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $30.61-$43.79/hour
 - 🕒 **Posted:** 2026-10-21
 
-### [Laboratory - Clinical Lab Scientist](https://www.linkedin.com/jobs/view/4481163104/) — Vibra Travels
-- 📍 **Location:** Bishop, CA
+### [Research Associate II - Semiconductor](https://www.linkedin.com/jobs/view/4448535348/) — Stifel Financial Corp.
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-21
 
-### [Lab Assistant](https://www.linkedin.com/jobs/view/4482113701/) — Labcorp
+### [Clinical Research Associate (CRA)](https://www.linkedin.com/jobs/view/4457532118/) — Resmed
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $17.75 - $20.00 per hour
+- 💰 **Salary:** $86,000.00 - $128,000.00 USD
 - 🕒 **Posted:** 2026-10-21
 
-### [Specialty Lab Assistant](https://www.linkedin.com/jobs/view/4482129038/) — Labcorp
-- 📍 **Location:** Monrovia, CA
-- 💰 **Salary:** $17.75 - $20.00 per hour
+### [Civil Engineering Project Manager - Stormwater/Water/Wastewater Civil Engineering](https://www.linkedin.com/jobs/view/4477329997/) — Jobot
+- 📍 **Location:** Roseville, CA
+- 💰 **Salary:** $140,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Research Assistant](https://www.linkedin.com/jobs/view/4479462037/) — Caltech
+### [Civil Engineer Intern - Summer 2027](https://www.linkedin.com/jobs/view/4482182907/) — Parsons Corporation
 - 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4482160927/) — Clinisoltech
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $60,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [INSTRUCTIONAL LABORATORY TECHNICIAN I, (Automotive Technology)](https://www.linkedin.com/jobs/view/4482169456/) — San José - Evergreen Community College District
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $26.67/hr - $32.58/hr
+- 💰 **Salary:** $22.93 - $40.14
 - 🕒 **Posted:** 2026-10-21
