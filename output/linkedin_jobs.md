@@ -1,101 +1,124 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-22 05:35 UTC*
+*Last updated: 2026-10-22 19:49 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Visual & Digital Arts Specialist - Freelance AI Trainer Project](https://www.linkedin.com/jobs/view/4481186702/) — Jobgether
+### [Senior Python AI Engineer](https://www.linkedin.com/jobs/view/4480074300/) — Mastech
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Applied AI Engineer (Enterprise AI / Python)](https://www.linkedin.com/jobs/view/4480065647/) — TalentHop
 - 📍 **Location:** United States
-- 💰 **Salary:** $8 to $65 USD
+- 💰 **Salary:** $160,000 to $195,000,
 - 🕒 **Posted:** 2026-10-22
 
-### [Web Development Specialist -Freelance AI Trainer Project](https://www.linkedin.com/jobs/view/4481180846/) — Jobgether
-- 📍 **Location:** United States
-- 💰 **Salary:** $8 to $65 USD
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Research Associate](https://www.linkedin.com/jobs/view/4481191529/) — USC Auxiliary Services
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $76,675.67 - $90,000,
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4482434030/) — Dealstitch AI
+### [Data Analyst](https://www.linkedin.com/jobs/view/4481398409/) — KGS Technology Group, Inc
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-22
 
-### [Sr. / Staff. Engineer, Device Statistics & Model Correlation](https://www.linkedin.com/jobs/view/4481193467/) — Ayar Labs
-- 📍 **Location:** San Jose, CA
+### [Data Science and Analytics Manager](https://www.linkedin.com/jobs/view/4480077216/) — Corient
+- 📍 **Location:** Austin, Texas Metropolitan Area
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Science Job Template](https://www.linkedin.com/jobs/view/4482423647/) — Cursor
-- 📍 **Location:** San Francisco, CA
+### [Principal Business Process Expert (Life Sciences, Autonomous Regulated Manufacturing)](https://www.linkedin.com/jobs/view/4464114975/) — SAP
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-22
 
-### [Civil Engineer](https://www.linkedin.com/jobs/view/4481305021/) — Insight Global
+### [AWS Cloud Presales Solution Architect – Life Sciences](https://www.linkedin.com/jobs/view/4481388770/) — PSR Associates, Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-22
+
+### [Analog CAD Engineer](https://www.linkedin.com/jobs/view/4368791355/) — OMNIVISION
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $110,000 - $145,000
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Science & Analytics – Early Career Digital Technology Rising Leaders Program](https://www.linkedin.com/jobs/view/4481394678/) — Otis Elevator Co.
+- 📍 **Location:** Connecticut, United States
+- 💰 **Salary:** $70,000 to $80,000
+- 🕒 **Posted:** 2026-10-22
+
+### [Research Associate I - Prostate Cancer Research](https://www.linkedin.com/jobs/view/4478154197/) — City of Hope
+- 📍 **Location:** Duarte, CA
+- 💰 **Salary:** $27.00/hr - $32.00/hr
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Analyst with Testing](https://www.linkedin.com/jobs/view/4481386913/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $40.00/yr - $45.00/yr
+- 🕒 **Posted:** 2026-10-22
+
+### [Clinical Laboratory Technologist - Hematology - Mount Sinai Hospital - Full Time/Evenings (4pm - Midnight incl wknds & hol)](https://www.linkedin.com/jobs/view/4481601392/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-22
+
+### [Research Associate II](https://www.linkedin.com/jobs/view/4478149419/) — City of Hope
+- 📍 **Location:** Monrovia, CA
+- 💰 **Salary:** $34.00/hr - $47.00/hr
+- 🕒 **Posted:** 2026-10-22
+
+### [Research Associate I](https://www.linkedin.com/jobs/view/4480065634/) — R&D Partners
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $27.00/hr - $30.55/hr
+- 💰 **Salary:** $49,920.00/yr - $54,080.00/yr
 - 🕒 **Posted:** 2026-10-22
 
-### [Project Manager, Civil Engineering](https://www.linkedin.com/jobs/view/4482414779/) — Ware Malcomb
-- 📍 **Location:** Los Angeles, CA
+### [DPS Clinical Research Assistant I](https://www.linkedin.com/jobs/view/4481392750/) — City of Hope
+- 📍 **Location:** Duarte, CA
+- 💰 **Salary:** $34.00/hr - $38.00/hr
 - 🕒 **Posted:** 2026-10-22
 
-### [Python Developer](https://www.linkedin.com/jobs/view/4482186706/) — TaskVerse
+### [Medical Lab Assistant - Laboratory * Evenings (1430-2300) - 16hrs/wk](https://www.linkedin.com/jobs/view/4445984991/) — University of Michigan Health-West
+- 📍 **Location:** Wyoming, MI
+- 🕒 **Posted:** 2026-10-22
+
+### [Application Engineering Specialist - Adhesives](https://www.linkedin.com/jobs/view/4480071576/) — 3M
+- 📍 **Location:** Minnesota, United States
+- 💰 **Salary:** $145,676 - $178,049,
+- 🕒 **Posted:** 2026-10-22
+
+### [Clinical Research Associate II](https://www.linkedin.com/jobs/view/4481389836/) — ICON plc
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-22
 
-### [Microbiology Lab Technician II (3rd Shift)](https://www.linkedin.com/jobs/view/4482419727/) — BioSpace
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4482425625/) — Eurofins
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $18 - $22 per hour
-- 🕒 **Posted:** 2026-10-22
-
-### [Clinical Lab Assistant](https://www.linkedin.com/jobs/view/4479498152/) — Engineering Management Student Association (EMSA)
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $21.64 - $26.50
-- 🕒 **Posted:** 2026-10-22
-
-### [Research Associate](https://www.linkedin.com/jobs/view/4481191474/) — NYU Langone Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $47,033.90 - $50,000.00 Annually
-- 🕒 **Posted:** 2026-10-22
-
-### [Hospital Lab Technician 1 - Part Time](https://www.linkedin.com/jobs/view/4482410952/) — UCSF Health
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-10-22
-
-### [Electrical Engineering Specialist](https://www.linkedin.com/jobs/view/4481179989/) — Redwire
-- 📍 **Location:** San Luis Obispo, CA
-- 💰 **Salary:** $25 to $42 per hour
-- 🕒 **Posted:** 2026-10-22
-
-### [Research Associate I - Urology, Acharya Lab](https://www.linkedin.com/jobs/view/4479493208/) — Cedars-Sinai
-- 📍 **Location:** West Hollywood, CA
-- 💰 **Salary:** $25.00/hr - $30.46/hr
-- 🕒 **Posted:** 2026-10-22
-
-### [Research Associate](https://www.linkedin.com/jobs/view/4481190649/) — Omnicom Health Medical Communications
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000 to $85,000 annually
-- 🕒 **Posted:** 2026-10-22
-
-### [Clinical Research Associate I -  Surgery Chair](https://www.linkedin.com/jobs/view/4479483705/) — Cedars-Sinai
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $25.00/hr - $33.51/hr
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4482423660/) — A Full Renovation – Project Services
+### [Clinical Research Associate I (CRA I) - Oncology](https://www.linkedin.com/jobs/view/4481610004/) — BeOne Medicines
 - 📍 **Location:** United States
-- 💰 **Salary:** $73,500.00/yr - $76,500.00/yr
+- 💰 **Salary:** $80,000.00 - $105,000.00 annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Senior Biomedical Engineer](https://www.linkedin.com/jobs/view/4482422817/) — MiniMed
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $124,000.00 - $212,000.00
-- 🕒 **Posted:** 2026-10-22
-
-### [Junior Data Analyst – Python, SQL & AI/ML (Onsite, Fremont or Menlo Park, CA)](https://www.linkedin.com/jobs/view/4481197442/) — AI8Solutions
+### [Python AI Developer](https://www.linkedin.com/jobs/view/4481395667/) — Mphasis
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-10-22
+
+### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4481395736/) — TekWissen ®
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $70.00/hr - $78.00/hr
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Backend Software Engineer – Python](https://www.linkedin.com/jobs/view/4480081107/) — Akkodis
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $55.00/hr - $65.00/hr
+- 🕒 **Posted:** 2026-10-22
+
+### [Civil Engineering Analyst- Roadway](https://www.linkedin.com/jobs/view/4481606322/) — Kimley-Horn
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $100,000 - $104,000
+- 🕒 **Posted:** 2026-10-22
+
+### [Sr. CAD Drafter](https://www.linkedin.com/jobs/view/4462563093/) — CyberCoders
+- 📍 **Location:** Corona, CA
+- 💰 **Salary:** $80,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-10-22
+
+### [Specimen Processing Group Lead](https://www.linkedin.com/jobs/view/4480084168/) — Quest Diagnostics
+- 📍 **Location:** San Juan Capistrano, CA
+- 💰 **Salary:** $26.04 - $27.41
+- 🕒 **Posted:** 2026-10-22
+
+### [Lab Assistant - Drakakaki Lab (LAB AST 1)](https://www.linkedin.com/jobs/view/4480077350/) — University of California, Davis
+- 📍 **Location:** Davis, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Clinical Laboratory Scientist](https://www.linkedin.com/jobs/view/4481603205/) — Edgemont Healthcare Staffing
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-10-22
