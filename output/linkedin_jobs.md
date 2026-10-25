@@ -1,23 +1,26 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-25 06:27 UTC*
+*Last updated: 2026-10-25 19:22 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Data Analyst, Sr. - Fully Remote](https://www.linkedin.com/jobs/view/4483369275/) — Torentify
-- 📍 **Location:** United States
-- 💰 **Salary:** $128,000–$170,000 USD
-- 🕒 **Posted:** 2026-10-25
-
-### [Python ML Engineer - Work From Home](https://www.linkedin.com/jobs/view/4483372245/) — Torentify
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4482686873/) — Haystack
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4481083355/) — A Full Renovation – Interiors & Design
+### [Staff Data Analyst](https://www.linkedin.com/jobs/view/4439332601/) — Assured
 - 📍 **Location:** United States
-- 💰 **Salary:** $75,750.00/yr - $77,250.00/yr
+- 💰 **Salary:** $175,000.00/yr - $195,000.00/yr
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4481083358/) — A Full Renovation – Interiors & Design
-- 📍 **Location:** United States
-- 💰 **Salary:** $82,000.00/yr - $83,500.00/yr
+### [Business Data Analyst](https://www.linkedin.com/jobs/view/4482906096/) — Evlo AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [Marketing Data Analyst | Irvine, CA or Remote](https://www.linkedin.com/jobs/view/4482694371/) — Blizzard Entertainment
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $35.03 - $64.80 Hourly
+- 🕒 **Posted:** 2026-10-25
+
+### [Junior Experimental Operator / Lab Support Engineer / Junior Laboratory Technician](https://www.linkedin.com/jobs/view/4481098620/) — VOLTO Consulting
+- 📍 **Location:** Texas, United States
 - 🕒 **Posted:** 2026-10-25
