@@ -1,85 +1,52 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-27 02:35 UTC*
+*Last updated: 2026-10-27 08:12 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**10 new role(s)** since last run · 11 total in last 1h
 
-### [Head of Data Science](https://www.linkedin.com/jobs/view/4483266775/) — Linktree
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $320,000-$340,000
-- 🕒 **Posted:** 2026-10-27
-
-### [Head of Data Science](https://www.linkedin.com/jobs/view/4483275408/) — Linktree
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $320,000-$340,000
-- 🕒 **Posted:** 2026-10-27
-
-### [Bioinformatics Application Scientist, NGS - AMER](https://www.linkedin.com/jobs/view/4483271678/) — Twist Bioscience
+### [Application Engineer - AI Trainer - USA | Remote](https://www.linkedin.com/jobs/view/4484015256/) — Torentify
 - 📍 **Location:** United States
-- 💰 **Salary:** $125,000 - $141,000 USD
+- 💰 **Salary:** $104,000–$208,000 per year
 - 🕒 **Posted:** 2026-10-27
 
-### [Research Associate Intern](https://www.linkedin.com/jobs/view/4483774809/) — BillionToOne
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $0 to $400
+### [Senior Palantir AI and Data Science Engineer](https://www.linkedin.com/jobs/view/4484022375/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $95,600 to $188,400
 - 🕒 **Posted:** 2026-10-27
 
-### [Analyst-Data Science](https://www.linkedin.com/jobs/view/4483227961/) — American Express
+### [Senior Biomedical Engineer](https://www.linkedin.com/jobs/view/4482422817/) — MiniMed
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $124,000.00 - $212,000.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Palantir AI and Data Science Engineer](https://www.linkedin.com/jobs/view/4484004913/) — Deloitte
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
+- 💰 **Salary:** $95,600 to $188,400
 - 🕒 **Posted:** 2026-10-27
 
-### [Bloomberg Intelligence - Semiconductors Equity Research Associate](https://www.linkedin.com/jobs/view/4481811881/) — Bloomberg
+### [Data Analyst - Cloud Financial Operations](https://www.linkedin.com/jobs/view/4483770641/) — Planet
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+- 💰 **Salary:** $114,200—$142,700 USD
 - 🕒 **Posted:** 2026-10-27
 
-### [Staff Research Associate I](https://www.linkedin.com/jobs/view/4483763982/) — UC Irvine
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $29.99- $30.64
-- 🕒 **Posted:** 2026-10-27
-
-### [R&D Technician, Robotics Hardware](https://www.linkedin.com/jobs/view/4483785291/) — FieldAI
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-27
-
-### [Research Associate](https://www.linkedin.com/jobs/view/4483781583/) — BillionToOne
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $76,155 - $87,034
-- 🕒 **Posted:** 2026-10-27
-
-### [Laboratory Technician II - Core Laboratory 2nd Shift](https://www.linkedin.com/jobs/view/4483280568/) — University of Iowa
-- 📍 **Location:** Iowa City, IA
-- 🕒 **Posted:** 2026-10-27
-
-### [Clinical/HC Research Associate - Department of Radiology](https://www.linkedin.com/jobs/view/4483283544/) — University of Iowa
-- 📍 **Location:** Iowa City, IA
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4483776142/) — Netrolynx AI
+### [Data Analyst | $30/hr Remote](https://www.linkedin.com/jobs/view/4483291940/) — Crossing Hurdles
 - 📍 **Location:** United States
-- 💰 **Salary:** $182,500–$208,300
-- 🕒 **Posted:** 2026-10-26
+- 💰 **Salary:** $29.00/hr - $30.00/hr
+- 🕒 **Posted:** 2026-10-27
 
-### [Senior Civil Engineer](https://www.linkedin.com/jobs/view/4483771140/) — Arup
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $120,400 to $145,000 per year
-- 🕒 **Posted:** 2026-10-26
+### [Associate Laboratory Assistant](https://www.linkedin.com/jobs/view/4483601546/) — Providence
+- 📍 **Location:** Apple Valley, CA
+- 💰 **Salary:** $25.00/hr - $29.19/hr
+- 🕒 **Posted:** 2026-10-27
 
-### [Senior Civil Engineer](https://www.linkedin.com/jobs/view/4483767219/) — Arup
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,400 to $145,000 per year
-- 🕒 **Posted:** 2026-10-26
+### [Quality Control Technician](https://www.linkedin.com/jobs/view/4484006848/) — AppleOne Employment Services
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-27
 
-### [Traffic/Transportation Engineering Specialist](https://www.linkedin.com/jobs/view/4481814641/) — STV
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $124,288.79 - $142,044.33
-- 🕒 **Posted:** 2026-10-26
+### [Biomedical Technician I](https://www.linkedin.com/jobs/view/4484005922/) — Fresenius Medical Care
+- 📍 **Location:** Idaho Falls, ID
+- 🕒 **Posted:** 2026-10-27
 
-### [Research Data Analyst I](https://www.linkedin.com/jobs/view/4482047049/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Research Associate I](https://www.linkedin.com/jobs/view/4483267663/) — SLAS (Society for Laboratory Automation and Screening)
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-26
+### [Associate Laboratory Assistant](https://www.linkedin.com/jobs/view/4483299629/) — Providence
+- 📍 **Location:** Apple Valley, CA
+- 💰 **Salary:** $25.00/hr - $29.19/hr
+- 🕒 **Posted:** 2026-10-27
