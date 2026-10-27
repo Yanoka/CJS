@@ -1,52 +1,48 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-27 08:12 UTC*
+*Last updated: 2026-10-27 20:34 UTC*
 
-**10 new role(s)** since last run · 11 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Application Engineer - AI Trainer - USA | Remote](https://www.linkedin.com/jobs/view/4484015256/) — Torentify
+### [Senior Dynatrace Observability Engineer / Subject Matter Expert (SME)](https://www.linkedin.com/jobs/view/4483679852/) — Brillfy Technology Inc
 - 📍 **Location:** United States
-- 💰 **Salary:** $104,000–$208,000 per year
 - 🕒 **Posted:** 2026-10-27
 
-### [Senior Palantir AI and Data Science Engineer](https://www.linkedin.com/jobs/view/4484022375/) — Deloitte
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $95,600 to $188,400
+### [Intern, 3D Designer (Redmond, WA)](https://www.linkedin.com/jobs/view/4483688681/) — The Bernard Group, Inc.
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-27
 
-### [Senior Biomedical Engineer](https://www.linkedin.com/jobs/view/4482422817/) — MiniMed
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $124,000.00 - $212,000.00
+### [Senior Civil Engineer SME - AI Data Centers](https://www.linkedin.com/jobs/view/4482226350/) — Jacobs
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $169,000 – $233,000
 - 🕒 **Posted:** 2026-10-27
 
-### [Senior Palantir AI and Data Science Engineer](https://www.linkedin.com/jobs/view/4484004913/) — Deloitte
+### [SENIOR CIVIL ENGINEER / PROJECT MANAGER](https://www.linkedin.com/jobs/view/4483675916/) — Clevanoo LLC
+- 📍 **Location:** Michigan, United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Solutions Sales Engineer - Civil Engineering](https://www.linkedin.com/jobs/view/4484226666/) — Armorock Polymer Concrete
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $90,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Bilingual Russian Customer Service Representative (Remote - New York, NY)](https://www.linkedin.com/jobs/view/4484228683/) — Maximus
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $95,600 to $188,400
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Analyst - Cloud Financial Operations](https://www.linkedin.com/jobs/view/4483770641/) — Planet
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $114,200—$142,700 USD
+### [Biomedical Engineer](https://www.linkedin.com/jobs/view/4482234069/) — Next Code Placement
+- 📍 **Location:** Massachusetts, United States
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Analyst | $30/hr Remote](https://www.linkedin.com/jobs/view/4483291940/) — Crossing Hurdles
+### [Research Assistant (Remote)](https://www.linkedin.com/jobs/view/4483693234/) — Crewlia
 - 📍 **Location:** United States
-- 💰 **Salary:** $29.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-10-27
 
-### [Associate Laboratory Assistant](https://www.linkedin.com/jobs/view/4483601546/) — Providence
-- 📍 **Location:** Apple Valley, CA
-- 💰 **Salary:** $25.00/hr - $29.19/hr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4483675842/) — Terranova Talent Solutions
+- 📍 **Location:** United States
+- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Quality Control Technician](https://www.linkedin.com/jobs/view/4484006848/) — AppleOne Employment Services
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Biomedical Technician I](https://www.linkedin.com/jobs/view/4484005922/) — Fresenius Medical Care
-- 📍 **Location:** Idaho Falls, ID
-- 🕒 **Posted:** 2026-10-27
-
-### [Associate Laboratory Assistant](https://www.linkedin.com/jobs/view/4483299629/) — Providence
-- 📍 **Location:** Apple Valley, CA
-- 💰 **Salary:** $25.00/hr - $29.19/hr
+### [Laboratory Technician](https://www.linkedin.com/jobs/view/4484227794/) — Sira Consulting, an Inc 5000 company
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-10-27
