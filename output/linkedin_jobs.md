@@ -1,171 +1,56 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-28 01:27 UTC*
+*Last updated: 2026-10-28 06:30 UTC*
 
-**36 new role(s)** since last run · 36 total in last 1h
+**11 new role(s)** since last run · 12 total in last 1h
 
-### [Senior Research Assistant](https://www.linkedin.com/jobs/view/4484213508/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $18.51 - $28.21
-- 🕒 **Posted:** 2026-10-28
-
-### [Research Assistant](https://www.linkedin.com/jobs/view/4484202886/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $18.40 - $27.68
-- 🕒 **Posted:** 2026-10-28
-
-### [Clinical Laboratory Coordinator](https://www.linkedin.com/jobs/view/4483818332/) — Parexel
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $25.00 to $29.00 per hour
-- 🕒 **Posted:** 2026-10-28
-
-### [Clinical Research Associate I](https://www.linkedin.com/jobs/view/4484283401/) — ICON Strategic Solutions
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-28
-
-### [Research Associate I/II – Molecular Biology (RT-qPCR & Cell Culture)](https://www.linkedin.com/jobs/view/4484272970/) — Yoh, A Day & Zimmermann Company
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $35–$45/hour
-- 🕒 **Posted:** 2026-10-28
-
-### [Expert Senior Manager, Data Sciences, Software and Data Services, Coro](https://www.linkedin.com/jobs/view/4454565571/) — Bain & Company
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $164,500 - $219,000
-- 🕒 **Posted:** 2026-10-28
-
-### [QC Technician - PCBA Firmware Flashing and Functional Test](https://www.linkedin.com/jobs/view/4483813885/) — Atoms
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $40.00 - $60.00 per hour
-- 🕒 **Posted:** 2026-10-28
-
-### [Hardware Lab Technician  | Onsite (Contract)](https://www.linkedin.com/jobs/view/4482255548/) — Redolent, Inc
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-28
-
-### [Expert Senior Manager, Data Sciences, Software and Data Services, Coro](https://www.linkedin.com/jobs/view/4480552708/) — Bain & Company
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $164,500 - $219,000
-- 🕒 **Posted:** 2026-10-28
-
-### [Civil 3D Design Engineer (Data Centers)](https://www.linkedin.com/jobs/view/4484286861/) — Jacobs
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $80,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Civil 3D Design Engineer (Data Centers)](https://www.linkedin.com/jobs/view/4484299171/) — Jacobs
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $80,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Civil 3D Design Engineer (Data Centers)](https://www.linkedin.com/jobs/view/4484289775/) — Jacobs
+### [CAD Engineer, Counter Intrusion](https://www.linkedin.com/jobs/view/4484418639/) — Anduril Industries
 - 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $80,000.00/yr - $100,000.00/yr
+- 💰 **Salary:** $132,000—$175,000 USD
 - 🕒 **Posted:** 2026-10-28
 
-### [Civil 3D Design Engineer (Data Centers)](https://www.linkedin.com/jobs/view/4484404071/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [MCAT Coordinator/Habitability Subject Matter Expert - 30845](https://www.linkedin.com/jobs/view/4483823359/) — Mission Technologies, a division of HII
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $87,628.00 - $95,000.00
-- 🕒 **Posted:** 2026-10-28
-
-### [Data Analyst - Up to $200k USD + Bonus! - New York (Hybrid) - Trading Firm](https://www.linkedin.com/jobs/view/4482246754/) — Hunter Bond
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [AI Trainer (Contractor), Voice and Speech Evaluation - USA](https://www.linkedin.com/jobs/view/4484270882/) — Inworld AI
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $20-$55 per hour
-- 🕒 **Posted:** 2026-10-27
-
-### [Global Analytics Data Science](https://www.linkedin.com/jobs/view/4483806806/) — Avison Young
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $80,000 to $95,000
-- 🕒 **Posted:** 2026-10-27
-
-### [CAD Modeler](https://www.linkedin.com/jobs/view/4482251497/) — Hadrian
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Research Data Analyst](https://www.linkedin.com/jobs/view/4484271695/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Research Data Analyst I](https://www.linkedin.com/jobs/view/4484268953/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Manager, Data Science](https://www.linkedin.com/jobs/view/4483814581/) — Omnicom Media
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4483852002/) — NYU Langone Health
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
+- 💰 **Salary:** $70,481.60 - $93,492.00 Annually
+- 🕒 **Posted:** 2026-10-28
 
-### [Senior Analyst, Data Science - Temporary Worker](https://www.linkedin.com/jobs/view/4483819188/) — dentsu
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $45.61 - $61.00
-- 🕒 **Posted:** 2026-10-27
+### [Senior Biostatistics Researcher within Life Sciences- Masters Degree Required](https://www.linkedin.com/jobs/view/4482293042/) — Oracle
+- 📍 **Location:** United States
+- 💰 **Salary:** $74,100 - $148,300 per year
+- 🕒 **Posted:** 2026-10-28
 
-### [Extraction Laboratory Technician II](https://www.linkedin.com/jobs/view/4484279306/) — Abbott
-- 📍 **Location:** Santa Rosa, CA
-- 💰 **Salary:** $18.70 – $37.40 per hour
-- 🕒 **Posted:** 2026-10-27
+### [Data Science Manager](https://www.linkedin.com/jobs/view/4484401895/) — Stripe
+- 📍 **Location:** United States
+- 💰 **Salary:** $210,900 - $316,300
+- 🕒 **Posted:** 2026-10-28
 
-### [Clinical Lab Technician II](https://www.linkedin.com/jobs/view/4484269665/) — Children's Hospital Los Angeles (CHLA)
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-27
+### [Laboratory Assistant I - Microbiology](https://www.linkedin.com/jobs/view/4482266913/) — Indiana University Health
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-10-28
 
-### [Research Assistant - Internal Medicine (Infectious Diseases)](https://www.linkedin.com/jobs/view/4484274088/) — University of Kansas Medical Center
-- 📍 **Location:** Kansas City, KS
-- 💰 **Salary:** $22.88 - $33.17
-- 🕒 **Posted:** 2026-10-27
+### [Laboratory Technician, Horticulture](https://www.linkedin.com/jobs/view/4484410700/) — Chabot-Las Positas Community College District
+- 📍 **Location:** Dublin, CA
+- 💰 **Salary:** $2,795.75/mo - $2,942.71/mo
+- 🕒 **Posted:** 2026-10-28
 
-### [Application Engineering Lab Technician](https://www.linkedin.com/jobs/view/4484269956/) — Henkel
-- 📍 **Location:** Bay Point, CA
-- 🕒 **Posted:** 2026-10-27
+### [Server Lab Technician / Engineer](https://www.linkedin.com/jobs/view/4482275428/) — UST
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $38,000-$57,000
+- 🕒 **Posted:** 2026-10-28
 
-### [Materials Analyst, Microscopy (XSEM)](https://www.linkedin.com/jobs/view/4484275486/) — Eurofins | EAG Laboratories
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-27
+### [Data Analyst](https://www.linkedin.com/jobs/view/4484426171/) — A Full Renovation – Project Services
+- 📍 **Location:** United States
+- 💰 **Salary:** $74,750.00/yr - $75,750.00/yr
+- 🕒 **Posted:** 2026-10-28
 
-### [Receiving and Accessioning Technician](https://www.linkedin.com/jobs/view/4482256332/) — Thermo Fisher Scientific
-- 📍 **Location:** West Sacramento, CA
-- 💰 **Salary:** $19 -$25
-- 🕒 **Posted:** 2026-10-27
+### [Field Service Engineer II (Electron Microscopy) Southwest REMOTE](https://www.linkedin.com/jobs/view/4482266997/) — Thermo Fisher Scientific
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-10-28
 
-### [Quality Control Technician](https://www.linkedin.com/jobs/view/4484271364/) — Saputo Inc.
-- 📍 **Location:** Gustine, CA
-- 🕒 **Posted:** 2026-10-27
+### [Research Associate, Biochemistry](https://www.linkedin.com/jobs/view/4484414961/) — AtlasBase
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-10-28
 
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4483806815/) — Sutter Health
-- 📍 **Location:** Auburn, CA
-- 💰 **Salary:** $32.18 to $45.04
-- 🕒 **Posted:** 2026-10-27
-
-### [Quality Control Technician](https://www.linkedin.com/jobs/view/4483803814/) — Advanced Energy
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Receiving and Accessioning Technician](https://www.linkedin.com/jobs/view/4482249695/) — Thermo Fisher Scientific
-- 📍 **Location:** West Sacramento, CA
-- 💰 **Salary:** $19 -$25
-- 🕒 **Posted:** 2026-10-27
-
-### [Clinical Laboratory Scientist, Float Pool](https://www.linkedin.com/jobs/view/4483818231/) — Sutter Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $66.15 to $92.61
-- 🕒 **Posted:** 2026-10-27
-
-### [Clinical Laboratory Scientist (CLS III)](https://www.linkedin.com/jobs/view/4484267645/) — Shasta Regional Medical Center
-- 📍 **Location:** Redding, CA
-- 💰 **Salary:** $46.20 to $62.18
-- 🕒 **Posted:** 2026-10-27
-
-### [Research Assistant, Economic Policy Studies](https://www.linkedin.com/jobs/view/4482245948/) — American Enterprise Institute
-- 📍 **Location:** District of Columbia, United States
-- 💰 **Salary:** $50,000 - $54,000
-- 🕒 **Posted:** 2026-10-27
-
-### [Quality Control Technician](https://www.linkedin.com/jobs/view/4458427991/) — DeLaval
-- 📍 **Location:** Kansas City, MO
-- 🕒 **Posted:** 2026-10-27
+### [Clinical Lab Scientist (CLS) - Nights - Mercy San Diego](https://www.linkedin.com/jobs/view/4483851193/) — Scripps Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $54.24-$78.66/hour
+- 🕒 **Posted:** 2026-10-28
