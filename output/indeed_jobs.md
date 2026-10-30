@@ -1,150 +1,80 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-30 00:28 UTC*
+*Last updated: 2026-10-30 06:32 UTC*
 
-**22 new role(s)** since last run · 49 total in last 24h
+**12 new role(s)** since last run · 42 total in last 24h
 
-### [Senior Engineer, Bioinformatics](https://www.indeed.com/viewjob?jk=5f7e0376d6eed10d) — Anthropic
+### [Research Scientist, Life Sciences (Large Molecules, Antibody Design)](https://www.indeed.com/viewjob?jk=ef8867c76a2dbb06) — Anthropic
 - 📍 **Location:** San Francisco, CA, USA
 - 💰 **Salary:** $300k–$320k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
 
-### [MCAT Combat Systems Subject Matter Expert](https://www.indeed.com/viewjob?jk=7e96b6fdd7b50970) — HII
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $100k–$105k/yr
+### [Research Scientist, Life Sciences (Large Molecules, Process Development)](https://www.indeed.com/viewjob?jk=35260392e9ddf7ad) — Anthropic
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $300k–$320k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
 
-### [Property Administrator II - Operations Data Analyst](https://www.indeed.com/viewjob?jk=d92b79e4939f16f5) — NASA Jet Propulsion Laboratory
-- 📍 **Location:** Pasadena, CA, USA
-- 💰 **Salary:** $86k–$95k/yr
+### [Python Full stack Lead](https://www.indeed.com/viewjob?jk=aa7a8e6efafc4681) — Robotics Technologies
+- 📍 **Location:** Los Angeles, CA, USA
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
 
-### [Data Analyst](https://www.indeed.com/viewjob?jk=2d0c825b36c66784) — Tillster
-- 📍 **Location:** San Diego, CA, USA
+### [Cath Lab Technician - Los Angeles, CA - $78/hr](https://www.indeed.com/viewjob?jk=156e3fb856c82aaa) — Talented Medical Solutions
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $76–$78/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-30
 
-### [Data Quality Analyst / Data Analyst / Data Integrity Analyst](https://www.indeed.com/viewjob?jk=fab4244654f29ce0) — Melissa Data GmbH
-- 📍 **Location:** Rancho Santa Margarita, CA, USA
-- 💰 **Salary:** $28.85–$48.07/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-29
-
-### [Clinical Lab Technician - Entry level, will train!](https://www.indeed.com/viewjob?jk=99ee7ecc98618fd0) — Labcorp
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $21–$23/hr
+### [Laboratory Technician](https://www.indeed.com/viewjob?jk=ba232372d27f4925) — Pentagon Technologies
+- 📍 **Location:** Hayward, CA, USA
+- 💰 **Salary:** $23–$27/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Research Technician-Assistant](https://www.indeed.com/viewjob?jk=cce56afd59015da8) — California Institute of Technology
-- 📍 **Location:** Pasadena, CA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Lab Technician- Microsections](https://www.indeed.com/viewjob?jk=6d0dcf6c354d21ad) — Summit Interconnect, Inc.
-- 📍 **Location:** Hollister, CA, USA
-- 💰 **Salary:** $20–$24/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-29
-
-### [Certified Phlebotomy Technician Lab Assistant II](https://www.indeed.com/viewjob?jk=22d639ad3d1ac7b7) — Sutter Health
-- 📍 **Location:** Pleasanton, CA, USA
-- 💰 **Salary:** $34.55–$48.36/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-29
-
-### [Research Technician](https://www.indeed.com/viewjob?jk=14bb76d1f6d664fe) — EMD Electronics
-- 📍 **Location:** Carlsbad, CA, USA
-- 💰 **Salary:** $31–$48/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-29
-
-### [Lab Technician](https://www.indeed.com/viewjob?jk=9e6bb5b0df90e68b) — Bodycote North America
-- 📍 **Location:** Vernon, CA, USA
-- 💰 **Salary:** $23–$28/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-29
-
-### [Research Assistant](https://www.indeed.com/viewjob?jk=8ccd05d5a039a478) — Charles R. Drew University of Medicine and Science
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $28.82–$35.50/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-29
-
-### [Chemical Laboratory Technician - 1st Shift](https://www.indeed.com/viewjob?jk=7c552e5202b0f924) — Howmet Aerospace
-- 📍 **Location:** Fullerton, CA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [R&D Technician](https://www.indeed.com/viewjob?jk=089e8ca21ce392e1) — Mariana Minerals
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $40–$47/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Lab Technician - ICP-MS - 3rd shift](https://www.indeed.com/viewjob?jk=76e33c5fdc95d301) — Leanteq
+### [Lab Technician - ICP-MS - 2nd shift](https://www.indeed.com/viewjob?jk=f0cbee3390d5b936) — Leanteq
 - 📍 **Location:** Milpitas, CA, USA
 - 💰 **Salary:** $25–$28/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Research Associate 1 (Temporary)](https://www.indeed.com/viewjob?jk=2caf3ea8f4e87e9d) — Cellanome
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $70k–$77k/yr
-- **Work mode:** On-site
-- **Job type:** temporary
-- 🕒 **Posted:** 2026-10-29
-
-### [Staff Research Associate 2](https://www.indeed.com/viewjob?jk=962ddd9cac4e2f55) — University of California - San Francisco
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $32.79–$52.73/hr
+### [Lab Technician - LPC - 3rd shift](https://www.indeed.com/viewjob?jk=7d8608002ff476b6) — Leanteq
+- 📍 **Location:** Milpitas, CA, USA
+- 💰 **Salary:** $25–$28/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
 
-### [Staff Research Associate I - Ophthalmology (Limited)](https://www.indeed.com/viewjob?jk=6516bd2d8bf4bcb5) — UCLA Health
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $30.12–$35.92/hr
+### [Engineering Lab Technician](https://www.indeed.com/viewjob?jk=004c2553f62748f2) — MACOM Technology Solutions
+- 📍 **Location:** Morgan Hill, CA, USA
+- 💰 **Salary:** $25–$46/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-30
+
+### [Sr. Lab Technician - Construction Materials Testing](https://www.indeed.com/viewjob?jk=2fcf83379588ab6e) — Crawford & Associates, Inc.
+- 📍 **Location:** Santa Rosa, CA, USA
+- 💰 **Salary:** $25–$35/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
 
-### [Social Science Research Assistant](https://www.indeed.com/viewjob?jk=1c63038a17e4d49e) — Stanford University
-- 📍 **Location:** Stanford, CA, USA
-- 💰 **Salary:** $35.10–$37.98/hr
+### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=1792b526c58a0627) — Kaiser Permanente
+- 📍 **Location:** Antioch, CA, USA
+- 💰 **Salary:** $41.78–$43.96/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
 
-### [Research Associate – Preclinical Imaging](https://www.indeed.com/viewjob?jk=4a8a14f0c89abcdb) — University of California - San Francisco
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $36.31–$48.65/hr
+### [Research Associate – Probes Enrichment and DNA Methylation](https://www.indeed.com/viewjob?jk=1f1320ddf7058181) — Zymo Research
+- 📍 **Location:** Irvine, CA, USA
+- 💰 **Salary:** $28–$35/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
 
-### [FSP Experienced Clinical Research Associate (CRA II/Sr. CRA I) - Oncology - Respiratory - Cardiovascular - US West](https://www.indeed.com/viewjob?jk=4685134427f1583e) — Thermo Fisher Scientific
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $72k–$120k/yr
+### [Laboratory Assistant II, Santa Clarita (On-Call, Day/Evening Shift)](https://www.indeed.com/viewjob?jk=6e4b0c5e50b2847e) — Kaiser Permanente
+- 📍 **Location:** Santa Clarita, CA, USA
+- 💰 **Salary:** $34.09–$37.60/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Quality Control Technician I](https://www.indeed.com/viewjob?jk=40b9a66415226578) — Prime Conduit - Woodland
-- 📍 **Location:** Woodland, CA, USA
-- 💰 **Salary:** $50k–$60k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-10-30
