@@ -1,80 +1,80 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-10-30 06:32 UTC*
+*Last updated: 2026-10-30 20:26 UTC*
 
-**12 new role(s)** since last run · 42 total in last 24h
+**11 new role(s)** since last run · 40 total in last 24h
 
-### [Research Scientist, Life Sciences (Large Molecules, Antibody Design)](https://www.indeed.com/viewjob?jk=ef8867c76a2dbb06) — Anthropic
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $300k–$320k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Research Scientist, Life Sciences (Large Molecules, Process Development)](https://www.indeed.com/viewjob?jk=35260392e9ddf7ad) — Anthropic
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $300k–$320k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Python Full stack Lead](https://www.indeed.com/viewjob?jk=aa7a8e6efafc4681) — Robotics Technologies
-- 📍 **Location:** Los Angeles, CA, USA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Cath Lab Technician - Los Angeles, CA - $78/hr](https://www.indeed.com/viewjob?jk=156e3fb856c82aaa) — Talented Medical Solutions
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $76–$78/hr
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-30
-
-### [Laboratory Technician](https://www.indeed.com/viewjob?jk=ba232372d27f4925) — Pentagon Technologies
-- 📍 **Location:** Hayward, CA, USA
-- 💰 **Salary:** $23–$27/hr
+### [Lead Manufacturing Associate, Upstream](https://www.indeed.com/viewjob?jk=4a0273c0fdc4e0df) — Avid Bioservices
+- 📍 **Location:** Tustin, CA, USA
+- 💰 **Salary:** $31.92–$39.90/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Lab Technician - ICP-MS - 2nd shift](https://www.indeed.com/viewjob?jk=f0cbee3390d5b936) — Leanteq
+### [Manager, Data Science, Payments & Subscriptions](https://www.indeed.com/viewjob?jk=881fc83998833b16) — Sony Interactive Entertainment
+- 📍 **Location:** San Diego, CA, USA
+- 💰 **Salary:** $186k–$279k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-30
+
+### [Data Science Analyst I (Full Time) â€“ United States GSC/SCT ETR](https://www.indeed.com/viewjob?jk=df2183279ca640a6) — Cisco
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $95k–$157k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-30
+
+### [Lab Technician - Quality and Enviromental](https://www.indeed.com/viewjob?jk=3feafe8016966095) — Omya
+- 📍 **Location:** Lucerne Valley, CA, USA
+- 💰 **Salary:** $35–$39/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-30
+
+### [Research Associate I](https://www.indeed.com/viewjob?jk=ea21c725ec212691) — iXCells Biotechnologies USA, Inc.
+- 📍 **Location:** San Diego, CA, USA
+- 💰 **Salary:** $70k–$82k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-30
+
+### [Lab Technician - ICP-MS - 1st shift](https://www.indeed.com/viewjob?jk=8b2e07513ce73609) — Leanteq
 - 📍 **Location:** Milpitas, CA, USA
 - 💰 **Salary:** $25–$28/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Lab Technician - LPC - 3rd shift](https://www.indeed.com/viewjob?jk=7d8608002ff476b6) — Leanteq
+### [Lab Technician - LPC - 1st shift](https://www.indeed.com/viewjob?jk=9de4c8f30d1eccc1) — Leanteq
 - 📍 **Location:** Milpitas, CA, USA
 - 💰 **Salary:** $25–$28/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Engineering Lab Technician](https://www.indeed.com/viewjob?jk=004c2553f62748f2) — MACOM Technology Solutions
-- 📍 **Location:** Morgan Hill, CA, USA
-- 💰 **Salary:** $25–$46/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Sr. Lab Technician - Construction Materials Testing](https://www.indeed.com/viewjob?jk=2fcf83379588ab6e) — Crawford & Associates, Inc.
-- 📍 **Location:** Santa Rosa, CA, USA
-- 💰 **Salary:** $25–$35/hr
+### [Bioinformatics Scientist – Epigenomics and Computational Methods](https://www.indeed.com/viewjob?jk=22ac57f132827de0) — Zymo Research
+- 📍 **Location:** Irvine, CA, USA
+- 💰 **Salary:** $85k–$115k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Laboratory Assistant II](https://www.indeed.com/viewjob?jk=1792b526c58a0627) — Kaiser Permanente
-- 📍 **Location:** Antioch, CA, USA
-- 💰 **Salary:** $41.78–$43.96/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Research Associate – Probes Enrichment and DNA Methylation](https://www.indeed.com/viewjob?jk=1f1320ddf7058181) — Zymo Research
+### [Research Associate – Probes Enrichment and DNA Methylation](https://www.indeed.com/viewjob?jk=63eec7f0a1973ac7) — Zymo Research
 - 📍 **Location:** Irvine, CA, USA
 - 💰 **Salary:** $28–$35/hr
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Laboratory Assistant II, Santa Clarita (On-Call, Day/Evening Shift)](https://www.indeed.com/viewjob?jk=6e4b0c5e50b2847e) — Kaiser Permanente
-- 📍 **Location:** Santa Clarita, CA, USA
-- 💰 **Salary:** $34.09–$37.60/hr
+### [Laboratory Assistant - PMOB Clinical Lab - Per Diem 8 Hour Days (Non-Exempt) (Union)](https://www.indeed.com/viewjob?jk=5baade230755e6a8) — University of Southern California
+- 📍 **Location:** Pasadena, CA, USA
+- 💰 **Salary:** $23.92–$40.66/hr
 - **Work mode:** On-site
+- **Job type:** perdiem
+- 🕒 **Posted:** 2026-10-30
+
+### [Entry level chemist graduate/mining & PGM research assistant](https://www.indeed.com/viewjob?jk=af172212682f1114) — Ttrdm442
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $22–$25/hr
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-30
