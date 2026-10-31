@@ -1,95 +1,57 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-10-31 06:18 UTC*
+*Last updated: 2026-10-31 20:27 UTC*
 
-**20 new role(s)** since last run · 21 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Data Science Manager](https://www.linkedin.com/jobs/view/4485666823/) — Hyundai Capital America
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $100,000.00/yr - $155,000.00/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Senior Data Scientist, Identity Data Science](https://www.linkedin.com/jobs/view/4485672757/) — Intuit
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $149,500 - $202,500
-- 🕒 **Posted:** 2026-10-31
-
-### [Senior Data Scientist, Identity Data Science](https://www.linkedin.com/jobs/view/4485686027/) — Intuit
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $149,500 - $202,500
-- 🕒 **Posted:** 2026-10-31
-
-### [Sr. Scientist  Bioinformatics, Computational Biology, Proteomics](https://www.linkedin.com/jobs/view/4485677166/) — BioSpace
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [Account Manager, Life Sciences](https://www.linkedin.com/jobs/view/4485128554/) — Domino Data Lab
+### [Manufacturing & Industrial Engineering Expert, Part-Time AI Eval - Remote (United States)](https://www.linkedin.com/jobs/view/4485172572/) — OpenTrain AI
 - 📍 **Location:** United States
+- 💰 **Salary:** $85–$185 per hour
 - 🕒 **Posted:** 2026-10-31
 
-### [Research Technician, Minn Lab](https://www.linkedin.com/jobs/view/4483915934/) — Memorial Sloan Kettering Cancer Center
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $26.77 - $40.05
+### [Aerospace Engineering Expert, Part-Time AI Evaluation - Remote (United States)](https://www.linkedin.com/jobs/view/4485159794/) — OpenTrain AI
+- 📍 **Location:** United States
+- 💰 **Salary:** $85–$185 per hour
 - 🕒 **Posted:** 2026-10-31
 
-### [Research Assistant Intern](https://www.linkedin.com/jobs/view/4482773744/) — Core4ce
-- 📍 **Location:** Ohio, United States
-- 💰 **Salary:** $17.00 - $19.00
-- 🕒 **Posted:** 2026-10-31
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4485147247/) — Envoy
+### [Technical Lab CAD Planner](https://www.linkedin.com/jobs/view/4476881722/) — Cumming Group
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $162,500.00/yr - $176,250.00/yr
+- 💰 **Salary:** $111,400.00-$148,533.35 per year
 - 🕒 **Posted:** 2026-10-31
 
-### [Data Analyst, Measurement & Insights - Remote](https://www.linkedin.com/jobs/view/4485680171/) — Torentify
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-31
-
-### [Summer 2027 Internship Program – Data Analyst Intern](https://www.linkedin.com/jobs/view/4485636471/) — Dow Jones
+### [CATIA Specialist - CAD Engineering](https://www.linkedin.com/jobs/view/4485917580/) — Pro Integrate
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $28.00 - $28.00
 - 🕒 **Posted:** 2026-10-31
 
-### [Data Analyst - WFH](https://www.linkedin.com/jobs/view/4485665921/) — Torentify
+### [Research Technician I/II/III - Srinivasan Lab](https://www.linkedin.com/jobs/view/4485908774/) — Oklahoma Medical Research Foundation
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-10-31
+
+### [Senior Data Analyst (Finance)](https://www.linkedin.com/jobs/view/4476827899/) — Panda Restaurant Group
+- 📍 **Location:** Rosemead, CA
+- 💰 **Salary:** $90,000 - $126,500
+- 🕒 **Posted:** 2026-10-31
+
+### [Semiconductor Engineering Expert, Part-Time AI Evaluation - Remote (United States)](https://www.linkedin.com/jobs/view/4485175136/) — OpenTrain AI
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-31
 
-### [Sr. Advisor - Statistics (RWE)](https://www.linkedin.com/jobs/view/4485681032/) — BioSpace
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $151,500 - $244,200
-- 🕒 **Posted:** 2026-10-31
-
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4485140539/) — Sutter Health
-- 📍 **Location:** Modesto, CA
-- 💰 **Salary:** $29.25 to $40.95
-- 🕒 **Posted:** 2026-10-31
-
-### [Lab Technician-Clinical Lab](https://www.linkedin.com/jobs/view/4485626937/) — Encino Hospital Medical Center
+### [Research Assistant – X-ray Crystallography & Crystal Harvesting](https://www.linkedin.com/jobs/view/4485155822/) — RiboForge
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $23.00 to $35.91
 - 🕒 **Posted:** 2026-10-31
 
-### [Research Associate II - Semiconductor](https://www.linkedin.com/jobs/view/4448535348/) — Stifel Financial Corp.
-- 📍 **Location:** New York, NY
+### [Pharmaceutical Manufacturing Associate](https://www.linkedin.com/jobs/view/4485158773/) — NCC Talent Solutions, LLC
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $20 - $30
 - 🕒 **Posted:** 2026-10-31
 
-### [Postdoctoral Scientist - Yang Lab - Biomedical Imaging Research Insitute](https://www.linkedin.com/jobs/view/4483918843/) — Cedars-Sinai
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $62,400.00/hr - $93,600.00/hr
+### [Research Associate, In Vivo Pharmacology](https://www.linkedin.com/jobs/view/4485163745/) — Braindoot Lifesciences Inc.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-31
 
-### [(CW) Manufacturing Associate (Temporary/Contract) Night Shift](https://www.linkedin.com/jobs/view/4485670812/) — BioSpace
-- 📍 **Location:** Novato, CA
+### [Clinical Lab Assistant I](https://www.linkedin.com/jobs/view/4441474065/) — Sonora Quest Laboratories/ Laboratory Sciences of Arizona
+- 📍 **Location:** Nevada, United States
 - 🕒 **Posted:** 2026-10-31
 
-### [(CW) Manufacturing Associate (Temporary/Contract)](https://www.linkedin.com/jobs/view/4485671787/) — BioSpace
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [Undergrad Co-op  MCS Manufacturing Associate](https://www.linkedin.com/jobs/view/4485686054/) — BioSpace
-- 📍 **Location:** Thousand Oaks, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [Sr. Lab Technician](https://www.linkedin.com/jobs/view/4485681158/) — Katalyst CRO
-- 📍 **Location:** Santa Clara, CA
+### [Clinical Research Assistant](https://www.linkedin.com/jobs/view/4485905877/) — REVA Medical, LLC.
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-10-31
