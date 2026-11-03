@@ -1,98 +1,91 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-11-03 05:37 UTC*
+*Last updated: 2026-11-03 21:29 UTC*
 
 **19 new role(s)** since last run · 19 total in last 1h
 
-### [Data Platform Engineer (Python)](https://www.linkedin.com/jobs/view/4486814078/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
+### [Bioinformatics Scientist / Senior Bioinformatics Scientist — cfDNA-Based Cancer Screening](https://www.linkedin.com/jobs/view/4486300181/) — CellMax Life
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Python Software Engineer - AI Workflows](https://www.linkedin.com/jobs/view/4486812111/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
+### [Data Analyst – Requirements & Data Quality Support](https://www.linkedin.com/jobs/view/4485008896/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $105,000 - $110,000
 - 🕒 **Posted:** 2026-11-03
 
-### [Coatings Lab Technician - 3rd Shift](https://www.linkedin.com/jobs/view/4486488991/) — PPG
-- 📍 **Location:** Mojave, CA
-- 💰 **Salary:** $51,700 to $56,000,
+### [Senior Healthcare Python Developer -(RPA / Computer Vision)](https://www.linkedin.com/jobs/view/4483853589/) — TalentXM
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-11-03
 
-### [Staff Research Associate I, Cellular/Molecular Med - 140957](https://www.linkedin.com/jobs/view/4486010548/) — UC San Diego Health
+### [Senior Civil Engineer](https://www.linkedin.com/jobs/view/4486089718/) — City of Rialto
+- 📍 **Location:** Rialto, CA
+- 💰 **Salary:** $155,010.00/yr - $166,636.00/yr
+- 🕒 **Posted:** 2026-11-03
+
+### [Civil Engineer](https://www.linkedin.com/jobs/view/4486097510/) — Captivate Staffing Group
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $75,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-03
+
+### [Research Associate II/Senior Research Associate - Discovery Biology](https://www.linkedin.com/jobs/view/4486089715/) — Planet Pharma
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $47.00/hr - $57.00/hr
+- 🕒 **Posted:** 2026-11-03
+
+### [Research Associate II / Senior Research Associate - Discovery Biology](https://www.linkedin.com/jobs/view/4485005929/) — Planet Pharma
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Research Associate 1 (Temporary)](https://www.linkedin.com/jobs/view/4483086752/) — Cellanome
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $30.12 - $35.93
+- 💰 **Salary:** $70,000 - $77,000/year
 - 🕒 **Posted:** 2026-11-03
 
-### [Research Assistant](https://www.linkedin.com/jobs/view/4485780076/) — Ministry of Lands, Survey & Natural Resources
-- 📍 **Location:** San Francisco Bay Area
+### [Research Associate II/Senior Research Associate I](https://www.linkedin.com/jobs/view/4486097447/) — Planet Pharma
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $47.00/yr - $57.00/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Senior Research Associate](https://www.linkedin.com/jobs/view/4486808483/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $63,398.40/yr - $105,830.40/yr
+### [Data Analyst, Measurement & Insights](https://www.linkedin.com/jobs/view/4487040686/) — Torentify
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-11-03
 
-### [Sr. Clinical Research Associate](https://www.linkedin.com/jobs/view/4486496759/) — CareDx, Inc.
-- 📍 **Location:** Brisbane, CA
-- 💰 **Salary:** $100,000—$130,000 USD
+### [Data Analyst / Data Scientist (Utility Analytics)](https://www.linkedin.com/jobs/view/4487047384/) — Torentify
+- 📍 **Location:** United States
+- 💰 **Salary:** $55–$60 per hour
 - 🕒 **Posted:** 2026-11-03
 
-### [Quality Control Technician](https://www.linkedin.com/jobs/view/4486800728/) — Actalent
-- 📍 **Location:** Richmond, CA
-- 💰 **Salary:** $27.00/hr - $33.00/hr
+### [Data Analyst, Client Insights](https://www.linkedin.com/jobs/view/4486092469/) — RK Media
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $80-$95K
 - 🕒 **Posted:** 2026-11-03
 
-### [Quality Control Technician (Temp)](https://www.linkedin.com/jobs/view/4486805649/) — Truvian
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $22.00 to $26.00 per hour
+### [Python Developer](https://www.linkedin.com/jobs/view/4486088467/) — Smart IT Frame LLC
+- 📍 **Location:** Georgia, United States
 - 🕒 **Posted:** 2026-11-03
 
-### [Research Assistant (Temp)](https://www.linkedin.com/jobs/view/4486809425/) — Truvian
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $17.75 to $18.35 per hour
+### [Research Laboratory Technician](https://www.linkedin.com/jobs/view/4486081715/) — New York Gastroenterology Associates
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-11-03
 
-### [Data Analyst – Python, SQL & AI/ML (Onsite, Fremont or Menlo Park, CA)](https://www.linkedin.com/jobs/view/4486009698/) — AI8Solutions
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $35.00/hr - $50.00/hr
+### [Quality Control Technician](https://www.linkedin.com/jobs/view/4486084674/) — Teli Labs
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $70,000 - $150,000 USD
 - 🕒 **Posted:** 2026-11-03
 
-### [Scientist 3, Microscopy Specialist](https://www.linkedin.com/jobs/view/4486806706/) — Genentech
+### [Research Associate](https://www.linkedin.com/jobs/view/4486084693/) — SGS Consulting
 - 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $103,400 to $192,000
+- 💰 **Salary:** $35.00/hr - $38.00/hr
 - 🕒 **Posted:** 2026-11-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4486487057/) — Apex Systems
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $75.00/hr - $77.00/hr
+### [Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4487046546/) — Eurofins Environment Testing (USA)
+- 📍 **Location:** Tustin, CA
+- 💰 **Salary:** $18.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-11-03
 
-### [Senior Research Associate, Biophysics, Mechanism of Action](https://www.linkedin.com/jobs/view/4486024345/) — Revolution Medicines
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $106,000 - $126,000 USD
+### [Data Analyst](https://www.linkedin.com/jobs/view/4485018474/) — SoTalent
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Life Sciences Manufacturing Consultant – Validation Lifecycle & Requalification](https://www.linkedin.com/jobs/view/4486805670/) — Valspec
-- 📍 **Location:** El Segundo, CA
-- 💰 **Salary:** $110,000 - $120,000 annually
-- 🕒 **Posted:** 2026-11-03
-
-### [CAD Technician II](https://www.linkedin.com/jobs/view/4484638032/) — Bowman Consulting
-- 📍 **Location:** Adelanto, CA
-- 💰 **Salary:** $25.00 - $35.00
-- 🕒 **Posted:** 2026-11-03
-
-### [Laboratory Assistant - Sample Receiving / PUSH Team](https://www.linkedin.com/jobs/view/4486015657/) — Onterris
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $20.00 - $22.00
-- 🕒 **Posted:** 2026-11-03
-
-### [Quality Control Technician II](https://www.linkedin.com/jobs/view/4486495882/) — Actalent
-- 📍 **Location:** Carson, CA
-- 💰 **Salary:** $22.00/hr - $24.00/hr
-- 🕒 **Posted:** 2026-11-03
-
-### [Research Associate (Product Development)](https://www.linkedin.com/jobs/view/4464265294/) — Fortera
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $72,000 - $80,000
+### [Senior Operations Data Analyst](https://www.linkedin.com/jobs/view/4485020427/) — SoTalent
+- 📍 **Location:** Washington, CA
 - 🕒 **Posted:** 2026-11-03
