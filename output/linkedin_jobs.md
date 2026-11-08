@@ -1,41 +1,44 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-11-08 01:21 UTC*
+*Last updated: 2026-11-08 07:26 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Entegral Data Analyst Sr.](https://www.linkedin.com/jobs/view/4487609990/) — Entegral
-- 📍 **Location:** United States
-- 💰 **Salary:** $101,500 - $124,400 annually
+### [Grad Intern  R&D TSRS Data Sciences Operations & Analytic (Summer 2027)](https://www.linkedin.com/jobs/view/4488775101/) — BioSpace
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $35.34 - $41.20 per hour
 - 🕒 **Posted:** 2026-11-08
 
-### [Laboratory Assistant - Microbiology](https://www.linkedin.com/jobs/view/4487622911/) — Providence
-- 📍 **Location:** Napa, CA
-- 💰 **Salary:** $31.28 - $39.46
+### [Medical Laboratory Asst I, SSB Clinical Laboratories - FT - Evening](https://www.linkedin.com/jobs/view/4486679444/) — Cedars-Sinai
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $25.00/hr - $32.61/hr
 - 🕒 **Posted:** 2026-11-08
 
-### [CAD Specialist (SolveSpace), Part-Time AI Task Review - Remote (United States)](https://www.linkedin.com/jobs/view/4487607933/) — OpenTrain AI
-- 📍 **Location:** United States
-- 💰 **Salary:** $63–$122 per hour
-- 🕒 **Posted:** 2026-11-07
+### [(CW) Manufacturing Associate (Temporary/Contract) Night Shift](https://www.linkedin.com/jobs/view/4488773224/) — BioSpace
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-11-08
 
-### [DATA ANALYST/SCIENTIST](https://www.linkedin.com/jobs/view/4488747483/) — Zel Technologies LLC
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $100,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-11-07
+### [Clinical Lab Scientist II, Blood Bank Compatibility Tests - FT - Evening](https://www.linkedin.com/jobs/view/4486675540/) — Cedars-Sinai
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $49.11/hr - $78.58/hr
+- 🕒 **Posted:** 2026-11-08
 
-### [Life Science Research Professional 2](https://www.linkedin.com/jobs/view/4479153246/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-11-07
-
-### [Python Developer](https://www.linkedin.com/jobs/view/4488749380/) — Netrolynx AI
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-07
-
-### [Senior / Staff Python Engineer - REMOTE](https://www.linkedin.com/jobs/view/4486661577/) — CyberCoders
-- 📍 **Location:** United States
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Clinical Research Assistant](https://www.linkedin.com/jobs/view/4488750347/) — Indiana University
+### [Travel Medical Lab Technician - $1,469 per week](https://www.linkedin.com/jobs/view/4488767479/) — Fusion Medical Staffing
 - 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-11-07
+- 🕒 **Posted:** 2026-11-08
+
+### [(CW) Manufacturing Associate (Temporary/Contract)](https://www.linkedin.com/jobs/view/4488756875/) — BioSpace
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-11-08
+
+### [Travel Clinical Lab Scientist (CLS) - $1,614 per week](https://www.linkedin.com/jobs/view/4488754908/) — Fusion Medical Staffing
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-11-08
+
+### [Travel Clinical Lab Scientist (CLS) - $1,988 per week](https://www.linkedin.com/jobs/view/4488762660/) — Fusion Medical Staffing
+- 📍 **Location:** Clearlake, CA
+- 🕒 **Posted:** 2026-11-08
+
+### [Life Sciences Research Scientist, Part-Time AI Evaluation - Remote (United States)](https://www.linkedin.com/jobs/view/4487628695/) — OpenTrain AI
+- 📍 **Location:** United States
+- 💰 **Salary:** $45–$90 per hour
+- 🕒 **Posted:** 2026-11-08
