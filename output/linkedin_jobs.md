@@ -1,165 +1,42 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-11-14 11:11 UTC*
+*Last updated: 2026-11-14 20:18 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Data Science & AI Delivery Lead](https://www.linkedin.com/jobs/view/4445764944/) — AXIS (AXIS Capital)
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000 - $200,000 USD
+### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4491086983/) — Mind Moves LLC
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-11-14
 
-### [Data Science Manager, Gen AI - SFL Scientific](https://www.linkedin.com/jobs/view/4465665335/) — Deloitte
-- 📍 **Location:** Greater Indianapolis
-- 💰 **Salary:** $155,600 to $306,800
-- 🕒 **Posted:** 2026-11-14
-
-### [Senior Manager, Infrastructure Data Science](https://www.linkedin.com/jobs/view/4297756002/) — Databricks
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $228,600—$314,250 USD
-- 🕒 **Posted:** 2026-11-14
-
-### [Data Science Manager, Gen AI - SFL Scientific](https://www.linkedin.com/jobs/view/4465671310/) — Deloitte
+### [Lead Finance Data Analyst](https://www.linkedin.com/jobs/view/4465153654/) — Crunchyroll
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $155,600 to $306,800
+- 💰 **Salary:** $127,400—$159,200 USD
 - 🕒 **Posted:** 2026-11-14
 
-### [Data Science Manager, Gen AI - SFL Scientific](https://www.linkedin.com/jobs/view/4465652485/) — Deloitte
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $155,600 to $306,800
+### [Survey CAD Technician](https://www.linkedin.com/jobs/view/4491099373/) — Astra Surveying, LLC
+- 📍 **Location:** Florida, United States
 - 🕒 **Posted:** 2026-11-14
 
-### [Data Science Manager, Gen AI - SFL Scientific](https://www.linkedin.com/jobs/view/4465660370/) — Deloitte
-- 📍 **Location:** Costa Mesa, CA
-- 💰 **Salary:** $155,600 to $306,800
-- 🕒 **Posted:** 2026-11-14
-
-### [Senior Manager, Infrastructure Data Science](https://www.linkedin.com/jobs/view/4297742113/) — Databricks
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $228,600—$314,250 USD
-- 🕒 **Posted:** 2026-11-14
-
-### [Data Analyst, Center of Surgical and Transplant Applied Research (CSTAR)](https://www.linkedin.com/jobs/view/4446420817/) — NYU Langone Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $64,350.00 - $85,000.00 Annually
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483175425/) — Deloitte
-- 📍 **Location:** Greater Indianapolis
-- 💰 **Salary:** $116,200 to $229,100
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483166938/) — Deloitte
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $116,200 to $229,100
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483167867/) — Deloitte
+### [Data Analyst](https://www.linkedin.com/jobs/view/4491097439/) — Wesley Health Centers - JWCH Institute, Inc.
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $116,200 to $229,100
 - 🕒 **Posted:** 2026-11-14
 
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483178351/) — Deloitte
-- 📍 **Location:** Costa Mesa, CA
-- 💰 **Salary:** $116,200 to $229,100
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483182312/) — Deloitte
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $116,200 to $229,100
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483179346/) — Deloitte
+### [Data Analyst](https://www.linkedin.com/jobs/view/4489355384/) — Bright Vision Technologies
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $116,200 to $229,100
+- 💰 **Salary:** $115,000–$165,000 Annually
 - 🕒 **Posted:** 2026-11-14
 
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483181274/) — Deloitte
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $116,200 to $229,100
+### [R&D Pilot Lab Technician](https://www.linkedin.com/jobs/view/4484593097/) — Nordic Naturals
+- 📍 **Location:** Vista, CA
 - 🕒 **Posted:** 2026-11-14
 
-### [Life Sciences Data Management, Senior (MDM/DGov)](https://www.linkedin.com/jobs/view/4483186127/) — Deloitte
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $116,200 to $229,100
+### [Clinical Laboratory Scientist-Micro (CLS) - Per Diem, Variable (Culver City)](https://www.linkedin.com/jobs/view/4491093616/) — Southern California Hospitals
+- 📍 **Location:** Culver City, CA
 - 🕒 **Posted:** 2026-11-14
 
-### [Microscopy Lab Assistant](https://www.linkedin.com/jobs/view/4481948938/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $20.19 - $39.42
+### [Quality Control Technician (Oilfield Tools)](https://www.linkedin.com/jobs/view/4491204124/) — STI
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-11-14
 
-### [URGENTLY HIRING: Chemistry Lab Technician](https://www.linkedin.com/jobs/view/4491072001/) — Actalent
-- 📍 **Location:** Delaware, OH
-- 💰 **Salary:** $24.00/hr - $25.00/hr
-- 🕒 **Posted:** 2026-11-14
-
-### [Laboratory Assistant](https://www.linkedin.com/jobs/view/4489322709/) — Dignity Health
-- 📍 **Location:** San Bernardino, CA
-- 💰 **Salary:** $27.71 - $33.13 /hour
-- 🕒 **Posted:** 2026-11-14
-
-### [Clinical Laboratory Scientist Senior](https://www.linkedin.com/jobs/view/4458786165/) — Desert Care Network
-- 📍 **Location:** Joshua Tree, CA
-- 💰 **Salary:** $42.93 - $66.52 hourly
-- 🕒 **Posted:** 2026-11-14
-
-### [Contract Student Worker - Data Analyst (Part-time)](https://www.linkedin.com/jobs/view/4442270249/) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Lead (MDM/DGov)](https://www.linkedin.com/jobs/view/4483183253/) — Deloitte
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $134,500 to $265,100
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Lead (MDM/DGov)](https://www.linkedin.com/jobs/view/4483176417/) — Deloitte
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $134,500 to $265,100
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Research Manager - Deloitte Center for Health Solutions](https://www.linkedin.com/jobs/view/4475066210/) — Deloitte
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $97,600 to $200,600
-- 🕒 **Posted:** 2026-11-14
-
-### [Data Analyst II - Marketing & Customer Analytics](https://www.linkedin.com/jobs/view/4438105512/) — Tailored Brands, Inc.
-- 📍 **Location:** Dublin, CA
-- 💰 **Salary:** $92,810 – $142,350
-- 🕒 **Posted:** 2026-11-14
-
-### [Project Civil Engineer](https://www.linkedin.com/jobs/view/4437811371/) — Langan Engineering & Environmental Services
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $96,750—$140,000 USD
-- 🕒 **Posted:** 2026-11-14
-
-### [Life Sciences Data Management, Lead (MDM/DGov)](https://www.linkedin.com/jobs/view/4483189006/) — Deloitte
-- 📍 **Location:** Costa Mesa, CA
-- 💰 **Salary:** $134,500 to $265,100
-- 🕒 **Posted:** 2026-11-14
-
-### [Research Associate, Biology](https://www.linkedin.com/jobs/view/4491074157/) — Integrated Biosciences, Inc.
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $60K to $100K
-- 🕒 **Posted:** 2026-11-14
-
-### [Salesforce Life Sciences Senior Manager](https://www.linkedin.com/jobs/view/4437784445/) — Deloitte
-- 📍 **Location:** Costa Mesa, CA
-- 💰 **Salary:** $193,300 to $292,000
-- 🕒 **Posted:** 2026-11-14
-
-### [Lab Assistant - Per Diem, Varied (o)](https://www.linkedin.com/jobs/view/4491062584/) — Temecula Valley Hospital
-- 📍 **Location:** Temecula, CA
-- 🕒 **Posted:** 2026-11-14
-
-### [Travel Clinical Lab Scientist (CLS) - $2,024 per week](https://www.linkedin.com/jobs/view/4491053869/) — Triage Staffing | Healthcare Staffing
-- 📍 **Location:** Eureka, CA
-- 🕒 **Posted:** 2026-11-14
-
-### [Automation Technician](https://www.linkedin.com/jobs/view/4475069126/) — Airgas
-- 📍 **Location:** Anaheim, CA
-- 🕒 **Posted:** 2026-11-14
-
-### [CAD and Methodology Engineer, Silicon](https://www.linkedin.com/jobs/view/4489336387/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $178,000.00/yr - $250,000.00/yr
+### [Research Assistant](https://www.linkedin.com/jobs/view/4489347634/) — Sterling PMC
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-11-14
