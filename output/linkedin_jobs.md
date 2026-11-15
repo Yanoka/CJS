@@ -1,13 +1,8 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-11-15 06:54 UTC*
+*Last updated: 2026-11-15 20:40 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Data Science Engineer [AQ-26629]](https://www.linkedin.com/jobs/view/4488928677/) — Aquent
-- 📍 **Location:** Culver City, CA
-- 💰 **Salary:** $76.00/hr - $85.00/hr
-- 🕒 **Posted:** 2026-11-15
-
-### [Software Engineer (Java, Python)](https://www.linkedin.com/jobs/view/4491231231/) — Torentify
-- 📍 **Location:** United States
+### [SIPR Lead / VMware SME (Subject Matter Expert)](https://www.linkedin.com/jobs/view/4491265462/) — Vision IT
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-11-15
