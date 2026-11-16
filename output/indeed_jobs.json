@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-11-16 00:25 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-16 07:21 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "UCLA Health",
+      "title": "Staff Research Associate 1 - Human Genetics (Limited)",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=6591985ecbee36c2",
+      "direct_url": "https://uclahealth.avature.net/careers/JobDetail?jobId=34000&source=Indeed",
+      "company_url": "https://www.indeed.com/cmp/Ucla-Health",
+      "date_posted": "2026-11-16",
+      "description": "**Description**\n\nUnder the supervision of the Principal Investigator, the Staff Research Associate 1 (SRA 1) will support ongoing research projects involving mammalian cell culture, genome editing, and single-cell genomic approaches. The SRA 1 will be responsible for routine preparation and maintenance of mammalian cell lines and will perform CRISPR/Cas9-mediated gene editing. They will have the opportunity to learn and perform replication-timing labeling experiments and will assist with nuclei isolation from mammalian cell cultures for single-cell experiments. Additional responsibilities include maintaining inventories of reagents, cell lines, and samples used in single-cell experiments and supporting general laboratory operations. Experience with molecular cloning, PCR-based genotyping, RT-PCR, and Western blotting is preferred. Training will be provided for specialized techniques as appropriate.\n\n*This is a limited appointment that may convert to career.*\n\n  \n\nSalary Range: $30.12 - $35.92 Hourly\n\n  \nPay range: $30.12 - $35.92 an hour  \n  \n**Qualifications**\n\n**Required:**\n\n* Bachelor’s degree in biology, molecular biology, genetics, biochemistry, or a related field, and/or equivalent combination of education and experience.\n* Ability to follow established laboratory protocols and perform research procedures accurately and reproducibly.\n* Ability to maintain accurate, organized, and timely laboratory records and sample documentation.\n* Knowledge of basic molecular and cell biology principles and laboratory practices.\n* Ability to work safely with biological and chemical materials and follow laboratory safety procedures.\n* Ability to organize work, manage multiple routine tasks, and meet experimental timelines.\n* Ability to communicate effectively and work collaboratively in a research laboratory environment.\n* Skill in mammalian cell culture and aseptic technique.\n* Skill in RNA analysis, including RT-PCR.\n* Skill in protein analysis, including Western blotting.\n* Basic computer skills for data organization, documentation, and analysis.\n\n**Preferred:**\n\n* Minimum 1 year of related experience or training working in a biological or biomedical research laboratory\n* Experience with mammalian cell culture and/or CRISPR/Cas9 genome editing\n* Experience with molecular cloning, PCR-based genotyping, RT-PCR, and/or Western blotting.\n* Experience preparing cells or nuclei for genomic or single-cell experiments.",
+      "salary": "$30.12–$35.92/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "UCLA Health",
+      "title": "Staff Research Associate 1 - Human Genetics (Limited)",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=6591985ecbee36c2",
+      "direct_url": "https://uclahealth.avature.net/careers/JobDetail?jobId=34000&source=Indeed",
+      "company_url": "https://www.indeed.com/cmp/Ucla-Health",
+      "date_posted": "2026-11-16",
+      "description": "**Description**\n\nUnder the supervision of the Principal Investigator, the Staff Research Associate 1 (SRA 1) will support ongoing research projects involving mammalian cell culture, genome editing, and single-cell genomic approaches. The SRA 1 will be responsible for routine preparation and maintenance of mammalian cell lines and will perform CRISPR/Cas9-mediated gene editing. They will have the opportunity to learn and perform replication-timing labeling experiments and will assist with nuclei isolation from mammalian cell cultures for single-cell experiments. Additional responsibilities include maintaining inventories of reagents, cell lines, and samples used in single-cell experiments and supporting general laboratory operations. Experience with molecular cloning, PCR-based genotyping, RT-PCR, and Western blotting is preferred. Training will be provided for specialized techniques as appropriate.\n\n*This is a limited appointment that may convert to career.*\n\n  \n\nSalary Range: $30.12 - $35.92 Hourly\n\n  \nPay range: $30.12 - $35.92 an hour  \n  \n**Qualifications**\n\n**Required:**\n\n* Bachelor’s degree in biology, molecular biology, genetics, biochemistry, or a related field, and/or equivalent combination of education and experience.\n* Ability to follow established laboratory protocols and perform research procedures accurately and reproducibly.\n* Ability to maintain accurate, organized, and timely laboratory records and sample documentation.\n* Knowledge of basic molecular and cell biology principles and laboratory practices.\n* Ability to work safely with biological and chemical materials and follow laboratory safety procedures.\n* Ability to organize work, manage multiple routine tasks, and meet experimental timelines.\n* Ability to communicate effectively and work collaboratively in a research laboratory environment.\n* Skill in mammalian cell culture and aseptic technique.\n* Skill in RNA analysis, including RT-PCR.\n* Skill in protein analysis, including Western blotting.\n* Basic computer skills for data organization, documentation, and analysis.\n\n**Preferred:**\n\n* Minimum 1 year of related experience or training working in a biological or biomedical research laboratory\n* Experience with mammalian cell culture and/or CRISPR/Cas9 genome editing\n* Experience with molecular cloning, PCR-based genotyping, RT-PCR, and/or Western blotting.\n* Experience preparing cells or nuclei for genomic or single-cell experiments.",
+      "salary": "$30.12–$35.92/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
