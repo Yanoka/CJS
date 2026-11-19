@@ -1,165 +1,206 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-11-18 06:25 UTC*
+*Last updated: 2026-11-19 01:42 UTC*
 
-**34 new role(s)** since last run · 36 total in last 1h
+**44 new role(s)** since last run · 45 total in last 1h
 
-### [German Voice AI Evaluator (Healthcare Conversations) – New York](https://www.linkedin.com/jobs/view/4490845083/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $12.00/hr - $40.00/hr
-- 🕒 **Posted:** 2026-11-18
+### [Senior Data Analyst - Compliance Operations](https://www.linkedin.com/jobs/view/4492239088/) — Exelixis
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $115,000 - $145,000
+- 🕒 **Posted:** 2026-11-19
 
-### [Korean Voice AI Evaluator – Native Speakers Wanted](https://www.linkedin.com/jobs/view/4490838266/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $12.00/hr - $40.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Civil Engineer](https://www.linkedin.com/jobs/view/4490819987/) — Tekflux
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
-
-### [2027 Summer Intern – Translational Safety (Bioinformatics)](https://www.linkedin.com/jobs/view/4491480804/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $47.00-$52.00 per hour
-- 🕒 **Posted:** 2026-11-18
-
-### [Biology Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4490834649/) — Alignerr
-- 📍 **Location:** United States
-- 💰 **Salary:** $75.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Sr Research Associate](https://www.linkedin.com/jobs/view/4491803003/) — Natera
-- 📍 **Location:** San Carlos, CA
-- 💰 **Salary:** $108,600—$135,700 USD
-- 🕒 **Posted:** 2026-11-18
-
-### [Biology Expert or Specialist](https://www.linkedin.com/jobs/view/4490830816/) — Alignerr
-- 📍 **Location:** United States
-- 💰 **Salary:** $40.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Russian Language AI Evaluator – Gmail & Google Workspace (NYC)](https://www.linkedin.com/jobs/view/4490841194/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $15.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Clinical Research Assistant](https://www.linkedin.com/jobs/view/4487047969/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
-
-### [Subject Matter Expert – AI Evaluation | $155/task](https://www.linkedin.com/jobs/view/4491490698/) — Codefeast
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-18
-
-### [Dutch Voice AI Evaluator (Healthcare Conversations)](https://www.linkedin.com/jobs/view/4490845085/) — Alignerr
-- 📍 **Location:** United States
-- 💰 **Salary:** $12.00/hr - $40.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [German Language AI Evaluator – Google Workspace (Remote, NYC)](https://www.linkedin.com/jobs/view/4490834671/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $15.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Nuclear Facility Research Technician](https://www.linkedin.com/jobs/view/4487839099/) — Idaho National Laboratory
-- 📍 **Location:** Idaho Falls, ID
-- 🕒 **Posted:** 2026-11-18
-
-### [Lab Assistant Non Licensed: Pathology](https://www.linkedin.com/jobs/view/4491483909/) — Hoag Health System
-- 📍 **Location:** Newport Beach, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Lab Assistant III - Full Time - Night, 8 hrs](https://www.linkedin.com/jobs/view/4490828674/) — Stanford Health Care
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $37.84 - $42.43 per hour
-- 🕒 **Posted:** 2026-11-18
-
-### [Medical Lab Technician Transfusion Services](https://www.linkedin.com/jobs/view/4491766115/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $32.18/hr - $43.49/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Clinical Research Technician (CPT or MA)](https://www.linkedin.com/jobs/view/4491783864/) — Altasciences
-- 📍 **Location:** Cypress, CA
-- 💰 **Salary:** $19 - $22
-- 🕒 **Posted:** 2026-11-18
-
-### [Cath Lab Assistant: Heart Catherization Lab](https://www.linkedin.com/jobs/view/4491486765/) — Hoag Health System
-- 📍 **Location:** Newport Beach, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [BTIG: Research, Equity Research Associate, Associate (Consumer)](https://www.linkedin.com/jobs/view/4482753329/) — BTIG
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,000.00 - $150,000.00 per year
-- 🕒 **Posted:** 2026-11-18
-
-### [Product Engineer 2 - AI/Data Science](https://www.linkedin.com/jobs/view/4491494552/) — Lam Research
+### [Lead Clinical Lab Scientist (2nd Shift, Tues-Sat)](https://www.linkedin.com/jobs/view/4488080394/) — Personalis, Inc.
 - 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $73,000.00 - $159,000.00
+- 💰 **Salary:** $66.00 to $82.00 per hour
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Laboratory Scientist, Prenatal](https://www.linkedin.com/jobs/view/4492248263/) — BillionToOne
+- 📍 **Location:** Union City, CA
+- 💰 **Salary:** $59.14 - $86.97 per hour
+- 🕒 **Posted:** 2026-11-19
+
+### [Principal Biomedical Engineer](https://www.linkedin.com/jobs/view/4492223972/) — MiniMed
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $153,000.00 - $261,000.00
+- 🕒 **Posted:** 2026-11-19
+
+### [Entry Civil Engineer](https://www.linkedin.com/jobs/view/4492117289/) — SMUD
+- 📍 **Location:** Sacramento County, CA
+- 💰 **Salary:** $110,801.00/yr - $146,785.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Journey Civil Engineer](https://www.linkedin.com/jobs/view/4491898912/) — SMUD
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $131,248.00/yr - $173,888.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Senior Civil Engineer](https://www.linkedin.com/jobs/view/4492114273/) — APWA Inland Empire Branch
+- 📍 **Location:** Rancho Cordova, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Lab Scientist Speclst- Lab POCT Orange- PT Day Shift](https://www.linkedin.com/jobs/view/4492241394/) — UC Irvine
+- 📍 **Location:** Orange County, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Lab Scientist Speclst- Lab POCT Orange- PT Day Shift](https://www.linkedin.com/jobs/view/4492246301/) — UCI Health
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [AI & Data Engineer – Python / FastAPI](https://www.linkedin.com/jobs/view/4492246584/) — Programming.com
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Laboratory Technician](https://www.linkedin.com/jobs/view/4492241145/) — Huntington Health
+- 📍 **Location:** Pasadena, CA
+- 💰 **Salary:** $25.00 - $34.29
+- 🕒 **Posted:** 2026-11-19
+
+### [CLINICAL LAB SCIENTIST -Full Time Varied](https://www.linkedin.com/jobs/view/4492246619/) — UHS
+- 📍 **Location:** Palmdale, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Laboratory Scientist - Data Review](https://www.linkedin.com/jobs/view/4492246724/) — Millennium Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $100,000-108,000
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Laboratory Scientist](https://www.linkedin.com/jobs/view/4492250296/) — Millennium Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $100,00.00 - $108,000.00
+- 🕒 **Posted:** 2026-11-19
+
+### [Accessioning Technician I (Temp), Tues-Sat Mornings](https://www.linkedin.com/jobs/view/4492104526/) — NeoGenomics Laboratories
+- 📍 **Location:** Aliso Viejo, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Lab Scientist - Per Diem Varied](https://www.linkedin.com/jobs/view/4492259145/) — UHS
+- 📍 **Location:** Corona, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Lab Scientist - Per Diem Varies](https://www.linkedin.com/jobs/view/4492241729/) — UHS
+- 📍 **Location:** Corona, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Clinical Lab Scientist - Per Diem Varied](https://www.linkedin.com/jobs/view/4492256262/) — UHS
+- 📍 **Location:** Corona, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Construction Data Analyst](https://www.linkedin.com/jobs/view/4492123056/) — Ironsite
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Remote Medical AI Trainer](https://www.linkedin.com/jobs/view/4492216192/) — Actalent
+- 📍 **Location:** Virginia Beach, VA
+- 💰 **Salary:** $40.00/hr - $125.00/hr
 - 🕒 **Posted:** 2026-11-18
 
-### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4490845405/) — CBRE
+### [Civil Engineer](https://www.linkedin.com/jobs/view/4492219263/) — Redtree
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-11-18
 
-### [Verification CAD Engineer](https://www.linkedin.com/jobs/view/4479088928/) — Sandisk
-- 📍 **Location:** Milpitas, CA
-- 💰 **Salary:** $172,800.00/yr - $293,800.00/yr
+### [Civil Engineer](https://www.linkedin.com/jobs/view/4492042284/) — FINITETEK INC
+- 📍 **Location:** Oregon, United States
+- 💰 **Salary:** $75,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Clinical Lab Scientist](https://www.linkedin.com/jobs/view/4490857006/) — CommonSpirit Health
-- 📍 **Location:** Stockton, CA
-- 💰 **Salary:** $66.98 - $77.62 /hour
+### [Staff Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4469354369/) — Helix
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $146,000.00/yr - $196,000.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Electrical Walkdown/Turnover Subject Matter Expert (SME) (Data Center)](https://www.linkedin.com/jobs/view/4490845639/) — Jacobs
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $140,200.00/yr - $192,800.00/yr
+### [Data Science Analyst II-Pathology, Molecular and Cell Based Medicine](https://www.linkedin.com/jobs/view/4487974195/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $87692 - $131538 Annually
 - 🕒 **Posted:** 2026-11-18
 
-### [Systems Engineer - Model Based System Engineering Specialist](https://www.linkedin.com/jobs/view/4490853212/) — Viasat
+### [RESEARCH ASSISTANT II - Lightner Lab](https://www.linkedin.com/jobs/view/4492221029/) — Scripps Research
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $70,304 to $75,000 per year
+- 🕒 **Posted:** 2026-11-18
+
+### [Data Analyst I (SB)](https://www.linkedin.com/jobs/view/4492096924/) — Goldbelt Professional Services
+- 📍 **Location:** United States
+- 💰 **Salary:** $80,000.00 to $90,000.00 annually
+- 🕒 **Posted:** 2026-11-18
+
+### [RESEARCH DATA ANALYST II](https://www.linkedin.com/jobs/view/4492106011/) — California Department of State Hospitals
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $6,647.00/mo - $8,325.00/mo
+- 🕒 **Posted:** 2026-11-18
+
+### [Analytical Chemistry Laboratory Technician](https://www.linkedin.com/jobs/view/4492212258/) — Kelly Science, Engineering, Technology & Telecom
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $25.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-11-18
+
+### [Research Technician](https://www.linkedin.com/jobs/view/4492111077/) — EMD Electronics
 - 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $120,500.00 - $190,000.00
+- 💰 **Salary:** $26-$41 per hour
 - 🕒 **Posted:** 2026-11-18
 
-### [Electrical Walkdown/Turnover Subject Matter Expert (SME) (Data Center)](https://www.linkedin.com/jobs/view/4490847591/) — Jacobs
-- 📍 **Location:** Duarte, CA
-- 💰 **Salary:** $140,200.00/yr - $192,800.00/yr
+### [Clinical Laboratory Technologist - Clinical Laboratories - Mount Sinai Chelsea - Full Time/Days (10:45am - 7:00pm incl wknds & hol)](https://www.linkedin.com/jobs/view/4491896315/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-18
 
-### [I&C Walkdown/Turnover Subject Matter Expert (SME) (Data Center)](https://www.linkedin.com/jobs/view/4490844717/) — Jacobs
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $140,200.00/yr - $192,800.00/yr
+### [Human Genetics and Genomic Curation Research Assistant (Research Data Assistant)](https://www.linkedin.com/jobs/view/4492218663/) — Indiana University
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $40,000.00 - 46,945.60 per year
 - 🕒 **Posted:** 2026-11-18
 
-### [Clinical Lab Scientist](https://www.linkedin.com/jobs/view/4489663046/) — University of California, San Francisco
+### [Temporary Research Technician - Nasim Lab](https://www.linkedin.com/jobs/view/4491331834/) — University of South Florida
+- 📍 **Location:** Greater Tampa Bay Area
+- 🕒 **Posted:** 2026-11-18
+
+### [Clinical Research Associate](https://www.linkedin.com/jobs/view/4490122211/) — ICON Strategic Solutions
+- 📍 **Location:** Pennsylvania, United States
+- 🕒 **Posted:** 2026-11-18
+
+### [R&D Technician -5203](https://www.linkedin.com/jobs/view/4491898635/) — Ultimate Staffing
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $25.00/hr - $33.00/hr
+- 🕒 **Posted:** 2026-11-18
+
+### [Sr Engineering Specialist Lead - Media Development - Overnight shift](https://www.linkedin.com/jobs/view/4491338587/) — Seagate Technology
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $38.10 - $50.40 /hr
+- 🕒 **Posted:** 2026-11-18
+
+### [Embedded Software Test & Validation Engineer (Python).](https://www.linkedin.com/jobs/view/4492228377/) — 1ST-RECRUIT LLC, An E-Verified Company
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Biomedical Project Manager](https://www.linkedin.com/jobs/view/4491350117/) — Triune Infomatics Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Senior Staff Data Analyst](https://www.linkedin.com/jobs/view/4492227606/) — Intuit
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $102,000 - $138,000
+- 🕒 **Posted:** 2026-11-18
+
+### [Survey CAD Technician (QA)](https://www.linkedin.com/jobs/view/4491899671/) — GeoSearch
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-11-18
+
+### [Lab Manager / Sr. Research Associate](https://www.linkedin.com/jobs/view/4492235478/) — Personalis, Inc.
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $97,500 to $115,000 per year
+- 🕒 **Posted:** 2026-11-18
+
+### [Staff Data Analyst (Contract)](https://www.linkedin.com/jobs/view/4483766086/) — SoFi
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $94.00/hr - $130.00/hr
 - 🕒 **Posted:** 2026-11-18
 
-### [Certified Phlebotomy Technician Lab Assistant II](https://www.linkedin.com/jobs/view/4491812074/) — Sutter Health
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $36.28 to $50.78
+### [Data Analyst jobs in San Francisco, CA (5)](https://www.linkedin.com/jobs/view/4491360254/) — Fortune Jobs AI
+- 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-11-18
 
-### [Laboratory Assistant](https://www.linkedin.com/jobs/view/4490837835/) — CommonSpirit Health
-- 📍 **Location:** San Bernardino, CA
-- 💰 **Salary:** $27.71 - $33.13 /hour
+### [Data Analyst jobs in California (72)](https://www.linkedin.com/jobs/view/4491362204/) — Fortune Jobs AI
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-11-18
 
-### [Sr. Clinical Laboratory Scientist - Per Diem, Evening Shift](https://www.linkedin.com/jobs/view/4490856236/) — Adventist Health
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $52.62 to $72.18
-- 🕒 **Posted:** 2026-11-18
-
-### [CSA Walkdown/Turnover Subject Matter Expert (SME) (Data Center)](https://www.linkedin.com/jobs/view/4490853255/) — Jacobs
-- 📍 **Location:** Duarte, CA
-- 💰 **Salary:** $140,200.00/yr - $192,800.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [CSA Walkdown/Turnover Subject Matter Expert (SME) (Data Center)](https://www.linkedin.com/jobs/view/4490852322/) — Jacobs
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $140,200.00/yr - $192,800.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Civil Engineer](https://www.linkedin.com/jobs/view/4491495792/) — BioSpace
-- 📍 **Location:** Thousand Oaks, CA
+### [Senior Staff Data Analyst](https://www.linkedin.com/jobs/view/4492217857/) — Intuit
+- 📍 **Location:** Culver City, CA
+- 💰 **Salary:** $102,000 - $138,000
 - 🕒 **Posted:** 2026-11-18
