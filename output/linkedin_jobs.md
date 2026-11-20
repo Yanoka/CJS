@@ -1,203 +1,190 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-11-20 02:19 UTC*
+*Last updated: 2026-11-20 07:02 UTC*
 
-**42 new role(s)** since last run · 42 total in last 1h
+**40 new role(s)** since last run · 40 total in last 1h
 
-### [Research Associate](https://www.linkedin.com/jobs/view/4492752321/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $44,985.20 - $66,216.07
+### [Mechanical Engineering Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4492773522/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $35.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-11-20
 
-### [Product Data Science Intern](https://www.linkedin.com/jobs/view/4492517876/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $38 - $44/hour
+### [Computer Engineering Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4492764776/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $35.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-11-20
 
-### [Data Science Leader, B2B Marketing & Demand Generation](https://www.linkedin.com/jobs/view/4492528234/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $459,000.00/yr - $536,000.00/yr
+### [Data Science Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4492774472/) — Alignerr
+- 📍 **Location:** United States
+- 💰 **Salary:** $40.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-11-20
 
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492519910/) — HDR
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $116,480 - $191,360
+### [Civil Engineering Intern- Summer 2027](https://www.linkedin.com/jobs/view/4492759867/) — WSP in the U.S.
+- 📍 **Location:** Onalaska, WI
 - 🕒 **Posted:** 2026-11-20
 
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492527567/) — HDR
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492525836/) — HDR
-- 📍 **Location:** Walnut Creek, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492537243/) — HDR
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492541049/) — HDR
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492539141/) — HDR
-- 📍 **Location:** Riverside, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492535259/) — HDR
-- 📍 **Location:** Claremont, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492529371/) — HDR
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492524797/) — HDR
-- 📍 **Location:** Folsom, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492527576/) — HDR
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Dam Safety Engineer/ Subject Matter Expert](https://www.linkedin.com/jobs/view/4492523803/) — HDR
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $116,480 - $191,360
-- 🕒 **Posted:** 2026-11-20
-
-### [Genomics Research Associate](https://www.linkedin.com/jobs/view/4492534319/) — Proclinical Consulting
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $45.00 - $55.00 Per Hour
-- 🕒 **Posted:** 2026-11-20
-
-### [Research Associate II](https://www.linkedin.com/jobs/view/4492525878/) — Veterans Medical Research Foundation
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $23.00 - $29.00 per hour
-- 🕒 **Posted:** 2026-11-20
-
-### [German Language AI Evaluator – Google Workspace (Remote, NYC)](https://www.linkedin.com/jobs/view/4490834671/) — Alignerr
+### [Computer Engineering Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4492773583/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $15.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-11-19
+- 💰 **Salary:** $35.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-11-20
 
-### [Bioinformatics Programmer](https://www.linkedin.com/jobs/view/4491659231/) — University of California, Davis
-- 📍 **Location:** Davis, CA
-- 💰 **Salary:** $3,809.60 - $7,132.80
-- 🕒 **Posted:** 2026-11-19
+### [Data Science Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4492772620/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $40.00/hr - $80.00/hr
+- 🕒 **Posted:** 2026-11-20
 
-### [Staff Civil Engineer - Mission Critical - Kansas City](https://www.linkedin.com/jobs/view/4492514641/) — Burns & McDonnell
-- 📍 **Location:** Kansas City, MO
-- 🕒 **Posted:** 2026-11-19
+### [Biology Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4492765810/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $75.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-11-20
 
-### [Bioinformatics Operations Specialist](https://www.linkedin.com/jobs/view/4491667102/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-19
+### [Research Assistant I - Neurosciences](https://www.linkedin.com/jobs/view/4492536725/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $17 - $22 Hourly
+- 🕒 **Posted:** 2026-11-20
 
-### [Data Science Intern (Graduate - Summer)](https://www.linkedin.com/jobs/view/4492742293/) — Centene Corporation
-- 📍 **Location:** Missouri, United States
-- 🕒 **Posted:** 2026-11-19
+### [Biology Subject Matter Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4492775480/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $35.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-11-20
 
-### [Bioinformatics Operations Specialist](https://www.linkedin.com/jobs/view/4491667115/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-19
+### [Clinical Lab Technician - Entry level, will train!](https://www.linkedin.com/jobs/view/4492784183/) — Labcorp
+- 📍 **Location:** Calabasas, CA
+- 💰 **Salary:** $24.00- $30.00 per hour
+- 🕒 **Posted:** 2026-11-20
 
-### [RESEARCH ASSISTANT III- Zwick Lab](https://www.linkedin.com/jobs/view/4492726778/) — Scripps Research
+### [Clinical Laboratory Technologist - Microbiology](https://www.linkedin.com/jobs/view/4492778273/) — Labcorp
+- 📍 **Location:** Dublin, OH
+- 💰 **Salary:** $25.85 – $35.00
+- 🕒 **Posted:** 2026-11-20
+
+### [Current Department Employees: Clinical Laboratory Scientist Technical Specialist](https://www.linkedin.com/jobs/view/4492776545/) — Tahoe Forest Health System
+- 📍 **Location:** Truckee, CA
+- 🕒 **Posted:** 2026-11-20
+
+### [Research Associate I/II, In Vivo Pharmacology (Contractor)](https://www.linkedin.com/jobs/view/4492784078/) — Vividion Therapeutics, Inc.
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $72,384 - $84,375 per year
-- 🕒 **Posted:** 2026-11-19
+- 💰 **Salary:** $33.00 to $38.00
+- 🕒 **Posted:** 2026-11-20
 
-### [Research Associate II, Protein Engineering](https://www.linkedin.com/jobs/view/4492519397/) — Xaira Therapeutics
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $103,000 - $126,500 annually
-- 🕒 **Posted:** 2026-11-19
+### [Lab Assistant - Phlebotomist - West Hospital - PRN](https://www.linkedin.com/jobs/view/4491698003/) — Bon Secours Mercy Health
+- 📍 **Location:** Ohio, United States
+- 🕒 **Posted:** 2026-11-20
 
-### [RESEARCH ASSISTANT II - Lightner Lab](https://www.linkedin.com/jobs/view/4492221029/) — Scripps Research
+### [Lab Assistant I- Temp to hire](https://www.linkedin.com/jobs/view/4491695218/) — Natera
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $18.33—$25 USD
+- 🕒 **Posted:** 2026-11-20
+
+### [Research Assistant I-Psychiatry](https://www.linkedin.com/jobs/view/4492528929/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $17 - $22 Hourly
+- 🕒 **Posted:** 2026-11-20
+
+### [Laboratory Technician](https://www.linkedin.com/jobs/view/4492779375/) — DCS Corp
+- 📍 **Location:** Ridgecrest, CA
+- 💰 **Salary:** $70,310 - $82,500
+- 🕒 **Posted:** 2026-11-20
+
+### [Clinical Lab Technician - Entry level, will train!](https://www.linkedin.com/jobs/view/4492786103/) — Labcorp
+- 📍 **Location:** Calabasas, CA
+- 💰 **Salary:** $24.00- $30.00 per hour
+- 🕒 **Posted:** 2026-11-20
+
+### [Data Analyst - Entry Level (Remote)](https://www.linkedin.com/jobs/view/4492794039/) — Torentify
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-11-20
+
+### [Electrical Engineering Specialist](https://www.linkedin.com/jobs/view/4492786192/) — Rolls-Royce
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $122,741 - $199,454
+- 🕒 **Posted:** 2026-11-20
+
+### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4492552227/) — Neurocrine Biosciences
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $70,304 to $75,000 per year
-- 🕒 **Posted:** 2026-11-19
+- 💰 **Salary:** $97,000.00-$133,000.00
+- 🕒 **Posted:** 2026-11-20
 
-### [Bioinformatics, Field Applications Scientist](https://www.linkedin.com/jobs/view/4492516522/) — Oxford Nanopore Technologies
-- 📍 **Location:** United States
-- 💰 **Salary:** $97,479 to $121,849,
-- 🕒 **Posted:** 2026-11-19
+### [Protein Bioinformatics - Postdoctoral Researcher](https://www.linkedin.com/jobs/view/4492783398/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $122,028 - $143,328 Annually
+- 🕒 **Posted:** 2026-11-20
 
-### [Program Manager, Life Sciences](https://www.linkedin.com/jobs/view/4490143649/) — Smartling
-- 📍 **Location:** United States
-- 💰 **Salary:** $80,000-$120,000
-- 🕒 **Posted:** 2026-11-19
+### [Staff Research Associate 2 - Transplant Surgery (Limited)](https://www.linkedin.com/jobs/view/4492798107/) — University of California, San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-20
 
-### [Research Associate](https://www.linkedin.com/jobs/view/4491660493/) — SRI
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-11-19
+### [Python - Senior GenAI Engineer](https://www.linkedin.com/jobs/view/4492556199/) — DigitalT3
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-11-20
 
-### [Domain Expert, AI Evaluation (US)](https://www.linkedin.com/jobs/view/4492736358/) — Handshake AI Fellowship
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-19
+### [Nondestructive Assay Subject Matter Expert and Analyst](https://www.linkedin.com/jobs/view/4492785424/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $175,530 - $267,060 Annually
+- 🕒 **Posted:** 2026-11-20
 
-### [Laboratory Technician I - GC SVOA (M-F 11a-8p shift) Eurofins Environment Testing Southwest - Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4492732739/) — Eurofins
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $18.00 - $22.00 per hour
-- 🕒 **Posted:** 2026-11-19
+### [Hospital Lab Technician 1](https://www.linkedin.com/jobs/view/4492780627/) — University of California, San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-20
 
-### [Life Science Technician I – Transgenic Echinoderm Facility](https://www.linkedin.com/jobs/view/4492750210/) — Stanford University
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Certified Phlebotomy Technician Lab Assistant II](https://www.linkedin.com/jobs/view/4492524512/) — Sutter Health
+### [Clinical Lab Scientist - Per Diem Days](https://www.linkedin.com/jobs/view/4492745559/) — UCSF Health
 - 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $34.55 to $48.36
-- 🕒 **Posted:** 2026-11-19
+- 🕒 **Posted:** 2026-11-20
 
-### [Clinical Laboratory Technologist - FISH Dry Lab, Remote](https://www.linkedin.com/jobs/view/4492528140/) — NeoGenomics Laboratories
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-19
+### [HPE Labs – Business Analyst Intern – AI and Data Science](https://www.linkedin.com/jobs/view/4492796272/) — Hewlett Packard Enterprise
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-11-20
 
-### [Life Science Research Professional 1](https://www.linkedin.com/jobs/view/4492739627/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-11-19
+### [Data Science Engineer [AQ-27338]](https://www.linkedin.com/jobs/view/4490896254/) — Aquent
+- 📍 **Location:** Culver City, CA
+- 💰 **Salary:** $76.00/hr - $85.00/hr
+- 🕒 **Posted:** 2026-11-20
 
-### [Research Associate - CBP Ning Wang Lab](https://www.linkedin.com/jobs/view/4492734311/) — University of Kansas Medical Center
-- 📍 **Location:** Kansas City, KS
-- 💰 **Salary:** $24.71 - $35.82
-- 🕒 **Posted:** 2026-11-19
+### [Clinical Laboratory Scientist (Technical Specialist)](https://www.linkedin.com/jobs/view/4492788382/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $135,340.00/yr - $175,945.00/yr
+- 🕒 **Posted:** 2026-11-20
 
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4492518695/) — Sutter Health
-- 📍 **Location:** Modesto, CA
-- 💰 **Salary:** $27.98 to $39.17
-- 🕒 **Posted:** 2026-11-19
+### [Remote Full Stack Developer - Python/Typescript](https://www.linkedin.com/jobs/view/4492555422/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-20
 
-### [Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4492745519/) — Eurofins
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $18 - $22 per hour
-- 🕒 **Posted:** 2026-11-19
-
-### [Laboratory Assistant - Outpatient Blood Draw - Full Time 8 Hours Day (Non-Exempt) (Union)](https://www.linkedin.com/jobs/view/4492736850/) — Keck Medicine of USC
+### [Pharmacy Program Coordinator - Data Analyst](https://www.linkedin.com/jobs/view/4491900071/) — Cedars-Sinai
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $23.92 - $40.66
-- 🕒 **Posted:** 2026-11-19
+- 💰 **Salary:** $78.86/hr - $126.18/hr
+- 🕒 **Posted:** 2026-11-20
 
-### [Research Lab Technician II](https://www.linkedin.com/jobs/view/4492736851/) — University of Southern California
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-19
+### [Remote Python/Typescript Engineer](https://www.linkedin.com/jobs/view/4492557370/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-20
 
-### [Research Assistant II](https://www.linkedin.com/jobs/view/4489105476/) — Hospital for Special Surgery
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $27.47 - $41.90
-- 🕒 **Posted:** 2026-11-19
+### [Remote Python/Typescript Full Stack Engineer](https://www.linkedin.com/jobs/view/4492563193/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-20
 
-### [Research Assistant, Environmental Science](https://www.linkedin.com/jobs/view/4492730992/) — Barnard College
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-19
+### [PCR Laboratory Technician](https://www.linkedin.com/jobs/view/4492784542/) — IDEXX
+- 📍 **Location:** West Sacramento, CA
+- 🕒 **Posted:** 2026-11-20
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4492532014/) — NYU Langone Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $66,300.00 - $85,000.00 Annually
-- 🕒 **Posted:** 2026-11-19
+### [Lab Technician - Quality Control](https://www.linkedin.com/jobs/view/4492789390/) — Clark Pacific
+- 📍 **Location:** Adelanto, CA
+- 🕒 **Posted:** 2026-11-20
+
+### [Senior Research Associate, Protein Production](https://www.linkedin.com/jobs/view/4492786470/) — Quantum-Si
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $82,000 - $110,000
+- 🕒 **Posted:** 2026-11-20
+
+### [Clinical Laboratory Scientist](https://www.linkedin.com/jobs/view/4492564220/) — Kaiser Permanente
+- 📍 **Location:** Richmond, CA
+- 💰 **Salary:** $69.64/hr - $72.37/hr
+- 🕒 **Posted:** 2026-11-20
+
+### [Senior Clinical Laboratory Scientist](https://www.linkedin.com/jobs/view/4492568012/) — Kaiser Permanente
+- 📍 **Location:** Richmond, CA
+- 💰 **Salary:** $72.37/hr - $81.19/hr
+- 🕒 **Posted:** 2026-11-20
+
+### [Remote Software Engineer - Python/Typescript](https://www.linkedin.com/jobs/view/4492567045/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-20
