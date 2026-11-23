@@ -1,39 +1,17 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-11-22 08:54 UTC*
+*Last updated: 2026-11-23 02:52 UTC*
 
-**5 new role(s)** since last run · 5 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [Laboratory Technician I](https://www.indeed.com/viewjob?jk=3839f41507582c50) — South Tahoe Public Utility District
-- 📍 **Location:** South Lake Tahoe, CA, USA
-- 💰 **Salary:** $43.39/hr
+### [Laboratory Technician Senior](https://www.indeed.com/viewjob?jk=ee9bad97aea20ac6) — CommonSpirit Health
+- 📍 **Location:** Redwood City, CA, USA
+- 💰 **Salary:** $35.30–$43.43/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
+- 🕒 **Posted:** 2026-11-22
 
-### [Denture Lab Technician - Digital Trainee](https://www.indeed.com/viewjob?jk=f3eb2ec42cac3a67) — Aspen Dental
-- 📍 **Location:** Stockton, CA, USA
-- 💰 **Salary:** $18–$23/hr
+### [Clinical Research Associate Medical Device](https://www.indeed.com/viewjob?jk=fdedeb06d61c5488) — Bracane Company
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $65–$75/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
-
-### [Clinical Lab Technician - Sequenom](https://www.indeed.com/viewjob?jk=fb7952f92768f2b6) — Labcorp
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $21–$23/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
-
-### [Associate Laboratory Assistant - Clinical Laboratory](https://www.indeed.com/viewjob?jk=6635eee332a2d9c3) — Providence
-- 📍 **Location:** Apple Valley, CA, USA
-- 💰 **Salary:** $25–$29.19/hr
-- **Work mode:** On-site
-- **Job type:** perdiem
-- 🕒 **Posted:** 2026-11-21
-
-### [Senior Laboratory Assistant - Clinical Laboratory](https://www.indeed.com/viewjob?jk=c32c2fb472cb67d9) — Providence
-- 📍 **Location:** Fullerton, CA, USA
-- 💰 **Salary:** $25–$37.98/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-11-22
