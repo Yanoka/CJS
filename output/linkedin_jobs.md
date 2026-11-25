@@ -1,121 +1,137 @@
 # 🔥 LinkedIn — Yanoka Job Radar Roles
-*Last updated: 2026-11-25 02:20 UTC*
+*Last updated: 2026-11-25 11:52 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**28 new role(s)** since last run · 28 total in last 1h
 
-### [Principal Solutions Architect, Healthcare & Life Sciences AI/ML & Data Strategy Specialists](https://www.linkedin.com/jobs/view/4494455472/) — Amazon Web Services (AWS)
-- 📍 **Location:** Irvine, CA
+### [Remote Biology Expert (PhD)](https://www.linkedin.com/jobs/view/4494791584/) — Turing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-25
 
-### [Python Developer](https://www.linkedin.com/jobs/view/4494760384/) — Talemexa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-25
-
-### [Laboratory Technician](https://www.linkedin.com/jobs/view/4494434862/) — IDEXX
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [PCR Laboratory Technician](https://www.linkedin.com/jobs/view/4494433913/) — IDEXX
-- 📍 **Location:** West Sacramento, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4494445697/) — Eurofins Environment Testing (USA)
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $18 - $22 per hour
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Laboratory Assistant - Pathology](https://www.linkedin.com/jobs/view/4494752889/) — Providence
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $25.00/hr - $37.98/hr
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Laboratory Assistant](https://www.linkedin.com/jobs/view/4494761463/) — Providence
-- 📍 **Location:** Fullerton, CA
-- 💰 **Salary:** $25.00/hr - $37.98/hr
-- 🕒 **Posted:** 2026-11-25
-
-### [Phlebotomist And Laboratory Technician](https://www.linkedin.com/jobs/view/4493064529/) — Shree Umiya Pathology Laboratory
+### [Remote Biology Expert (PhD)](https://www.linkedin.com/jobs/view/4494902077/) — Turing
 - 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-11-25
 
-### [Clinical Laboratory Scientist - PMOB Clinical Lab - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4493954199/) — Keck Medicine of USC
-- 📍 **Location:** Pasadena, CA
-- 💰 **Salary:** $47.84 - $79.11
-- 🕒 **Posted:** 2026-11-25
-
-### [Research Associate](https://www.linkedin.com/jobs/view/4494767339/) — The University of North Carolina at Chapel Hill
-- 📍 **Location:** North Carolina, United States
-- 💰 **Salary:** $62,115- $65,000
-- 🕒 **Posted:** 2026-11-25
-
-### [Research Associate I/II - Molecular and Cellular Pharmacology](https://www.linkedin.com/jobs/view/4494770317/) — Encoded Therapeutics Inc.
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $75,000.00/yr - $96,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Robotics Research Associate](https://www.linkedin.com/jobs/view/4494766472/) — Plasmidsaurus
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Research Assistant](https://www.linkedin.com/jobs/view/4494443631/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $18.51 - $28.21
-- 🕒 **Posted:** 2026-11-24
-
-### [GIS - Data Analyst 2](https://www.linkedin.com/jobs/view/4494443261/) — Apex Companies
-- 📍 **Location:** Thousand Oaks, CA
-- 💰 **Salary:** $72,000 USD - $85,000 USD
-- 🕒 **Posted:** 2026-11-24
-
-### [GIS - Data Analyst 2](https://www.linkedin.com/jobs/view/4494446201/) — Apex Companies
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $72,000 USD - $85,000 USD
-- 🕒 **Posted:** 2026-11-24
-
-### [GIS - Data Analyst 2](https://www.linkedin.com/jobs/view/4494429809/) — Apex Companies
-- 📍 **Location:** Signal Hill, CA
-- 💰 **Salary:** $72,000 USD - $85,000 USD
-- 🕒 **Posted:** 2026-11-24
-
-### [Civil Engineering Lead](https://www.linkedin.com/jobs/view/4493057448/) — Concept Plus, LLC
+### [AI Trainer | $15/hr Remote](https://www.linkedin.com/jobs/view/4494783716/) — Crossing Hurdles
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-11-24
+- 💰 **Salary:** $15.00/yr - $15.00/yr
+- 🕒 **Posted:** 2026-11-25
 
-### [Data Analyst 1](https://www.linkedin.com/jobs/view/4494754146/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $70,304.00 - $117,000.00
-- 🕒 **Posted:** 2026-11-24
+### [Remote Quality Improvement Data Analyst](https://www.linkedin.com/jobs/view/4493404141/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $70,823.00/yr - $106,234.00/yr
+- 🕒 **Posted:** 2026-11-25
 
-### [R&D Laboratory Technician](https://www.linkedin.com/jobs/view/4494447403/) — Eurofins
-- 📍 **Location:** Davis, CA
-- 💰 **Salary:** $25.00-$30.00 per hour
-- 🕒 **Posted:** 2026-11-24
+### [Remote Biology Expert (PhD)](https://www.linkedin.com/jobs/view/4494795422/) — Turing
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-11-25
 
-### [Laboratory Technician I - IC/HPLC Prep, (TU- SA, 1pm - 10pm) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4494450245/) — Eurofins Environment Testing (USA)
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $18- $22 per hour
-- 🕒 **Posted:** 2026-11-24
+### [Real World Data Analyst](https://www.linkedin.com/jobs/view/4494793546/) — Remote Hunter
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-11-25
 
-### [Quality Control Technician I - Sample Management](https://www.linkedin.com/jobs/view/4494447330/) — Catalent
-- 📍 **Location:** Kansas City, MO
-- 🕒 **Posted:** 2026-11-24
+### [Data Analyst- REMOTE](https://www.linkedin.com/jobs/view/4494900082/) — Remote Hunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $94,919 to $134,919 annually
+- 🕒 **Posted:** 2026-11-25
 
-### [Laboratory Assistant](https://www.linkedin.com/jobs/view/4494442627/) — NEW ENGLAND TISSUE ISSUE, INC.
-- 📍 **Location:** Rhode Island, United States
-- 🕒 **Posted:** 2026-11-24
+### [Research Associate, Cell Biology - Biomarker Operations](https://www.linkedin.com/jobs/view/4486303696/) — Gilead Sciences
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $74,715.00 - $96,690.00
+- 🕒 **Posted:** 2026-11-25
 
-### [Laboratory Technician I - Organic Prep (M-F, 1p-10p) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4494447304/) — Eurofins
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $18 - $22 per hour
-- 🕒 **Posted:** 2026-11-24
+### [SENIOR ECONOMIC DATA ANALYST](https://www.linkedin.com/jobs/view/4494793613/) — Remote Hunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $56,098 to $95,000
+- 🕒 **Posted:** 2026-11-25
 
-### [Laboratory Technician I - Organic Prep (M-F, 1p-10p) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://www.linkedin.com/jobs/view/4494436265/) — Valley Medical Center & Clinics
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $18 - $22 per hour
-- 🕒 **Posted:** 2026-11-24
+### [Sell Side Research Associate, Travel, Leisure, & Transportation](https://www.linkedin.com/jobs/view/4485041182/) — Susquehanna International Group
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000 - $175,000
+- 🕒 **Posted:** 2026-11-25
 
-### [Certified Phlebotomy Technician (CPT) Laboratory Assistant II](https://www.linkedin.com/jobs/view/4494752305/) — Sutter Health
-- 📍 **Location:** Fairfield, CA
-- 💰 **Salary:** $33.78 to $47.29
-- 🕒 **Posted:** 2026-11-24
+### [Head of Technology and AI Innovation - Life Sciences](https://www.linkedin.com/jobs/view/4487061041/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $191,100 - $320,600 annually
+- 🕒 **Posted:** 2026-11-25
+
+### [AI and Data Science Engineer III - Marketing Measurement](https://www.linkedin.com/jobs/view/4487223722/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $113,300 to $188,900
+- 🕒 **Posted:** 2026-11-25
+
+### [MDM Subject Matter Expert - Remote (San Francisco Bay Area)](https://www.linkedin.com/jobs/view/4494791792/) — Jobgether
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-25
+
+### [Salesforce Life Sciences Technical Lead](https://www.linkedin.com/jobs/view/4487227539/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $134,000 - $265,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Salesforce Life Sciences Technical Lead](https://www.linkedin.com/jobs/view/4487218881/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $134,000 - $265,000
+- 🕒 **Posted:** 2026-11-25
+
+### [AI and Data Science Engineer III - Marketing Measurement](https://www.linkedin.com/jobs/view/4487215908/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $113,300 to $188,900
+- 🕒 **Posted:** 2026-11-25
+
+### [Testing and Evaluation Subject Matter Expert - Remote (San Francisco Bay Area)](https://www.linkedin.com/jobs/view/4494789928/) — Jobgether
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $140,000–$160,000,
+- 🕒 **Posted:** 2026-11-25
+
+### [AI and Data Science Engineer III - Marketing Measurement](https://www.linkedin.com/jobs/view/4487223720/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $113,300 to $188,900
+- 🕒 **Posted:** 2026-11-25
+
+### [AI and Data Science Engineer III - Marketing Measurement](https://www.linkedin.com/jobs/view/4487229478/) — Deloitte
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $113,300 to $188,900
+- 🕒 **Posted:** 2026-11-25
+
+### [Product Manager Lead, Co-Scientist for Healthcare and Life Sciences](https://www.linkedin.com/jobs/view/4494794832/) — Google
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $240000 - $333000
+- 🕒 **Posted:** 2026-11-25
+
+### [ASIC CAD IP Engineer, Cloud TPU](https://www.linkedin.com/jobs/view/4494791972/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $138000 - $197000
+- 🕒 **Posted:** 2026-11-25
+
+### [Salesforce Life Sciences Technical Lead](https://www.linkedin.com/jobs/view/4487232232/) — Deloitte
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $134,000 - $265,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Grad Intern - siRNA Stability and Data Science (Summer 2027)](https://www.linkedin.com/jobs/view/4494608856/) — Amgen
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $35.34 - $41.20 per hour
+- 🕒 **Posted:** 2026-11-25
+
+### [Quality Control Technician](https://www.linkedin.com/jobs/view/4486314791/) — Skild AI
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $70,000 USD - $150,000 USD
+- 🕒 **Posted:** 2026-11-25
+
+### [Sr. Electronics Lab Technician III](https://www.linkedin.com/jobs/view/4478186159/) — Rivian
+- 📍 **Location:** Torrance, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [MultiUse Lab Assistant Supervisor (Spectrum Center)](https://www.linkedin.com/jobs/view/4469065774/) — National University
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $20.00 - $25.77
+- 🕒 **Posted:** 2026-11-25
+
+### [Manager, CAD & Design Systems](https://www.linkedin.com/jobs/view/4477589576/) — Mainspring Energy
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $180,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Business Development Manager (Life Sciences) – (Southern, CA)](https://www.linkedin.com/jobs/view/4485005687/) — Planet Pharma
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-11-25
