@@ -1,17 +1,31 @@
 # 🟦 Indeed — Yanoka Job Radar Roles
-*Last updated: 2026-11-23 02:52 UTC*
+*Last updated: 2026-11-28 05:01 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**4 new role(s)** since last run · 4 total in last 24h
 
-### [Laboratory Technician Senior](https://www.indeed.com/viewjob?jk=ee9bad97aea20ac6) — CommonSpirit Health
-- 📍 **Location:** Redwood City, CA, USA
-- 💰 **Salary:** $35.30–$43.43/hr
+### [Data Science Manager, Gen AI - SFL Scientific](https://www.indeed.com/viewjob?jk=cdd0e89ae7186787) — Deloitte
+- 📍 **Location:** El Segundo, CA, USA
+- 💰 **Salary:** $156k–$307k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-22
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-27
 
-### [Clinical Research Associate Medical Device](https://www.indeed.com/viewjob?jk=fdedeb06d61c5488) — Bracane Company
+### [QA Lab Technician](https://www.indeed.com/viewjob?jk=c48d755f86f643ac) — Wilbur Packing Compamy
+- 📍 **Location:** Live Oak, CA, USA
+- 💰 **Salary:** $18/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-28
+
+### [Le Labo Fragrances - Full-Time Lab Technician - Abbot Kinney - Venice, CA](https://www.indeed.com/viewjob?jk=7ed37fdc73751c13) — The Estée Lauder Companies
 - 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $65–$75/hr
 - **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-11-22
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-27
+
+### [Research Associate](https://www.indeed.com/viewjob?jk=58583aaa95b544d5) — Strata Mine Technologies Corp.
+- 📍 **Location:** Sacramento, CA, USA
+- 💰 **Salary:** $20/hr
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-27
